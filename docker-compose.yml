@@ -1,0 +1,54 @@
+version: "3.9"
+
+services:
+  proxy:
+    build:
+      context: ./proxy
+      dockerfile: Dockerfile
+    command: --symbol BTCUSDT --depth 20 --out tcp://0.0.0.0:5555
+    ports:
+      - "5555:5555"
+    restart: unless-stopped
+
+  detector:
+    build:
+      context: ./ml
+      dockerfile: Dockerfile
+    command: >
+      python -m flash_crash_watchdog.cli live
+      --symbol BTCUSDT
+      --source tcp://proxy:5555
+    depends_on:
+      - proxy
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+      - ./configs:/app/configs
+    restart: unless-stopped
+
+  dashboard:
+    build:
+      context: ./dashboard
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - detector
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./configs/prometheus.yml:/etc/prometheus/prometheus.yml
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - "3001:3000"
+    depends_on:
+      - prometheus
+    restart: unless-stopped

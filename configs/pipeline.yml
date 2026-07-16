@@ -1,0 +1,37 @@
+# Pipeline configuration — 5-stage detection cascade
+# Used by: python -m flash_crash_watchdog.cli live --config configs/pipeline.yml
+
+stage1:
+  velocity_z_threshold: 3.0
+  spread_z_threshold: 3.0
+  obi_z_threshold: 2.5
+  baseline_window: 1000
+
+stage2:
+  n_estimators: 100
+  contamination: 0.05
+
+stage3:
+  num_channels: [64, 64, 64, 64, 64, 64, 64, 64]
+  kernel_size: 3
+  input_dim: 17
+  dropout: 0.1
+  sequence_length: 500
+
+stage4:
+  num_symbols: 20
+  feature_dim: 32
+  num_heads: 8
+  num_layers: 6
+  seq_len: 128
+  dropout: 0.1
+  market_context: true
+
+stage5:
+  alert_threshold: 0.7
+  stage2_weight: 0.25
+  stage3_weight: 0.45
+  stage4_weight: 0.30
+  stage2_confidence: 0.85
+  stage3_confidence: 0.90
+  stage4_confidence: 0.80

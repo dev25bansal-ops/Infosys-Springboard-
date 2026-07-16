@@ -1,0 +1,58 @@
+# Data
+data/
+*.parquet
+*.csv
+*.zip
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Rust
+proxy/target/
+**/*.rs.bk
+
+# Node
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+dashboard/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Models (trained artifacts)
+*.pt
+*.pth
+*.onnx
+*.joblib
+!configs/*.yml
+
+# Logs
+*.log
+logs/
