@@ -1,0 +1,6002 @@
+[
+  {
+    "buySellRatio": "0.4399",
+    "sellVol": "197.1760",
+    "buyVol": "86.7380",
+    "timestamp": 1783805400000
+  },
+  {
+    "buySellRatio": "0.7782",
+    "sellVol": "93.0250",
+    "buyVol": "72.3960",
+    "timestamp": 1783806300000
+  },
+  {
+    "buySellRatio": "1.0055",
+    "sellVol": "221.6060",
+    "buyVol": "222.8270",
+    "timestamp": 1783807200000
+  },
+  {
+    "buySellRatio": "0.8691",
+    "sellVol": "419.1090",
+    "buyVol": "364.2570",
+    "timestamp": 1783808100000
+  },
+  {
+    "buySellRatio": "0.5120",
+    "sellVol": "299.3210",
+    "buyVol": "153.2380",
+    "timestamp": 1783809000000
+  },
+  {
+    "buySellRatio": "0.7142",
+    "sellVol": "311.4110",
+    "buyVol": "222.4160",
+    "timestamp": 1783809900000
+  },
+  {
+    "buySellRatio": "0.7002",
+    "sellVol": "324.6780",
+    "buyVol": "227.3240",
+    "timestamp": 1783810800000
+  },
+  {
+    "buySellRatio": "0.7293",
+    "sellVol": "1755.9790",
+    "buyVol": "1280.6080",
+    "timestamp": 1783811700000
+  },
+  {
+    "buySellRatio": "0.7683",
+    "sellVol": "801.9450",
+    "buyVol": "616.1590",
+    "timestamp": 1783812600000
+  },
+  {
+    "buySellRatio": "0.9011",
+    "sellVol": "662.1200",
+    "buyVol": "596.6690",
+    "timestamp": 1783813500000
+  },
+  {
+    "buySellRatio": "0.8713",
+    "sellVol": "661.4290",
+    "buyVol": "576.3000",
+    "timestamp": 1783814400000
+  },
+  {
+    "buySellRatio": "1.7893",
+    "sellVol": "412.6790",
+    "buyVol": "738.4050",
+    "timestamp": 1783815300000
+  },
+  {
+    "buySellRatio": "0.8374",
+    "sellVol": "955.7710",
+    "buyVol": "800.3170",
+    "timestamp": 1783816200000
+  },
+  {
+    "buySellRatio": "1.5452",
+    "sellVol": "263.6620",
+    "buyVol": "407.4210",
+    "timestamp": 1783817100000
+  },
+  {
+    "buySellRatio": "1.2727",
+    "sellVol": "346.8260",
+    "buyVol": "441.4070",
+    "timestamp": 1783818000000
+  },
+  {
+    "buySellRatio": "0.7995",
+    "sellVol": "336.4200",
+    "buyVol": "268.9790",
+    "timestamp": 1783818900000
+  },
+  {
+    "buySellRatio": "1.7066",
+    "sellVol": "509.4970",
+    "buyVol": "869.5060",
+    "timestamp": 1783819800000
+  },
+  {
+    "buySellRatio": "0.8496",
+    "sellVol": "380.8710",
+    "buyVol": "323.5990",
+    "timestamp": 1783820700000
+  },
+  {
+    "buySellRatio": "0.5098",
+    "sellVol": "459.8630",
+    "buyVol": "234.4300",
+    "timestamp": 1783821600000
+  },
+  {
+    "buySellRatio": "1.1604",
+    "sellVol": "187.5620",
+    "buyVol": "217.6410",
+    "timestamp": 1783822500000
+  },
+  {
+    "buySellRatio": "0.4052",
+    "sellVol": "244.8450",
+    "buyVol": "99.2030",
+    "timestamp": 1783823400000
+  },
+  {
+    "buySellRatio": "1.1053",
+    "sellVol": "144.8330",
+    "buyVol": "160.0780",
+    "timestamp": 1783824300000
+  },
+  {
+    "buySellRatio": "0.9620",
+    "sellVol": "174.6720",
+    "buyVol": "168.0260",
+    "timestamp": 1783825200000
+  },
+  {
+    "buySellRatio": "1.1896",
+    "sellVol": "176.6500",
+    "buyVol": "210.1380",
+    "timestamp": 1783826100000
+  },
+  {
+    "buySellRatio": "1.7789",
+    "sellVol": "277.4800",
+    "buyVol": "493.6170",
+    "timestamp": 1783827000000
+  },
+  {
+    "buySellRatio": "1.9022",
+    "sellVol": "220.8200",
+    "buyVol": "420.0390",
+    "timestamp": 1783827900000
+  },
+  {
+    "buySellRatio": "1.2909",
+    "sellVol": "269.1600",
+    "buyVol": "347.4670",
+    "timestamp": 1783828800000
+  },
+  {
+    "buySellRatio": "0.5630",
+    "sellVol": "327.3760",
+    "buyVol": "184.3000",
+    "timestamp": 1783829700000
+  },
+  {
+    "buySellRatio": "0.7204",
+    "sellVol": "502.0220",
+    "buyVol": "361.6410",
+    "timestamp": 1783830600000
+  },
+  {
+    "buySellRatio": "0.8325",
+    "sellVol": "276.5960",
+    "buyVol": "230.2630",
+    "timestamp": 1783831500000
+  },
+  {
+    "buySellRatio": "0.9892",
+    "sellVol": "112.9580",
+    "buyVol": "111.7410",
+    "timestamp": 1783832400000
+  },
+  {
+    "buySellRatio": "0.4429",
+    "sellVol": "645.3240",
+    "buyVol": "285.8230",
+    "timestamp": 1783833300000
+  },
+  {
+    "buySellRatio": "1.0945",
+    "sellVol": "216.5560",
+    "buyVol": "237.0260",
+    "timestamp": 1783834200000
+  },
+  {
+    "buySellRatio": "1.7683",
+    "sellVol": "113.0150",
+    "buyVol": "199.8420",
+    "timestamp": 1783835100000
+  },
+  {
+    "buySellRatio": "0.6759",
+    "sellVol": "1024.7750",
+    "buyVol": "692.6260",
+    "timestamp": 1783836000000
+  },
+  {
+    "buySellRatio": "0.8451",
+    "sellVol": "953.3640",
+    "buyVol": "805.6420",
+    "timestamp": 1783836900000
+  },
+  {
+    "buySellRatio": "1.8263",
+    "sellVol": "383.3260",
+    "buyVol": "700.0690",
+    "timestamp": 1783837800000
+  },
+  {
+    "buySellRatio": "1.0281",
+    "sellVol": "338.7950",
+    "buyVol": "348.3020",
+    "timestamp": 1783838700000
+  },
+  {
+    "buySellRatio": "1.6880",
+    "sellVol": "145.8090",
+    "buyVol": "246.1210",
+    "timestamp": 1783839600000
+  },
+  {
+    "buySellRatio": "1.8330",
+    "sellVol": "210.0560",
+    "buyVol": "385.0260",
+    "timestamp": 1783840500000
+  },
+  {
+    "buySellRatio": "1.2921",
+    "sellVol": "128.5440",
+    "buyVol": "166.0900",
+    "timestamp": 1783841400000
+  },
+  {
+    "buySellRatio": "0.9330",
+    "sellVol": "180.4720",
+    "buyVol": "168.3750",
+    "timestamp": 1783842300000
+  },
+  {
+    "buySellRatio": "1.6251",
+    "sellVol": "493.0100",
+    "buyVol": "801.1960",
+    "timestamp": 1783843200000
+  },
+  {
+    "buySellRatio": "0.5069",
+    "sellVol": "416.8780",
+    "buyVol": "211.3340",
+    "timestamp": 1783844100000
+  },
+  {
+    "buySellRatio": "0.7325",
+    "sellVol": "129.5870",
+    "buyVol": "94.9280",
+    "timestamp": 1783845000000
+  },
+  {
+    "buySellRatio": "0.6152",
+    "sellVol": "288.1270",
+    "buyVol": "177.2490",
+    "timestamp": 1783845900000
+  },
+  {
+    "buySellRatio": "0.4413",
+    "sellVol": "447.2320",
+    "buyVol": "197.3510",
+    "timestamp": 1783846800000
+  },
+  {
+    "buySellRatio": "1.1042",
+    "sellVol": "510.8840",
+    "buyVol": "564.1340",
+    "timestamp": 1783847700000
+  },
+  {
+    "buySellRatio": "1.2501",
+    "sellVol": "437.0110",
+    "buyVol": "546.2920",
+    "timestamp": 1783848600000
+  },
+  {
+    "buySellRatio": "0.8704",
+    "sellVol": "174.6990",
+    "buyVol": "152.0640",
+    "timestamp": 1783849500000
+  },
+  {
+    "buySellRatio": "0.6333",
+    "sellVol": "174.1930",
+    "buyVol": "110.3150",
+    "timestamp": 1783850400000
+  },
+  {
+    "buySellRatio": "0.5051",
+    "sellVol": "185.3560",
+    "buyVol": "93.6240",
+    "timestamp": 1783851300000
+  },
+  {
+    "buySellRatio": "0.9974",
+    "sellVol": "130.7830",
+    "buyVol": "130.4400",
+    "timestamp": 1783852200000
+  },
+  {
+    "buySellRatio": "1.1209",
+    "sellVol": "164.4750",
+    "buyVol": "184.3580",
+    "timestamp": 1783853100000
+  },
+  {
+    "buySellRatio": "1.0707",
+    "sellVol": "187.0190",
+    "buyVol": "200.2470",
+    "timestamp": 1783854000000
+  },
+  {
+    "buySellRatio": "1.7374",
+    "sellVol": "79.5000",
+    "buyVol": "138.1220",
+    "timestamp": 1783854900000
+  },
+  {
+    "buySellRatio": "1.5151",
+    "sellVol": "357.4570",
+    "buyVol": "541.5680",
+    "timestamp": 1783855800000
+  },
+  {
+    "buySellRatio": "1.4351",
+    "sellVol": "151.0000",
+    "buyVol": "216.7030",
+    "timestamp": 1783856700000
+  },
+  {
+    "buySellRatio": "2.6760",
+    "sellVol": "389.2410",
+    "buyVol": "1041.6020",
+    "timestamp": 1783857600000
+  },
+  {
+    "buySellRatio": "0.7205",
+    "sellVol": "267.3760",
+    "buyVol": "192.6520",
+    "timestamp": 1783858500000
+  },
+  {
+    "buySellRatio": "0.5569",
+    "sellVol": "196.5640",
+    "buyVol": "109.4660",
+    "timestamp": 1783859400000
+  },
+  {
+    "buySellRatio": "1.0350",
+    "sellVol": "101.3150",
+    "buyVol": "104.8660",
+    "timestamp": 1783860300000
+  },
+  {
+    "buySellRatio": "0.9062",
+    "sellVol": "142.3210",
+    "buyVol": "128.9770",
+    "timestamp": 1783861200000
+  },
+  {
+    "buySellRatio": "1.4916",
+    "sellVol": "191.0780",
+    "buyVol": "285.0190",
+    "timestamp": 1783862100000
+  },
+  {
+    "buySellRatio": "0.6900",
+    "sellVol": "134.2340",
+    "buyVol": "92.6270",
+    "timestamp": 1783863000000
+  },
+  {
+    "buySellRatio": "0.5953",
+    "sellVol": "179.8450",
+    "buyVol": "107.0560",
+    "timestamp": 1783863900000
+  },
+  {
+    "buySellRatio": "0.6979",
+    "sellVol": "277.5020",
+    "buyVol": "193.6610",
+    "timestamp": 1783864800000
+  },
+  {
+    "buySellRatio": "0.7405",
+    "sellVol": "99.2260",
+    "buyVol": "73.4760",
+    "timestamp": 1783865700000
+  },
+  {
+    "buySellRatio": "1.0004",
+    "sellVol": "185.1780",
+    "buyVol": "185.2610",
+    "timestamp": 1783866600000
+  },
+  {
+    "buySellRatio": "1.8999",
+    "sellVol": "617.2190",
+    "buyVol": "1172.6350",
+    "timestamp": 1783867500000
+  },
+  {
+    "buySellRatio": "1.2487",
+    "sellVol": "433.2520",
+    "buyVol": "540.9990",
+    "timestamp": 1783868400000
+  },
+  {
+    "buySellRatio": "0.8614",
+    "sellVol": "303.8400",
+    "buyVol": "261.7140",
+    "timestamp": 1783869300000
+  },
+  {
+    "buySellRatio": "0.6181",
+    "sellVol": "554.0130",
+    "buyVol": "342.4260",
+    "timestamp": 1783870200000
+  },
+  {
+    "buySellRatio": "0.5640",
+    "sellVol": "298.2520",
+    "buyVol": "168.2110",
+    "timestamp": 1783871100000
+  },
+  {
+    "buySellRatio": "0.5218",
+    "sellVol": "1067.5870",
+    "buyVol": "557.1110",
+    "timestamp": 1783872000000
+  },
+  {
+    "buySellRatio": "1.4301",
+    "sellVol": "211.0600",
+    "buyVol": "301.8360",
+    "timestamp": 1783872900000
+  },
+  {
+    "buySellRatio": "1.0568",
+    "sellVol": "230.0700",
+    "buyVol": "243.1490",
+    "timestamp": 1783873800000
+  },
+  {
+    "buySellRatio": "0.9077",
+    "sellVol": "197.2900",
+    "buyVol": "179.0820",
+    "timestamp": 1783874700000
+  },
+  {
+    "buySellRatio": "0.9156",
+    "sellVol": "111.3520",
+    "buyVol": "101.9510",
+    "timestamp": 1783875600000
+  },
+  {
+    "buySellRatio": "1.0179",
+    "sellVol": "95.5530",
+    "buyVol": "97.2600",
+    "timestamp": 1783876500000
+  },
+  {
+    "buySellRatio": "1.2014",
+    "sellVol": "84.5750",
+    "buyVol": "101.6060",
+    "timestamp": 1783877400000
+  },
+  {
+    "buySellRatio": "0.6340",
+    "sellVol": "308.6530",
+    "buyVol": "195.6950",
+    "timestamp": 1783878300000
+  },
+  {
+    "buySellRatio": "0.7447",
+    "sellVol": "246.3170",
+    "buyVol": "183.4260",
+    "timestamp": 1783879200000
+  },
+  {
+    "buySellRatio": "0.5836",
+    "sellVol": "236.3940",
+    "buyVol": "137.9500",
+    "timestamp": 1783880100000
+  },
+  {
+    "buySellRatio": "1.0854",
+    "sellVol": "161.1070",
+    "buyVol": "174.8670",
+    "timestamp": 1783881000000
+  },
+  {
+    "buySellRatio": "1.5809",
+    "sellVol": "42.4790",
+    "buyVol": "67.1530",
+    "timestamp": 1783881900000
+  },
+  {
+    "buySellRatio": "1.2732",
+    "sellVol": "194.5830",
+    "buyVol": "247.7480",
+    "timestamp": 1783882800000
+  },
+  {
+    "buySellRatio": "1.0764",
+    "sellVol": "65.9780",
+    "buyVol": "71.0200",
+    "timestamp": 1783883700000
+  },
+  {
+    "buySellRatio": "0.4857",
+    "sellVol": "127.4100",
+    "buyVol": "61.8870",
+    "timestamp": 1783884600000
+  },
+  {
+    "buySellRatio": "2.2865",
+    "sellVol": "161.3530",
+    "buyVol": "368.9320",
+    "timestamp": 1783885500000
+  },
+  {
+    "buySellRatio": "0.3930",
+    "sellVol": "273.4090",
+    "buyVol": "107.4460",
+    "timestamp": 1783886400000
+  },
+  {
+    "buySellRatio": "0.9800",
+    "sellVol": "68.1470",
+    "buyVol": "66.7850",
+    "timestamp": 1783887300000
+  },
+  {
+    "buySellRatio": "0.8510",
+    "sellVol": "87.3640",
+    "buyVol": "74.3490",
+    "timestamp": 1783888200000
+  },
+  {
+    "buySellRatio": "0.9366",
+    "sellVol": "103.9410",
+    "buyVol": "97.3480",
+    "timestamp": 1783889100000
+  },
+  {
+    "buySellRatio": "1.2775",
+    "sellVol": "143.4600",
+    "buyVol": "183.2680",
+    "timestamp": 1783890000000
+  },
+  {
+    "buySellRatio": "0.6156",
+    "sellVol": "296.4240",
+    "buyVol": "182.4670",
+    "timestamp": 1783890900000
+  },
+  {
+    "buySellRatio": "0.7747",
+    "sellVol": "294.1180",
+    "buyVol": "227.8540",
+    "timestamp": 1783891800000
+  },
+  {
+    "buySellRatio": "0.6936",
+    "sellVol": "769.4200",
+    "buyVol": "533.6530",
+    "timestamp": 1783892700000
+  },
+  {
+    "buySellRatio": "0.6992",
+    "sellVol": "1986.8760",
+    "buyVol": "1389.1820",
+    "timestamp": 1783893600000
+  },
+  {
+    "buySellRatio": "1.2537",
+    "sellVol": "525.7370",
+    "buyVol": "659.1080",
+    "timestamp": 1783894500000
+  },
+  {
+    "buySellRatio": "0.7271",
+    "sellVol": "344.5680",
+    "buyVol": "250.5400",
+    "timestamp": 1783895400000
+  },
+  {
+    "buySellRatio": "1.5070",
+    "sellVol": "360.6290",
+    "buyVol": "543.4660",
+    "timestamp": 1783896300000
+  },
+  {
+    "buySellRatio": "1.1712",
+    "sellVol": "365.8990",
+    "buyVol": "428.5400",
+    "timestamp": 1783897200000
+  },
+  {
+    "buySellRatio": "1.1399",
+    "sellVol": "204.0360",
+    "buyVol": "232.5860",
+    "timestamp": 1783898100000
+  },
+  {
+    "buySellRatio": "0.8945",
+    "sellVol": "293.0710",
+    "buyVol": "262.1530",
+    "timestamp": 1783899000000
+  },
+  {
+    "buySellRatio": "0.9624",
+    "sellVol": "274.9980",
+    "buyVol": "264.6570",
+    "timestamp": 1783899900000
+  },
+  {
+    "buySellRatio": "1.2901",
+    "sellVol": "1873.5530",
+    "buyVol": "2417.1620",
+    "timestamp": 1783900800000
+  },
+  {
+    "buySellRatio": "0.9492",
+    "sellVol": "1470.7470",
+    "buyVol": "1396.0920",
+    "timestamp": 1783901700000
+  },
+  {
+    "buySellRatio": "0.6631",
+    "sellVol": "4069.3820",
+    "buyVol": "2698.5330",
+    "timestamp": 1783902600000
+  },
+  {
+    "buySellRatio": "1.4663",
+    "sellVol": "1057.9460",
+    "buyVol": "1551.2640",
+    "timestamp": 1783903500000
+  },
+  {
+    "buySellRatio": "1.0040",
+    "sellVol": "1775.5830",
+    "buyVol": "1782.6320",
+    "timestamp": 1783904400000
+  },
+  {
+    "buySellRatio": "1.2423",
+    "sellVol": "1149.3800",
+    "buyVol": "1427.8740",
+    "timestamp": 1783905300000
+  },
+  {
+    "buySellRatio": "0.7380",
+    "sellVol": "1488.1530",
+    "buyVol": "1098.2190",
+    "timestamp": 1783906200000
+  },
+  {
+    "buySellRatio": "0.5075",
+    "sellVol": "2383.2790",
+    "buyVol": "1209.4210",
+    "timestamp": 1783907100000
+  },
+  {
+    "buySellRatio": "0.9263",
+    "sellVol": "2080.9050",
+    "buyVol": "1927.5110",
+    "timestamp": 1783908000000
+  },
+  {
+    "buySellRatio": "1.1481",
+    "sellVol": "1044.9460",
+    "buyVol": "1199.6840",
+    "timestamp": 1783908900000
+  },
+  {
+    "buySellRatio": "1.5582",
+    "sellVol": "344.2260",
+    "buyVol": "536.3820",
+    "timestamp": 1783909800000
+  },
+  {
+    "buySellRatio": "1.4173",
+    "sellVol": "309.3720",
+    "buyVol": "438.4840",
+    "timestamp": 1783910700000
+  },
+  {
+    "buySellRatio": "0.6616",
+    "sellVol": "4050.6410",
+    "buyVol": "2679.9510",
+    "timestamp": 1783911600000
+  },
+  {
+    "buySellRatio": "0.9801",
+    "sellVol": "1737.2750",
+    "buyVol": "1702.6990",
+    "timestamp": 1783912500000
+  },
+  {
+    "buySellRatio": "0.7111",
+    "sellVol": "2570.4650",
+    "buyVol": "1827.8720",
+    "timestamp": 1783913400000
+  },
+  {
+    "buySellRatio": "1.2063",
+    "sellVol": "513.3900",
+    "buyVol": "619.3270",
+    "timestamp": 1783914300000
+  },
+  {
+    "buySellRatio": "0.8494",
+    "sellVol": "1440.2280",
+    "buyVol": "1223.3760",
+    "timestamp": 1783915200000
+  },
+  {
+    "buySellRatio": "2.1025",
+    "sellVol": "341.3660",
+    "buyVol": "717.7180",
+    "timestamp": 1783916100000
+  },
+  {
+    "buySellRatio": "0.9716",
+    "sellVol": "1051.9430",
+    "buyVol": "1022.0310",
+    "timestamp": 1783917000000
+  },
+  {
+    "buySellRatio": "0.8286",
+    "sellVol": "525.5320",
+    "buyVol": "435.4660",
+    "timestamp": 1783917900000
+  },
+  {
+    "buySellRatio": "0.8618",
+    "sellVol": "2635.4320",
+    "buyVol": "2271.1510",
+    "timestamp": 1783918800000
+  },
+  {
+    "buySellRatio": "0.8574",
+    "sellVol": "996.1070",
+    "buyVol": "854.0850",
+    "timestamp": 1783919700000
+  },
+  {
+    "buySellRatio": "1.1661",
+    "sellVol": "490.7610",
+    "buyVol": "572.2780",
+    "timestamp": 1783920600000
+  },
+  {
+    "buySellRatio": "1.1155",
+    "sellVol": "260.4470",
+    "buyVol": "290.5220",
+    "timestamp": 1783921500000
+  },
+  {
+    "buySellRatio": "1.1440",
+    "sellVol": "412.6410",
+    "buyVol": "472.0560",
+    "timestamp": 1783922400000
+  },
+  {
+    "buySellRatio": "1.6101",
+    "sellVol": "249.6710",
+    "buyVol": "402.0000",
+    "timestamp": 1783923300000
+  },
+  {
+    "buySellRatio": "1.2661",
+    "sellVol": "245.7720",
+    "buyVol": "311.1700",
+    "timestamp": 1783924200000
+  },
+  {
+    "buySellRatio": "1.2691",
+    "sellVol": "260.5700",
+    "buyVol": "330.6830",
+    "timestamp": 1783925100000
+  },
+  {
+    "buySellRatio": "1.3779",
+    "sellVol": "350.1130",
+    "buyVol": "482.4340",
+    "timestamp": 1783926000000
+  },
+  {
+    "buySellRatio": "1.3220",
+    "sellVol": "899.8260",
+    "buyVol": "1189.5580",
+    "timestamp": 1783926900000
+  },
+  {
+    "buySellRatio": "1.2234",
+    "sellVol": "1111.8680",
+    "buyVol": "1360.2080",
+    "timestamp": 1783927800000
+  },
+  {
+    "buySellRatio": "1.2506",
+    "sellVol": "451.8780",
+    "buyVol": "565.1360",
+    "timestamp": 1783928700000
+  },
+  {
+    "buySellRatio": "0.9142",
+    "sellVol": "621.5810",
+    "buyVol": "568.2320",
+    "timestamp": 1783929600000
+  },
+  {
+    "buySellRatio": "1.5108",
+    "sellVol": "433.0240",
+    "buyVol": "654.2290",
+    "timestamp": 1783930500000
+  },
+  {
+    "buySellRatio": "0.9534",
+    "sellVol": "493.7490",
+    "buyVol": "470.7370",
+    "timestamp": 1783931400000
+  },
+  {
+    "buySellRatio": "1.1376",
+    "sellVol": "1127.4380",
+    "buyVol": "1282.5920",
+    "timestamp": 1783932300000
+  },
+  {
+    "buySellRatio": "0.5862",
+    "sellVol": "556.3360",
+    "buyVol": "326.1490",
+    "timestamp": 1783933200000
+  },
+  {
+    "buySellRatio": "0.4234",
+    "sellVol": "502.9640",
+    "buyVol": "212.9680",
+    "timestamp": 1783934100000
+  },
+  {
+    "buySellRatio": "0.6709",
+    "sellVol": "483.7450",
+    "buyVol": "324.5470",
+    "timestamp": 1783935000000
+  },
+  {
+    "buySellRatio": "0.4850",
+    "sellVol": "596.1830",
+    "buyVol": "289.1250",
+    "timestamp": 1783935900000
+  },
+  {
+    "buySellRatio": "0.2502",
+    "sellVol": "1160.7060",
+    "buyVol": "290.4380",
+    "timestamp": 1783936800000
+  },
+  {
+    "buySellRatio": "0.7127",
+    "sellVol": "704.2700",
+    "buyVol": "501.9630",
+    "timestamp": 1783937700000
+  },
+  {
+    "buySellRatio": "0.3546",
+    "sellVol": "3376.1510",
+    "buyVol": "1197.2130",
+    "timestamp": 1783938600000
+  },
+  {
+    "buySellRatio": "0.8267",
+    "sellVol": "1127.7520",
+    "buyVol": "932.2600",
+    "timestamp": 1783939500000
+  },
+  {
+    "buySellRatio": "1.2950",
+    "sellVol": "1212.5740",
+    "buyVol": "1570.2840",
+    "timestamp": 1783940400000
+  },
+  {
+    "buySellRatio": "0.8317",
+    "sellVol": "439.1270",
+    "buyVol": "365.2270",
+    "timestamp": 1783941300000
+  },
+  {
+    "buySellRatio": "0.7970",
+    "sellVol": "334.8850",
+    "buyVol": "266.8970",
+    "timestamp": 1783942200000
+  },
+  {
+    "buySellRatio": "0.8684",
+    "sellVol": "274.1350",
+    "buyVol": "238.0580",
+    "timestamp": 1783943100000
+  },
+  {
+    "buySellRatio": "0.7091",
+    "sellVol": "1185.6650",
+    "buyVol": "840.7830",
+    "timestamp": 1783944000000
+  },
+  {
+    "buySellRatio": "0.7907",
+    "sellVol": "1176.5570",
+    "buyVol": "930.3100",
+    "timestamp": 1783944900000
+  },
+  {
+    "buySellRatio": "0.7947",
+    "sellVol": "1625.9950",
+    "buyVol": "1292.1930",
+    "timestamp": 1783945800000
+  },
+  {
+    "buySellRatio": "1.4142",
+    "sellVol": "725.1290",
+    "buyVol": "1025.4660",
+    "timestamp": 1783946700000
+  },
+  {
+    "buySellRatio": "0.8161",
+    "sellVol": "1079.5840",
+    "buyVol": "881.0380",
+    "timestamp": 1783947600000
+  },
+  {
+    "buySellRatio": "0.7702",
+    "sellVol": "1589.7640",
+    "buyVol": "1224.3810",
+    "timestamp": 1783948500000
+  },
+  {
+    "buySellRatio": "0.9105",
+    "sellVol": "4175.9620",
+    "buyVol": "3802.0260",
+    "timestamp": 1783949400000
+  },
+  {
+    "buySellRatio": "1.2667",
+    "sellVol": "2529.5380",
+    "buyVol": "3204.2840",
+    "timestamp": 1783950300000
+  },
+  {
+    "buySellRatio": "0.9439",
+    "sellVol": "1281.1770",
+    "buyVol": "1209.2870",
+    "timestamp": 1783951200000
+  },
+  {
+    "buySellRatio": "0.8211",
+    "sellVol": "3565.5900",
+    "buyVol": "2927.7560",
+    "timestamp": 1783952100000
+  },
+  {
+    "buySellRatio": "1.2024",
+    "sellVol": "1708.5110",
+    "buyVol": "2054.3510",
+    "timestamp": 1783953000000
+  },
+  {
+    "buySellRatio": "1.2617",
+    "sellVol": "1184.7000",
+    "buyVol": "1494.7420",
+    "timestamp": 1783953900000
+  },
+  {
+    "buySellRatio": "0.8510",
+    "sellVol": "1549.8750",
+    "buyVol": "1318.9860",
+    "timestamp": 1783954800000
+  },
+  {
+    "buySellRatio": "1.0330",
+    "sellVol": "1322.4920",
+    "buyVol": "1366.1550",
+    "timestamp": 1783955700000
+  },
+  {
+    "buySellRatio": "0.8962",
+    "sellVol": "1165.9890",
+    "buyVol": "1044.9430",
+    "timestamp": 1783956600000
+  },
+  {
+    "buySellRatio": "1.0049",
+    "sellVol": "787.3210",
+    "buyVol": "791.1710",
+    "timestamp": 1783957500000
+  },
+  {
+    "buySellRatio": "0.6617",
+    "sellVol": "797.6750",
+    "buyVol": "527.8610",
+    "timestamp": 1783958400000
+  },
+  {
+    "buySellRatio": "0.8413",
+    "sellVol": "1921.4450",
+    "buyVol": "1616.5680",
+    "timestamp": 1783959300000
+  },
+  {
+    "buySellRatio": "0.9429",
+    "sellVol": "1133.6860",
+    "buyVol": "1068.9840",
+    "timestamp": 1783960200000
+  },
+  {
+    "buySellRatio": "1.0837",
+    "sellVol": "753.5390",
+    "buyVol": "816.6290",
+    "timestamp": 1783961100000
+  },
+  {
+    "buySellRatio": "1.3643",
+    "sellVol": "406.6240",
+    "buyVol": "554.7550",
+    "timestamp": 1783962000000
+  },
+  {
+    "buySellRatio": "1.0350",
+    "sellVol": "547.1960",
+    "buyVol": "566.3530",
+    "timestamp": 1783962900000
+  },
+  {
+    "buySellRatio": "0.6683",
+    "sellVol": "2346.8980",
+    "buyVol": "1568.4240",
+    "timestamp": 1783963800000
+  },
+  {
+    "buySellRatio": "0.6535",
+    "sellVol": "1755.7700",
+    "buyVol": "1147.4690",
+    "timestamp": 1783964700000
+  },
+  {
+    "buySellRatio": "1.4118",
+    "sellVol": "1029.5630",
+    "buyVol": "1453.5870",
+    "timestamp": 1783965600000
+  },
+  {
+    "buySellRatio": "1.1634",
+    "sellVol": "1035.6230",
+    "buyVol": "1204.8100",
+    "timestamp": 1783966500000
+  },
+  {
+    "buySellRatio": "1.3574",
+    "sellVol": "420.0650",
+    "buyVol": "570.2080",
+    "timestamp": 1783967400000
+  },
+  {
+    "buySellRatio": "0.9919",
+    "sellVol": "787.1310",
+    "buyVol": "780.7390",
+    "timestamp": 1783968300000
+  },
+  {
+    "buySellRatio": "0.6534",
+    "sellVol": "417.3240",
+    "buyVol": "272.6730",
+    "timestamp": 1783969200000
+  },
+  {
+    "buySellRatio": "0.7956",
+    "sellVol": "511.2170",
+    "buyVol": "406.7150",
+    "timestamp": 1783970100000
+  },
+  {
+    "buySellRatio": "1.3877",
+    "sellVol": "335.2000",
+    "buyVol": "465.1510",
+    "timestamp": 1783971000000
+  },
+  {
+    "buySellRatio": "1.7433",
+    "sellVol": "590.6400",
+    "buyVol": "1029.6540",
+    "timestamp": 1783971900000
+  },
+  {
+    "buySellRatio": "0.8857",
+    "sellVol": "652.2480",
+    "buyVol": "577.6950",
+    "timestamp": 1783972800000
+  },
+  {
+    "buySellRatio": "0.7093",
+    "sellVol": "672.1050",
+    "buyVol": "476.7280",
+    "timestamp": 1783973700000
+  },
+  {
+    "buySellRatio": "0.8580",
+    "sellVol": "235.0290",
+    "buyVol": "201.6650",
+    "timestamp": 1783974600000
+  },
+  {
+    "buySellRatio": "0.8790",
+    "sellVol": "383.7010",
+    "buyVol": "337.2710",
+    "timestamp": 1783975500000
+  },
+  {
+    "buySellRatio": "0.5892",
+    "sellVol": "308.8290",
+    "buyVol": "181.9500",
+    "timestamp": 1783976400000
+  },
+  {
+    "buySellRatio": "0.4480",
+    "sellVol": "469.9780",
+    "buyVol": "210.5270",
+    "timestamp": 1783977300000
+  },
+  {
+    "buySellRatio": "0.4700",
+    "sellVol": "866.7850",
+    "buyVol": "407.4040",
+    "timestamp": 1783978200000
+  },
+  {
+    "buySellRatio": "1.3264",
+    "sellVol": "394.8250",
+    "buyVol": "523.6910",
+    "timestamp": 1783979100000
+  },
+  {
+    "buySellRatio": "1.3147",
+    "sellVol": "395.9750",
+    "buyVol": "520.6060",
+    "timestamp": 1783980000000
+  },
+  {
+    "buySellRatio": "0.6015",
+    "sellVol": "462.4400",
+    "buyVol": "278.1510",
+    "timestamp": 1783980900000
+  },
+  {
+    "buySellRatio": "0.7663",
+    "sellVol": "294.2570",
+    "buyVol": "225.5030",
+    "timestamp": 1783981800000
+  },
+  {
+    "buySellRatio": "0.9722",
+    "sellVol": "507.0940",
+    "buyVol": "492.9900",
+    "timestamp": 1783982700000
+  },
+  {
+    "buySellRatio": "1.5481",
+    "sellVol": "481.4000",
+    "buyVol": "745.2670",
+    "timestamp": 1783983600000
+  },
+  {
+    "buySellRatio": "1.6623",
+    "sellVol": "351.9600",
+    "buyVol": "585.0700",
+    "timestamp": 1783984500000
+  },
+  {
+    "buySellRatio": "1.2143",
+    "sellVol": "431.9320",
+    "buyVol": "524.5050",
+    "timestamp": 1783985400000
+  },
+  {
+    "buySellRatio": "1.9581",
+    "sellVol": "671.5460",
+    "buyVol": "1314.9470",
+    "timestamp": 1783986300000
+  },
+  {
+    "buySellRatio": "1.5597",
+    "sellVol": "776.5370",
+    "buyVol": "1211.1490",
+    "timestamp": 1783987200000
+  },
+  {
+    "buySellRatio": "0.6497",
+    "sellVol": "555.0720",
+    "buyVol": "360.6140",
+    "timestamp": 1783988100000
+  },
+  {
+    "buySellRatio": "0.9940",
+    "sellVol": "364.6260",
+    "buyVol": "362.4530",
+    "timestamp": 1783989000000
+  },
+  {
+    "buySellRatio": "1.7054",
+    "sellVol": "841.0070",
+    "buyVol": "1434.2340",
+    "timestamp": 1783989900000
+  },
+  {
+    "buySellRatio": "0.8813",
+    "sellVol": "481.1170",
+    "buyVol": "424.0080",
+    "timestamp": 1783990800000
+  },
+  {
+    "buySellRatio": "1.0553",
+    "sellVol": "538.5320",
+    "buyVol": "568.3050",
+    "timestamp": 1783991700000
+  },
+  {
+    "buySellRatio": "0.9260",
+    "sellVol": "317.7000",
+    "buyVol": "294.1890",
+    "timestamp": 1783992600000
+  },
+  {
+    "buySellRatio": "1.4322",
+    "sellVol": "162.5050",
+    "buyVol": "232.7340",
+    "timestamp": 1783993500000
+  },
+  {
+    "buySellRatio": "1.2163",
+    "sellVol": "283.6040",
+    "buyVol": "344.9550",
+    "timestamp": 1783994400000
+  },
+  {
+    "buySellRatio": "0.5671",
+    "sellVol": "807.8010",
+    "buyVol": "458.0860",
+    "timestamp": 1783995300000
+  },
+  {
+    "buySellRatio": "1.3232",
+    "sellVol": "398.0720",
+    "buyVol": "526.7310",
+    "timestamp": 1783996200000
+  },
+  {
+    "buySellRatio": "1.0192",
+    "sellVol": "342.7980",
+    "buyVol": "349.3920",
+    "timestamp": 1783997100000
+  },
+  {
+    "buySellRatio": "0.6189",
+    "sellVol": "499.9420",
+    "buyVol": "309.4050",
+    "timestamp": 1783998000000
+  },
+  {
+    "buySellRatio": "0.9275",
+    "sellVol": "689.3250",
+    "buyVol": "639.3720",
+    "timestamp": 1783998900000
+  },
+  {
+    "buySellRatio": "0.5982",
+    "sellVol": "452.9700",
+    "buyVol": "270.9730",
+    "timestamp": 1783999800000
+  },
+  {
+    "buySellRatio": "1.4203",
+    "sellVol": "197.9370",
+    "buyVol": "281.1290",
+    "timestamp": 1784000700000
+  },
+  {
+    "buySellRatio": "1.0679",
+    "sellVol": "390.7950",
+    "buyVol": "417.3250",
+    "timestamp": 1784001600000
+  },
+  {
+    "buySellRatio": "1.7741",
+    "sellVol": "174.9920",
+    "buyVol": "310.4460",
+    "timestamp": 1784002500000
+  },
+  {
+    "buySellRatio": "1.4670",
+    "sellVol": "566.2940",
+    "buyVol": "830.7340",
+    "timestamp": 1784003400000
+  },
+  {
+    "buySellRatio": "0.9777",
+    "sellVol": "326.9540",
+    "buyVol": "319.6480",
+    "timestamp": 1784004300000
+  },
+  {
+    "buySellRatio": "1.5308",
+    "sellVol": "471.7510",
+    "buyVol": "722.1530",
+    "timestamp": 1784005200000
+  },
+  {
+    "buySellRatio": "0.6393",
+    "sellVol": "600.8060",
+    "buyVol": "384.1190",
+    "timestamp": 1784006100000
+  },
+  {
+    "buySellRatio": "0.6783",
+    "sellVol": "540.4530",
+    "buyVol": "366.5750",
+    "timestamp": 1784007000000
+  },
+  {
+    "buySellRatio": "0.7826",
+    "sellVol": "357.9260",
+    "buyVol": "280.1160",
+    "timestamp": 1784007900000
+  },
+  {
+    "buySellRatio": "0.7710",
+    "sellVol": "532.7720",
+    "buyVol": "410.7890",
+    "timestamp": 1784008800000
+  },
+  {
+    "buySellRatio": "0.9147",
+    "sellVol": "297.7590",
+    "buyVol": "272.3530",
+    "timestamp": 1784009700000
+  },
+  {
+    "buySellRatio": "0.8551",
+    "sellVol": "473.0160",
+    "buyVol": "404.4650",
+    "timestamp": 1784010600000
+  },
+  {
+    "buySellRatio": "0.7866",
+    "sellVol": "438.3140",
+    "buyVol": "344.7720",
+    "timestamp": 1784011500000
+  },
+  {
+    "buySellRatio": "0.9649",
+    "sellVol": "373.1070",
+    "buyVol": "360.0250",
+    "timestamp": 1784012400000
+  },
+  {
+    "buySellRatio": "1.2475",
+    "sellVol": "259.2300",
+    "buyVol": "323.3960",
+    "timestamp": 1784013300000
+  },
+  {
+    "buySellRatio": "0.6669",
+    "sellVol": "368.9040",
+    "buyVol": "246.0360",
+    "timestamp": 1784014200000
+  },
+  {
+    "buySellRatio": "0.9158",
+    "sellVol": "393.1340",
+    "buyVol": "360.0180",
+    "timestamp": 1784015100000
+  },
+  {
+    "buySellRatio": "0.7784",
+    "sellVol": "399.5820",
+    "buyVol": "311.0480",
+    "timestamp": 1784016000000
+  },
+  {
+    "buySellRatio": "1.8210",
+    "sellVol": "236.3160",
+    "buyVol": "430.3380",
+    "timestamp": 1784016900000
+  },
+  {
+    "buySellRatio": "1.5227",
+    "sellVol": "452.1530",
+    "buyVol": "688.4830",
+    "timestamp": 1784017800000
+  },
+  {
+    "buySellRatio": "0.6750",
+    "sellVol": "298.1870",
+    "buyVol": "201.2860",
+    "timestamp": 1784018700000
+  },
+  {
+    "buySellRatio": "0.6817",
+    "sellVol": "327.2010",
+    "buyVol": "223.0550",
+    "timestamp": 1784019600000
+  },
+  {
+    "buySellRatio": "1.1342",
+    "sellVol": "206.4090",
+    "buyVol": "234.1080",
+    "timestamp": 1784020500000
+  },
+  {
+    "buySellRatio": "0.7313",
+    "sellVol": "412.6320",
+    "buyVol": "301.7510",
+    "timestamp": 1784021400000
+  },
+  {
+    "buySellRatio": "1.2522",
+    "sellVol": "258.0630",
+    "buyVol": "323.1370",
+    "timestamp": 1784022300000
+  },
+  {
+    "buySellRatio": "1.1397",
+    "sellVol": "306.4620",
+    "buyVol": "349.2660",
+    "timestamp": 1784023200000
+  },
+  {
+    "buySellRatio": "0.9813",
+    "sellVol": "228.4610",
+    "buyVol": "224.1890",
+    "timestamp": 1784024100000
+  },
+  {
+    "buySellRatio": "1.5343",
+    "sellVol": "281.7870",
+    "buyVol": "432.3420",
+    "timestamp": 1784025000000
+  },
+  {
+    "buySellRatio": "1.1751",
+    "sellVol": "752.0360",
+    "buyVol": "883.6930",
+    "timestamp": 1784025900000
+  },
+  {
+    "buySellRatio": "0.6408",
+    "sellVol": "393.6080",
+    "buyVol": "252.2110",
+    "timestamp": 1784026800000
+  },
+  {
+    "buySellRatio": "1.1348",
+    "sellVol": "280.8030",
+    "buyVol": "318.6580",
+    "timestamp": 1784027700000
+  },
+  {
+    "buySellRatio": "1.0208",
+    "sellVol": "765.1480",
+    "buyVol": "781.0590",
+    "timestamp": 1784028600000
+  },
+  {
+    "buySellRatio": "0.7977",
+    "sellVol": "209.5480",
+    "buyVol": "167.1460",
+    "timestamp": 1784029500000
+  },
+  {
+    "buySellRatio": "0.8989",
+    "sellVol": "485.5770",
+    "buyVol": "436.4950",
+    "timestamp": 1784030400000
+  },
+  {
+    "buySellRatio": "1.2339",
+    "sellVol": "1810.1040",
+    "buyVol": "2233.5100",
+    "timestamp": 1784031300000
+  },
+  {
+    "buySellRatio": "1.1354",
+    "sellVol": "12518.0660",
+    "buyVol": "14213.2390",
+    "timestamp": 1784032200000
+  },
+  {
+    "buySellRatio": "1.2817",
+    "sellVol": "4657.7430",
+    "buyVol": "5970.0050",
+    "timestamp": 1784033100000
+  },
+  {
+    "buySellRatio": "0.7868",
+    "sellVol": "2434.7050",
+    "buyVol": "1915.5640",
+    "timestamp": 1784034000000
+  },
+  {
+    "buySellRatio": "1.2220",
+    "sellVol": "2805.4570",
+    "buyVol": "3428.2250",
+    "timestamp": 1784034900000
+  },
+  {
+    "buySellRatio": "0.7651",
+    "sellVol": "2665.2870",
+    "buyVol": "2039.2040",
+    "timestamp": 1784035800000
+  },
+  {
+    "buySellRatio": "0.6822",
+    "sellVol": "1921.0610",
+    "buyVol": "1310.4660",
+    "timestamp": 1784036700000
+  },
+  {
+    "buySellRatio": "0.8126",
+    "sellVol": "2000.5870",
+    "buyVol": "1625.6290",
+    "timestamp": 1784037600000
+  },
+  {
+    "buySellRatio": "1.0209",
+    "sellVol": "1099.3370",
+    "buyVol": "1122.3520",
+    "timestamp": 1784038500000
+  },
+  {
+    "buySellRatio": "1.1714",
+    "sellVol": "1323.6880",
+    "buyVol": "1550.5980",
+    "timestamp": 1784039400000
+  },
+  {
+    "buySellRatio": "2.5928",
+    "sellVol": "1198.2210",
+    "buyVol": "3106.7530",
+    "timestamp": 1784040300000
+  },
+  {
+    "buySellRatio": "1.0333",
+    "sellVol": "2619.4420",
+    "buyVol": "2706.5970",
+    "timestamp": 1784041200000
+  },
+  {
+    "buySellRatio": "1.7729",
+    "sellVol": "1690.5540",
+    "buyVol": "2997.1170",
+    "timestamp": 1784042100000
+  },
+  {
+    "buySellRatio": "1.5128",
+    "sellVol": "4588.3530",
+    "buyVol": "6941.4380",
+    "timestamp": 1784043000000
+  },
+  {
+    "buySellRatio": "0.9485",
+    "sellVol": "2148.1850",
+    "buyVol": "2037.6590",
+    "timestamp": 1784043900000
+  },
+  {
+    "buySellRatio": "1.1819",
+    "sellVol": "1768.3780",
+    "buyVol": "2090.1020",
+    "timestamp": 1784044800000
+  },
+  {
+    "buySellRatio": "0.9511",
+    "sellVol": "1001.5660",
+    "buyVol": "952.5710",
+    "timestamp": 1784045700000
+  },
+  {
+    "buySellRatio": "0.6762",
+    "sellVol": "692.2600",
+    "buyVol": "468.1270",
+    "timestamp": 1784046600000
+  },
+  {
+    "buySellRatio": "0.5250",
+    "sellVol": "976.0310",
+    "buyVol": "512.4200",
+    "timestamp": 1784047500000
+  },
+  {
+    "buySellRatio": "0.4678",
+    "sellVol": "5684.3120",
+    "buyVol": "2659.1160",
+    "timestamp": 1784048400000
+  },
+  {
+    "buySellRatio": "1.1270",
+    "sellVol": "1112.0700",
+    "buyVol": "1253.2910",
+    "timestamp": 1784049300000
+  },
+  {
+    "buySellRatio": "0.8935",
+    "sellVol": "633.1330",
+    "buyVol": "565.6780",
+    "timestamp": 1784050200000
+  },
+  {
+    "buySellRatio": "2.1917",
+    "sellVol": "721.0160",
+    "buyVol": "1580.2720",
+    "timestamp": 1784051100000
+  },
+  {
+    "buySellRatio": "0.8360",
+    "sellVol": "413.6210",
+    "buyVol": "345.7700",
+    "timestamp": 1784052000000
+  },
+  {
+    "buySellRatio": "1.0994",
+    "sellVol": "208.6320",
+    "buyVol": "229.3780",
+    "timestamp": 1784052900000
+  },
+  {
+    "buySellRatio": "1.1111",
+    "sellVol": "422.2260",
+    "buyVol": "469.1470",
+    "timestamp": 1784053800000
+  },
+  {
+    "buySellRatio": "1.1250",
+    "sellVol": "170.6840",
+    "buyVol": "192.0210",
+    "timestamp": 1784054700000
+  },
+  {
+    "buySellRatio": "1.4243",
+    "sellVol": "166.7110",
+    "buyVol": "237.4490",
+    "timestamp": 1784055600000
+  },
+  {
+    "buySellRatio": "1.0205",
+    "sellVol": "456.7930",
+    "buyVol": "466.1780",
+    "timestamp": 1784056500000
+  },
+  {
+    "buySellRatio": "0.9054",
+    "sellVol": "319.5240",
+    "buyVol": "289.3090",
+    "timestamp": 1784057400000
+  },
+  {
+    "buySellRatio": "1.1911",
+    "sellVol": "339.6100",
+    "buyVol": "404.5120",
+    "timestamp": 1784058300000
+  },
+  {
+    "buySellRatio": "0.9862",
+    "sellVol": "435.8090",
+    "buyVol": "429.7850",
+    "timestamp": 1784059200000
+  },
+  {
+    "buySellRatio": "0.8420",
+    "sellVol": "303.3700",
+    "buyVol": "255.4240",
+    "timestamp": 1784060100000
+  },
+  {
+    "buySellRatio": "1.4912",
+    "sellVol": "181.3780",
+    "buyVol": "270.4630",
+    "timestamp": 1784061000000
+  },
+  {
+    "buySellRatio": "1.0936",
+    "sellVol": "236.0160",
+    "buyVol": "258.1130",
+    "timestamp": 1784061900000
+  },
+  {
+    "buySellRatio": "1.1524",
+    "sellVol": "246.6270",
+    "buyVol": "284.2210",
+    "timestamp": 1784062800000
+  },
+  {
+    "buySellRatio": "1.9091",
+    "sellVol": "220.3740",
+    "buyVol": "420.7160",
+    "timestamp": 1784063700000
+  },
+  {
+    "buySellRatio": "1.5482",
+    "sellVol": "536.9490",
+    "buyVol": "831.3020",
+    "timestamp": 1784064600000
+  },
+  {
+    "buySellRatio": "0.8746",
+    "sellVol": "446.4570",
+    "buyVol": "390.4570",
+    "timestamp": 1784065500000
+  },
+  {
+    "buySellRatio": "0.5530",
+    "sellVol": "808.6600",
+    "buyVol": "447.1700",
+    "timestamp": 1784066400000
+  },
+  {
+    "buySellRatio": "1.9564",
+    "sellVol": "2901.4000",
+    "buyVol": "5676.3980",
+    "timestamp": 1784067300000
+  },
+  {
+    "buySellRatio": "1.3213",
+    "sellVol": "722.5040",
+    "buyVol": "954.6240",
+    "timestamp": 1784068200000
+  },
+  {
+    "buySellRatio": "0.8314",
+    "sellVol": "481.6090",
+    "buyVol": "400.3910",
+    "timestamp": 1784069100000
+  },
+  {
+    "buySellRatio": "1.0980",
+    "sellVol": "1197.3920",
+    "buyVol": "1314.7760",
+    "timestamp": 1784070000000
+  },
+  {
+    "buySellRatio": "0.6828",
+    "sellVol": "437.6880",
+    "buyVol": "298.8650",
+    "timestamp": 1784070900000
+  },
+  {
+    "buySellRatio": "0.9167",
+    "sellVol": "282.4560",
+    "buyVol": "258.9190",
+    "timestamp": 1784071800000
+  },
+  {
+    "buySellRatio": "1.2998",
+    "sellVol": "371.8980",
+    "buyVol": "483.4030",
+    "timestamp": 1784072700000
+  },
+  {
+    "buySellRatio": "1.0435",
+    "sellVol": "788.7630",
+    "buyVol": "823.0380",
+    "timestamp": 1784073600000
+  },
+  {
+    "buySellRatio": "0.9801",
+    "sellVol": "422.7900",
+    "buyVol": "414.3620",
+    "timestamp": 1784074500000
+  },
+  {
+    "buySellRatio": "0.6448",
+    "sellVol": "781.2830",
+    "buyVol": "503.8060",
+    "timestamp": 1784075400000
+  },
+  {
+    "buySellRatio": "0.9838",
+    "sellVol": "376.2930",
+    "buyVol": "370.2010",
+    "timestamp": 1784076300000
+  },
+  {
+    "buySellRatio": "0.5767",
+    "sellVol": "534.3230",
+    "buyVol": "308.1450",
+    "timestamp": 1784077200000
+  },
+  {
+    "buySellRatio": "1.1950",
+    "sellVol": "465.1630",
+    "buyVol": "555.8800",
+    "timestamp": 1784078100000
+  },
+  {
+    "buySellRatio": "0.5149",
+    "sellVol": "571.8820",
+    "buyVol": "294.4480",
+    "timestamp": 1784079000000
+  },
+  {
+    "buySellRatio": "0.8041",
+    "sellVol": "415.0230",
+    "buyVol": "333.7040",
+    "timestamp": 1784079900000
+  },
+  {
+    "buySellRatio": "1.2681",
+    "sellVol": "258.9610",
+    "buyVol": "328.3880",
+    "timestamp": 1784080800000
+  },
+  {
+    "buySellRatio": "0.4272",
+    "sellVol": "675.2740",
+    "buyVol": "288.4870",
+    "timestamp": 1784081700000
+  },
+  {
+    "buySellRatio": "1.2904",
+    "sellVol": "490.7950",
+    "buyVol": "633.3160",
+    "timestamp": 1784082600000
+  },
+  {
+    "buySellRatio": "0.7171",
+    "sellVol": "290.7970",
+    "buyVol": "208.5190",
+    "timestamp": 1784083500000
+  },
+  {
+    "buySellRatio": "2.1113",
+    "sellVol": "264.6890",
+    "buyVol": "558.8340",
+    "timestamp": 1784084400000
+  },
+  {
+    "buySellRatio": "0.9990",
+    "sellVol": "133.1670",
+    "buyVol": "133.0320",
+    "timestamp": 1784085300000
+  },
+  {
+    "buySellRatio": "1.1529",
+    "sellVol": "494.8090",
+    "buyVol": "570.4410",
+    "timestamp": 1784086200000
+  },
+  {
+    "buySellRatio": "1.6013",
+    "sellVol": "273.6630",
+    "buyVol": "438.2270",
+    "timestamp": 1784087100000
+  },
+  {
+    "buySellRatio": "1.1440",
+    "sellVol": "341.3680",
+    "buyVol": "390.5200",
+    "timestamp": 1784088000000
+  },
+  {
+    "buySellRatio": "0.6641",
+    "sellVol": "371.7460",
+    "buyVol": "246.8890",
+    "timestamp": 1784088900000
+  },
+  {
+    "buySellRatio": "0.8271",
+    "sellVol": "228.8990",
+    "buyVol": "189.3280",
+    "timestamp": 1784089800000
+  },
+  {
+    "buySellRatio": "0.7691",
+    "sellVol": "230.3660",
+    "buyVol": "177.1760",
+    "timestamp": 1784090700000
+  },
+  {
+    "buySellRatio": "0.8435",
+    "sellVol": "405.3990",
+    "buyVol": "341.9480",
+    "timestamp": 1784091600000
+  },
+  {
+    "buySellRatio": "0.5763",
+    "sellVol": "288.4980",
+    "buyVol": "166.2560",
+    "timestamp": 1784092500000
+  },
+  {
+    "buySellRatio": "1.6865",
+    "sellVol": "158.7940",
+    "buyVol": "267.8130",
+    "timestamp": 1784093400000
+  },
+  {
+    "buySellRatio": "1.5097",
+    "sellVol": "433.3330",
+    "buyVol": "654.2110",
+    "timestamp": 1784094300000
+  },
+  {
+    "buySellRatio": "1.3428",
+    "sellVol": "697.6120",
+    "buyVol": "936.7870",
+    "timestamp": 1784095200000
+  },
+  {
+    "buySellRatio": "0.7810",
+    "sellVol": "551.2580",
+    "buyVol": "430.5550",
+    "timestamp": 1784096100000
+  },
+  {
+    "buySellRatio": "1.4863",
+    "sellVol": "1811.5390",
+    "buyVol": "2692.4690",
+    "timestamp": 1784097000000
+  },
+  {
+    "buySellRatio": "0.5813",
+    "sellVol": "973.5750",
+    "buyVol": "565.9230",
+    "timestamp": 1784097900000
+  },
+  {
+    "buySellRatio": "1.0499",
+    "sellVol": "755.1150",
+    "buyVol": "792.8030",
+    "timestamp": 1784098800000
+  },
+  {
+    "buySellRatio": "0.7313",
+    "sellVol": "1758.9440",
+    "buyVol": "1286.3230",
+    "timestamp": 1784099700000
+  },
+  {
+    "buySellRatio": "1.3593",
+    "sellVol": "647.7090",
+    "buyVol": "880.4190",
+    "timestamp": 1784100600000
+  },
+  {
+    "buySellRatio": "1.1555",
+    "sellVol": "326.3790",
+    "buyVol": "377.1310",
+    "timestamp": 1784101500000
+  },
+  {
+    "buySellRatio": "1.3864",
+    "sellVol": "562.4690",
+    "buyVol": "779.8180",
+    "timestamp": 1784102400000
+  },
+  {
+    "buySellRatio": "0.6570",
+    "sellVol": "307.7590",
+    "buyVol": "202.2120",
+    "timestamp": 1784103300000
+  },
+  {
+    "buySellRatio": "1.4580",
+    "sellVol": "389.2530",
+    "buyVol": "567.5400",
+    "timestamp": 1784104200000
+  },
+  {
+    "buySellRatio": "1.2691",
+    "sellVol": "475.3060",
+    "buyVol": "603.1890",
+    "timestamp": 1784105100000
+  },
+  {
+    "buySellRatio": "1.4350",
+    "sellVol": "314.5540",
+    "buyVol": "451.3830",
+    "timestamp": 1784106000000
+  },
+  {
+    "buySellRatio": "1.0246",
+    "sellVol": "502.5170",
+    "buyVol": "514.8730",
+    "timestamp": 1784106900000
+  },
+  {
+    "buySellRatio": "0.6016",
+    "sellVol": "572.9820",
+    "buyVol": "344.7270",
+    "timestamp": 1784107800000
+  },
+  {
+    "buySellRatio": "0.8178",
+    "sellVol": "244.6000",
+    "buyVol": "200.0290",
+    "timestamp": 1784108700000
+  },
+  {
+    "buySellRatio": "1.4823",
+    "sellVol": "436.0010",
+    "buyVol": "646.2660",
+    "timestamp": 1784109600000
+  },
+  {
+    "buySellRatio": "0.5919",
+    "sellVol": "378.5530",
+    "buyVol": "224.0810",
+    "timestamp": 1784110500000
+  },
+  {
+    "buySellRatio": "1.2873",
+    "sellVol": "235.4720",
+    "buyVol": "303.1320",
+    "timestamp": 1784111400000
+  },
+  {
+    "buySellRatio": "0.8629",
+    "sellVol": "208.2120",
+    "buyVol": "179.6570",
+    "timestamp": 1784112300000
+  },
+  {
+    "buySellRatio": "1.3427",
+    "sellVol": "223.6650",
+    "buyVol": "300.3160",
+    "timestamp": 1784113200000
+  },
+  {
+    "buySellRatio": "0.5129",
+    "sellVol": "308.8310",
+    "buyVol": "158.3950",
+    "timestamp": 1784114100000
+  },
+  {
+    "buySellRatio": "1.1923",
+    "sellVol": "177.3110",
+    "buyVol": "211.4120",
+    "timestamp": 1784115000000
+  },
+  {
+    "buySellRatio": "1.3461",
+    "sellVol": "210.0380",
+    "buyVol": "282.7320",
+    "timestamp": 1784115900000
+  },
+  {
+    "buySellRatio": "1.3659",
+    "sellVol": "478.9310",
+    "buyVol": "654.1600",
+    "timestamp": 1784116800000
+  },
+  {
+    "buySellRatio": "1.2141",
+    "sellVol": "393.3220",
+    "buyVol": "477.5350",
+    "timestamp": 1784117700000
+  },
+  {
+    "buySellRatio": "1.2145",
+    "sellVol": "2507.8310",
+    "buyVol": "3045.6590",
+    "timestamp": 1784118600000
+  },
+  {
+    "buySellRatio": "1.2882",
+    "sellVol": "2055.3120",
+    "buyVol": "2647.7300",
+    "timestamp": 1784119500000
+  },
+  {
+    "buySellRatio": "1.3112",
+    "sellVol": "2268.6390",
+    "buyVol": "2974.7230",
+    "timestamp": 1784120400000
+  },
+  {
+    "buySellRatio": "1.1398",
+    "sellVol": "2437.4090",
+    "buyVol": "2778.1040",
+    "timestamp": 1784121300000
+  },
+  {
+    "buySellRatio": "0.9992",
+    "sellVol": "1467.0470",
+    "buyVol": "1465.8150",
+    "timestamp": 1784122200000
+  },
+  {
+    "buySellRatio": "1.0007",
+    "sellVol": "2337.0710",
+    "buyVol": "2338.6860",
+    "timestamp": 1784123100000
+  },
+  {
+    "buySellRatio": "1.3574",
+    "sellVol": "1432.0480",
+    "buyVol": "1943.8080",
+    "timestamp": 1784124000000
+  },
+  {
+    "buySellRatio": "1.2461",
+    "sellVol": "1444.4010",
+    "buyVol": "1799.9020",
+    "timestamp": 1784124900000
+  },
+  {
+    "buySellRatio": "1.1569",
+    "sellVol": "1148.6060",
+    "buyVol": "1328.7950",
+    "timestamp": 1784125800000
+  },
+  {
+    "buySellRatio": "1.0161",
+    "sellVol": "660.6330",
+    "buyVol": "671.2870",
+    "timestamp": 1784126700000
+  },
+  {
+    "buySellRatio": "1.2664",
+    "sellVol": "868.7980",
+    "buyVol": "1100.2050",
+    "timestamp": 1784127600000
+  },
+  {
+    "buySellRatio": "0.7863",
+    "sellVol": "585.6570",
+    "buyVol": "460.5030",
+    "timestamp": 1784128500000
+  },
+  {
+    "buySellRatio": "1.2777",
+    "sellVol": "896.1950",
+    "buyVol": "1145.0830",
+    "timestamp": 1784129400000
+  },
+  {
+    "buySellRatio": "1.3349",
+    "sellVol": "1125.0100",
+    "buyVol": "1501.7970",
+    "timestamp": 1784130300000
+  },
+  {
+    "buySellRatio": "0.8311",
+    "sellVol": "1767.0980",
+    "buyVol": "1468.5760",
+    "timestamp": 1784131200000
+  },
+  {
+    "buySellRatio": "2.7280",
+    "sellVol": "900.7730",
+    "buyVol": "2457.3190",
+    "timestamp": 1784132100000
+  },
+  {
+    "buySellRatio": "0.6903",
+    "sellVol": "2886.6700",
+    "buyVol": "1992.7950",
+    "timestamp": 1784133000000
+  },
+  {
+    "buySellRatio": "2.2416",
+    "sellVol": "1051.5770",
+    "buyVol": "2357.2410",
+    "timestamp": 1784133900000
+  },
+  {
+    "buySellRatio": "1.3116",
+    "sellVol": "983.4930",
+    "buyVol": "1289.9520",
+    "timestamp": 1784134800000
+  },
+  {
+    "buySellRatio": "2.1654",
+    "sellVol": "511.0810",
+    "buyVol": "1106.6890",
+    "timestamp": 1784135700000
+  },
+  {
+    "buySellRatio": "1.0144",
+    "sellVol": "885.1920",
+    "buyVol": "897.9050",
+    "timestamp": 1784136600000
+  },
+  {
+    "buySellRatio": "0.6823",
+    "sellVol": "1949.3970",
+    "buyVol": "1330.0020",
+    "timestamp": 1784137500000
+  },
+  {
+    "buySellRatio": "1.0121",
+    "sellVol": "678.4370",
+    "buyVol": "686.6490",
+    "timestamp": 1784138400000
+  },
+  {
+    "buySellRatio": "1.0557",
+    "sellVol": "341.8560",
+    "buyVol": "360.9120",
+    "timestamp": 1784139300000
+  },
+  {
+    "buySellRatio": "0.5762",
+    "sellVol": "282.3620",
+    "buyVol": "162.6960",
+    "timestamp": 1784140200000
+  },
+  {
+    "buySellRatio": "0.6471",
+    "sellVol": "555.1200",
+    "buyVol": "359.2260",
+    "timestamp": 1784141100000
+  },
+  {
+    "buySellRatio": "1.2623",
+    "sellVol": "243.3830",
+    "buyVol": "307.2240",
+    "timestamp": 1784142000000
+  },
+  {
+    "buySellRatio": "0.7472",
+    "sellVol": "625.6700",
+    "buyVol": "467.5040",
+    "timestamp": 1784142900000
+  },
+  {
+    "buySellRatio": "1.6967",
+    "sellVol": "241.1260",
+    "buyVol": "409.1180",
+    "timestamp": 1784143800000
+  },
+  {
+    "buySellRatio": "0.8274",
+    "sellVol": "289.9160",
+    "buyVol": "239.8810",
+    "timestamp": 1784144700000
+  },
+  {
+    "buySellRatio": "0.9051",
+    "sellVol": "215.2350",
+    "buyVol": "194.8020",
+    "timestamp": 1784145600000
+  },
+  {
+    "buySellRatio": "1.3637",
+    "sellVol": "117.8970",
+    "buyVol": "160.7740",
+    "timestamp": 1784146500000
+  },
+  {
+    "buySellRatio": "1.1248",
+    "sellVol": "158.3670",
+    "buyVol": "178.1330",
+    "timestamp": 1784147400000
+  },
+  {
+    "buySellRatio": "1.1329",
+    "sellVol": "85.4010",
+    "buyVol": "96.7550",
+    "timestamp": 1784148300000
+  },
+  {
+    "buySellRatio": "0.6868",
+    "sellVol": "328.5460",
+    "buyVol": "225.6600",
+    "timestamp": 1784149200000
+  },
+  {
+    "buySellRatio": "0.3529",
+    "sellVol": "302.9270",
+    "buyVol": "106.8900",
+    "timestamp": 1784150100000
+  },
+  {
+    "buySellRatio": "0.6593",
+    "sellVol": "403.9330",
+    "buyVol": "266.3200",
+    "timestamp": 1784151000000
+  },
+  {
+    "buySellRatio": "1.7575",
+    "sellVol": "117.5590",
+    "buyVol": "206.6050",
+    "timestamp": 1784151900000
+  },
+  {
+    "buySellRatio": "1.7319",
+    "sellVol": "196.9850",
+    "buyVol": "341.1550",
+    "timestamp": 1784152800000
+  },
+  {
+    "buySellRatio": "1.1725",
+    "sellVol": "213.0920",
+    "buyVol": "249.8470",
+    "timestamp": 1784153700000
+  },
+  {
+    "buySellRatio": "0.7682",
+    "sellVol": "271.5150",
+    "buyVol": "208.5710",
+    "timestamp": 1784154600000
+  },
+  {
+    "buySellRatio": "1.5422",
+    "sellVol": "259.3090",
+    "buyVol": "399.9180",
+    "timestamp": 1784155500000
+  },
+  {
+    "buySellRatio": "1.4573",
+    "sellVol": "143.8460",
+    "buyVol": "209.6290",
+    "timestamp": 1784156400000
+  },
+  {
+    "buySellRatio": "0.7892",
+    "sellVol": "133.9400",
+    "buyVol": "105.7000",
+    "timestamp": 1784157300000
+  },
+  {
+    "buySellRatio": "0.3216",
+    "sellVol": "841.4570",
+    "buyVol": "270.5840",
+    "timestamp": 1784158200000
+  },
+  {
+    "buySellRatio": "1.2241",
+    "sellVol": "337.1650",
+    "buyVol": "412.7330",
+    "timestamp": 1784159100000
+  },
+  {
+    "buySellRatio": "1.4987",
+    "sellVol": "236.7410",
+    "buyVol": "354.8110",
+    "timestamp": 1784160000000
+  },
+  {
+    "buySellRatio": "0.6669",
+    "sellVol": "1191.1860",
+    "buyVol": "794.4170",
+    "timestamp": 1784160900000
+  },
+  {
+    "buySellRatio": "0.8573",
+    "sellVol": "826.8890",
+    "buyVol": "708.8940",
+    "timestamp": 1784161800000
+  },
+  {
+    "buySellRatio": "1.5831",
+    "sellVol": "295.9880",
+    "buyVol": "468.5760",
+    "timestamp": 1784162700000
+  },
+  {
+    "buySellRatio": "1.3729",
+    "sellVol": "243.9300",
+    "buyVol": "334.8980",
+    "timestamp": 1784163600000
+  },
+  {
+    "buySellRatio": "0.8157",
+    "sellVol": "1043.4900",
+    "buyVol": "851.1860",
+    "timestamp": 1784164500000
+  },
+  {
+    "buySellRatio": "0.9299",
+    "sellVol": "437.6330",
+    "buyVol": "406.9340",
+    "timestamp": 1784165400000
+  },
+  {
+    "buySellRatio": "1.3651",
+    "sellVol": "600.6190",
+    "buyVol": "819.9160",
+    "timestamp": 1784166300000
+  },
+  {
+    "buySellRatio": "0.9421",
+    "sellVol": "255.5190",
+    "buyVol": "240.7320",
+    "timestamp": 1784167200000
+  },
+  {
+    "buySellRatio": "1.2820",
+    "sellVol": "229.9870",
+    "buyVol": "294.8520",
+    "timestamp": 1784168100000
+  },
+  {
+    "buySellRatio": "1.4051",
+    "sellVol": "170.7370",
+    "buyVol": "239.9100",
+    "timestamp": 1784169000000
+  },
+  {
+    "buySellRatio": "1.8833",
+    "sellVol": "124.6800",
+    "buyVol": "234.8150",
+    "timestamp": 1784169900000
+  },
+  {
+    "buySellRatio": "1.3399",
+    "sellVol": "211.4090",
+    "buyVol": "283.2700",
+    "timestamp": 1784170800000
+  },
+  {
+    "buySellRatio": "0.9373",
+    "sellVol": "253.3980",
+    "buyVol": "237.4990",
+    "timestamp": 1784171700000
+  },
+  {
+    "buySellRatio": "1.1515",
+    "sellVol": "237.6720",
+    "buyVol": "273.6800",
+    "timestamp": 1784172600000
+  },
+  {
+    "buySellRatio": "1.0888",
+    "sellVol": "262.4060",
+    "buyVol": "285.7080",
+    "timestamp": 1784173500000
+  },
+  {
+    "buySellRatio": "0.9852",
+    "sellVol": "231.8250",
+    "buyVol": "228.3900",
+    "timestamp": 1784174400000
+  },
+  {
+    "buySellRatio": "1.6513",
+    "sellVol": "238.4140",
+    "buyVol": "393.6900",
+    "timestamp": 1784175300000
+  },
+  {
+    "buySellRatio": "1.0141",
+    "sellVol": "195.3270",
+    "buyVol": "198.0820",
+    "timestamp": 1784176200000
+  },
+  {
+    "buySellRatio": "1.2929",
+    "sellVol": "230.4100",
+    "buyVol": "297.9020",
+    "timestamp": 1784177100000
+  },
+  {
+    "buySellRatio": "1.4148",
+    "sellVol": "395.0940",
+    "buyVol": "558.9780",
+    "timestamp": 1784178000000
+  },
+  {
+    "buySellRatio": "1.1337",
+    "sellVol": "1148.0900",
+    "buyVol": "1301.6060",
+    "timestamp": 1784178900000
+  },
+  {
+    "buySellRatio": "0.9720",
+    "sellVol": "988.4080",
+    "buyVol": "960.7620",
+    "timestamp": 1784179800000
+  },
+  {
+    "buySellRatio": "1.3257",
+    "sellVol": "388.4910",
+    "buyVol": "515.0270",
+    "timestamp": 1784180700000
+  },
+  {
+    "buySellRatio": "0.7631",
+    "sellVol": "574.7590",
+    "buyVol": "438.6090",
+    "timestamp": 1784181600000
+  },
+  {
+    "buySellRatio": "0.8992",
+    "sellVol": "305.1480",
+    "buyVol": "274.3750",
+    "timestamp": 1784182500000
+  },
+  {
+    "buySellRatio": "0.6250",
+    "sellVol": "770.0860",
+    "buyVol": "481.3320",
+    "timestamp": 1784183400000
+  },
+  {
+    "buySellRatio": "1.4166",
+    "sellVol": "245.8410",
+    "buyVol": "348.2680",
+    "timestamp": 1784184300000
+  },
+  {
+    "buySellRatio": "0.6537",
+    "sellVol": "418.3040",
+    "buyVol": "273.4470",
+    "timestamp": 1784185200000
+  },
+  {
+    "buySellRatio": "0.7592",
+    "sellVol": "1188.9320",
+    "buyVol": "902.6320",
+    "timestamp": 1784186100000
+  },
+  {
+    "buySellRatio": "0.7420",
+    "sellVol": "2788.8420",
+    "buyVol": "2069.3300",
+    "timestamp": 1784187000000
+  },
+  {
+    "buySellRatio": "0.9628",
+    "sellVol": "2357.7240",
+    "buyVol": "2270.0510",
+    "timestamp": 1784187900000
+  },
+  {
+    "buySellRatio": "0.6286",
+    "sellVol": "2734.5230",
+    "buyVol": "1718.7880",
+    "timestamp": 1784188800000
+  },
+  {
+    "buySellRatio": "1.0497",
+    "sellVol": "2156.2260",
+    "buyVol": "2263.3580",
+    "timestamp": 1784189700000
+  },
+  {
+    "buySellRatio": "0.9823",
+    "sellVol": "2123.1980",
+    "buyVol": "2085.5320",
+    "timestamp": 1784190600000
+  },
+  {
+    "buySellRatio": "1.1793",
+    "sellVol": "690.2010",
+    "buyVol": "813.9750",
+    "timestamp": 1784191500000
+  },
+  {
+    "buySellRatio": "1.0192",
+    "sellVol": "434.3200",
+    "buyVol": "442.6440",
+    "timestamp": 1784192400000
+  },
+  {
+    "buySellRatio": "0.8821",
+    "sellVol": "536.6600",
+    "buyVol": "473.4000",
+    "timestamp": 1784193300000
+  },
+  {
+    "buySellRatio": "1.1829",
+    "sellVol": "277.6380",
+    "buyVol": "328.4140",
+    "timestamp": 1784194200000
+  },
+  {
+    "buySellRatio": "0.9682",
+    "sellVol": "425.2950",
+    "buyVol": "411.7810",
+    "timestamp": 1784195100000
+  },
+  {
+    "buySellRatio": "1.6407",
+    "sellVol": "298.9670",
+    "buyVol": "490.5010",
+    "timestamp": 1784196000000
+  },
+  {
+    "buySellRatio": "1.5102",
+    "sellVol": "276.8650",
+    "buyVol": "418.1080",
+    "timestamp": 1784196900000
+  },
+  {
+    "buySellRatio": "0.8859",
+    "sellVol": "389.7250",
+    "buyVol": "345.2400",
+    "timestamp": 1784197800000
+  },
+  {
+    "buySellRatio": "1.2003",
+    "sellVol": "197.0930",
+    "buyVol": "236.5610",
+    "timestamp": 1784198700000
+  },
+  {
+    "buySellRatio": "0.8150",
+    "sellVol": "288.9210",
+    "buyVol": "235.4640",
+    "timestamp": 1784199600000
+  },
+  {
+    "buySellRatio": "0.6783",
+    "sellVol": "429.0060",
+    "buyVol": "290.9950",
+    "timestamp": 1784200500000
+  },
+  {
+    "buySellRatio": "1.6288",
+    "sellVol": "166.4080",
+    "buyVol": "271.0490",
+    "timestamp": 1784201400000
+  },
+  {
+    "buySellRatio": "1.1292",
+    "sellVol": "598.8130",
+    "buyVol": "676.2030",
+    "timestamp": 1784202300000
+  },
+  {
+    "buySellRatio": "0.7248",
+    "sellVol": "374.8700",
+    "buyVol": "271.7090",
+    "timestamp": 1784203200000
+  },
+  {
+    "buySellRatio": "0.6731",
+    "sellVol": "602.5540",
+    "buyVol": "405.5770",
+    "timestamp": 1784204100000
+  },
+  {
+    "buySellRatio": "0.5957",
+    "sellVol": "1837.4670",
+    "buyVol": "1094.5220",
+    "timestamp": 1784205000000
+  },
+  {
+    "buySellRatio": "0.9322",
+    "sellVol": "1142.8150",
+    "buyVol": "1065.3300",
+    "timestamp": 1784205900000
+  },
+  {
+    "buySellRatio": "2.1682",
+    "sellVol": "420.2110",
+    "buyVol": "911.1060",
+    "timestamp": 1784206800000
+  },
+  {
+    "buySellRatio": "1.3845",
+    "sellVol": "863.1740",
+    "buyVol": "1195.0750",
+    "timestamp": 1784207700000
+  },
+  {
+    "buySellRatio": "0.9062",
+    "sellVol": "2938.2380",
+    "buyVol": "2662.7350",
+    "timestamp": 1784208600000
+  },
+  {
+    "buySellRatio": "1.0071",
+    "sellVol": "1145.0560",
+    "buyVol": "1153.2060",
+    "timestamp": 1784209500000
+  },
+  {
+    "buySellRatio": "1.3472",
+    "sellVol": "1824.6340",
+    "buyVol": "2458.2260",
+    "timestamp": 1784210400000
+  },
+  {
+    "buySellRatio": "1.1633",
+    "sellVol": "1519.7900",
+    "buyVol": "1767.9420",
+    "timestamp": 1784211300000
+  },
+  {
+    "buySellRatio": "0.8648",
+    "sellVol": "933.0860",
+    "buyVol": "806.9150",
+    "timestamp": 1784212200000
+  },
+  {
+    "buySellRatio": "0.6201",
+    "sellVol": "1937.6740",
+    "buyVol": "1201.5480",
+    "timestamp": 1784213100000
+  },
+  {
+    "buySellRatio": "1.0080",
+    "sellVol": "933.3320",
+    "buyVol": "940.8020",
+    "timestamp": 1784214000000
+  },
+  {
+    "buySellRatio": "1.5547",
+    "sellVol": "1307.6450",
+    "buyVol": "2033.0080",
+    "timestamp": 1784214900000
+  },
+  {
+    "buySellRatio": "0.9305",
+    "sellVol": "879.3190",
+    "buyVol": "818.1900",
+    "timestamp": 1784215800000
+  },
+  {
+    "buySellRatio": "0.6931",
+    "sellVol": "738.1170",
+    "buyVol": "511.6000",
+    "timestamp": 1784216700000
+  },
+  {
+    "buySellRatio": "0.6856",
+    "sellVol": "905.5100",
+    "buyVol": "620.8180",
+    "timestamp": 1784217600000
+  },
+  {
+    "buySellRatio": "0.8677",
+    "sellVol": "853.9230",
+    "buyVol": "740.9580",
+    "timestamp": 1784218500000
+  },
+  {
+    "buySellRatio": "0.8511",
+    "sellVol": "731.4020",
+    "buyVol": "622.5190",
+    "timestamp": 1784219400000
+  },
+  {
+    "buySellRatio": "0.9170",
+    "sellVol": "486.0480",
+    "buyVol": "445.6880",
+    "timestamp": 1784220300000
+  },
+  {
+    "buySellRatio": "0.4131",
+    "sellVol": "1545.5810",
+    "buyVol": "638.5020",
+    "timestamp": 1784221200000
+  },
+  {
+    "buySellRatio": "0.8027",
+    "sellVol": "1141.1710",
+    "buyVol": "915.9660",
+    "timestamp": 1784222100000
+  },
+  {
+    "buySellRatio": "0.6425",
+    "sellVol": "727.9090",
+    "buyVol": "467.6630",
+    "timestamp": 1784223000000
+  },
+  {
+    "buySellRatio": "0.7142",
+    "sellVol": "1242.4350",
+    "buyVol": "887.3220",
+    "timestamp": 1784223900000
+  },
+  {
+    "buySellRatio": "1.3635",
+    "sellVol": "430.6260",
+    "buyVol": "587.1700",
+    "timestamp": 1784224800000
+  },
+  {
+    "buySellRatio": "1.2656",
+    "sellVol": "433.1810",
+    "buyVol": "548.2350",
+    "timestamp": 1784225700000
+  },
+  {
+    "buySellRatio": "0.3946",
+    "sellVol": "650.9150",
+    "buyVol": "256.8510",
+    "timestamp": 1784226600000
+  },
+  {
+    "buySellRatio": "1.5715",
+    "sellVol": "210.5890",
+    "buyVol": "330.9370",
+    "timestamp": 1784227500000
+  },
+  {
+    "buySellRatio": "1.1091",
+    "sellVol": "260.4190",
+    "buyVol": "288.8240",
+    "timestamp": 1784228400000
+  },
+  {
+    "buySellRatio": "1.2188",
+    "sellVol": "196.5690",
+    "buyVol": "239.5780",
+    "timestamp": 1784229300000
+  },
+  {
+    "buySellRatio": "1.1049",
+    "sellVol": "167.9680",
+    "buyVol": "185.5920",
+    "timestamp": 1784230200000
+  },
+  {
+    "buySellRatio": "1.3618",
+    "sellVol": "173.8690",
+    "buyVol": "236.7830",
+    "timestamp": 1784231100000
+  },
+  {
+    "buySellRatio": "1.1468",
+    "sellVol": "159.2160",
+    "buyVol": "182.5910",
+    "timestamp": 1784232000000
+  },
+  {
+    "buySellRatio": "1.1705",
+    "sellVol": "134.3400",
+    "buyVol": "157.2510",
+    "timestamp": 1784232900000
+  },
+  {
+    "buySellRatio": "1.1642",
+    "sellVol": "142.7920",
+    "buyVol": "166.2440",
+    "timestamp": 1784233800000
+  },
+  {
+    "buySellRatio": "0.9589",
+    "sellVol": "161.3660",
+    "buyVol": "154.7370",
+    "timestamp": 1784234700000
+  },
+  {
+    "buySellRatio": "1.1893",
+    "sellVol": "149.6300",
+    "buyVol": "177.9500",
+    "timestamp": 1784235600000
+  },
+  {
+    "buySellRatio": "1.0902",
+    "sellVol": "103.4550",
+    "buyVol": "112.7890",
+    "timestamp": 1784236500000
+  },
+  {
+    "buySellRatio": "1.2065",
+    "sellVol": "216.1460",
+    "buyVol": "260.7850",
+    "timestamp": 1784237400000
+  },
+  {
+    "buySellRatio": "0.7464",
+    "sellVol": "135.8130",
+    "buyVol": "101.3650",
+    "timestamp": 1784238300000
+  },
+  {
+    "buySellRatio": "1.5092",
+    "sellVol": "299.0930",
+    "buyVol": "451.3810",
+    "timestamp": 1784239200000
+  },
+  {
+    "buySellRatio": "0.6217",
+    "sellVol": "439.3040",
+    "buyVol": "273.1100",
+    "timestamp": 1784240100000
+  },
+  {
+    "buySellRatio": "2.5431",
+    "sellVol": "385.6070",
+    "buyVol": "980.6180",
+    "timestamp": 1784241000000
+  },
+  {
+    "buySellRatio": "0.4443",
+    "sellVol": "607.0430",
+    "buyVol": "269.7080",
+    "timestamp": 1784241900000
+  },
+  {
+    "buySellRatio": "0.4081",
+    "sellVol": "911.9660",
+    "buyVol": "372.2030",
+    "timestamp": 1784242800000
+  },
+  {
+    "buySellRatio": "0.6003",
+    "sellVol": "1777.3930",
+    "buyVol": "1067.0320",
+    "timestamp": 1784243700000
+  },
+  {
+    "buySellRatio": "1.4032",
+    "sellVol": "459.8690",
+    "buyVol": "645.2950",
+    "timestamp": 1784244600000
+  },
+  {
+    "buySellRatio": "0.9470",
+    "sellVol": "575.2190",
+    "buyVol": "544.7050",
+    "timestamp": 1784245500000
+  },
+  {
+    "buySellRatio": "1.0424",
+    "sellVol": "626.3440",
+    "buyVol": "652.9310",
+    "timestamp": 1784246400000
+  },
+  {
+    "buySellRatio": "0.7601",
+    "sellVol": "545.4800",
+    "buyVol": "414.6350",
+    "timestamp": 1784247300000
+  },
+  {
+    "buySellRatio": "0.5512",
+    "sellVol": "1866.3640",
+    "buyVol": "1028.7520",
+    "timestamp": 1784248200000
+  },
+  {
+    "buySellRatio": "1.2479",
+    "sellVol": "532.3200",
+    "buyVol": "664.2870",
+    "timestamp": 1784249100000
+  },
+  {
+    "buySellRatio": "1.7487",
+    "sellVol": "685.0770",
+    "buyVol": "1197.9920",
+    "timestamp": 1784250000000
+  },
+  {
+    "buySellRatio": "0.7508",
+    "sellVol": "702.3960",
+    "buyVol": "527.3520",
+    "timestamp": 1784250900000
+  },
+  {
+    "buySellRatio": "0.5703",
+    "sellVol": "604.9590",
+    "buyVol": "345.0010",
+    "timestamp": 1784251800000
+  },
+  {
+    "buySellRatio": "0.8233",
+    "sellVol": "2423.2730",
+    "buyVol": "1994.9790",
+    "timestamp": 1784252700000
+  },
+  {
+    "buySellRatio": "0.9462",
+    "sellVol": "1063.5680",
+    "buyVol": "1006.3510",
+    "timestamp": 1784253600000
+  },
+  {
+    "buySellRatio": "1.2307",
+    "sellVol": "359.0720",
+    "buyVol": "441.9270",
+    "timestamp": 1784254500000
+  },
+  {
+    "buySellRatio": "0.4300",
+    "sellVol": "1107.4910",
+    "buyVol": "476.2760",
+    "timestamp": 1784255400000
+  },
+  {
+    "buySellRatio": "0.8731",
+    "sellVol": "466.5500",
+    "buyVol": "407.3620",
+    "timestamp": 1784256300000
+  },
+  {
+    "buySellRatio": "1.5204",
+    "sellVol": "412.7920",
+    "buyVol": "627.6130",
+    "timestamp": 1784257200000
+  },
+  {
+    "buySellRatio": "1.7637",
+    "sellVol": "333.2900",
+    "buyVol": "587.8260",
+    "timestamp": 1784258100000
+  },
+  {
+    "buySellRatio": "0.8926",
+    "sellVol": "401.1770",
+    "buyVol": "358.0850",
+    "timestamp": 1784259000000
+  },
+  {
+    "buySellRatio": "0.8918",
+    "sellVol": "440.6570",
+    "buyVol": "392.9660",
+    "timestamp": 1784259900000
+  },
+  {
+    "buySellRatio": "0.9424",
+    "sellVol": "309.3130",
+    "buyVol": "291.5060",
+    "timestamp": 1784260800000
+  },
+  {
+    "buySellRatio": "0.6775",
+    "sellVol": "1289.1870",
+    "buyVol": "873.3740",
+    "timestamp": 1784261700000
+  },
+  {
+    "buySellRatio": "2.1950",
+    "sellVol": "404.0510",
+    "buyVol": "886.9110",
+    "timestamp": 1784262600000
+  },
+  {
+    "buySellRatio": "1.9232",
+    "sellVol": "347.0440",
+    "buyVol": "667.4190",
+    "timestamp": 1784263500000
+  },
+  {
+    "buySellRatio": "1.2249",
+    "sellVol": "284.9030",
+    "buyVol": "348.9830",
+    "timestamp": 1784264400000
+  },
+  {
+    "buySellRatio": "0.3213",
+    "sellVol": "1980.7510",
+    "buyVol": "636.4870",
+    "timestamp": 1784265300000
+  },
+  {
+    "buySellRatio": "0.5979",
+    "sellVol": "3630.4220",
+    "buyVol": "2170.5350",
+    "timestamp": 1784266200000
+  },
+  {
+    "buySellRatio": "1.1734",
+    "sellVol": "3021.2710",
+    "buyVol": "3545.2470",
+    "timestamp": 1784267100000
+  },
+  {
+    "buySellRatio": "1.2376",
+    "sellVol": "1842.3520",
+    "buyVol": "2280.0040",
+    "timestamp": 1784268000000
+  },
+  {
+    "buySellRatio": "1.0252",
+    "sellVol": "2179.7920",
+    "buyVol": "2234.7440",
+    "timestamp": 1784268900000
+  },
+  {
+    "buySellRatio": "0.9960",
+    "sellVol": "679.2530",
+    "buyVol": "676.5210",
+    "timestamp": 1784269800000
+  },
+  {
+    "buySellRatio": "1.5076",
+    "sellVol": "317.7770",
+    "buyVol": "479.0760",
+    "timestamp": 1784270700000
+  },
+  {
+    "buySellRatio": "1.4017",
+    "sellVol": "394.4290",
+    "buyVol": "552.8890",
+    "timestamp": 1784271600000
+  },
+  {
+    "buySellRatio": "1.1665",
+    "sellVol": "497.7750",
+    "buyVol": "580.6590",
+    "timestamp": 1784272500000
+  },
+  {
+    "buySellRatio": "1.0019",
+    "sellVol": "681.6610",
+    "buyVol": "682.9360",
+    "timestamp": 1784273400000
+  },
+  {
+    "buySellRatio": "0.9258",
+    "sellVol": "746.1390",
+    "buyVol": "690.7900",
+    "timestamp": 1784274300000
+  },
+  {
+    "buySellRatio": "1.4747",
+    "sellVol": "980.4310",
+    "buyVol": "1445.8360",
+    "timestamp": 1784275200000
+  },
+  {
+    "buySellRatio": "0.9987",
+    "sellVol": "735.5740",
+    "buyVol": "734.6540",
+    "timestamp": 1784276100000
+  },
+  {
+    "buySellRatio": "0.7419",
+    "sellVol": "929.4370",
+    "buyVol": "689.5760",
+    "timestamp": 1784277000000
+  },
+  {
+    "buySellRatio": "1.7668",
+    "sellVol": "456.6610",
+    "buyVol": "806.8460",
+    "timestamp": 1784277900000
+  },
+  {
+    "buySellRatio": "1.3557",
+    "sellVol": "387.1030",
+    "buyVol": "524.7890",
+    "timestamp": 1784278800000
+  },
+  {
+    "buySellRatio": "1.3711",
+    "sellVol": "291.7310",
+    "buyVol": "399.9840",
+    "timestamp": 1784279700000
+  },
+  {
+    "buySellRatio": "1.5359",
+    "sellVol": "538.3110",
+    "buyVol": "826.7960",
+    "timestamp": 1784280600000
+  },
+  {
+    "buySellRatio": "0.5883",
+    "sellVol": "783.8330",
+    "buyVol": "461.0930",
+    "timestamp": 1784281500000
+  },
+  {
+    "buySellRatio": "2.1271",
+    "sellVol": "534.0440",
+    "buyVol": "1135.9880",
+    "timestamp": 1784282400000
+  },
+  {
+    "buySellRatio": "1.0186",
+    "sellVol": "469.9470",
+    "buyVol": "478.6700",
+    "timestamp": 1784283300000
+  },
+  {
+    "buySellRatio": "1.6587",
+    "sellVol": "337.2280",
+    "buyVol": "559.3460",
+    "timestamp": 1784284200000
+  },
+  {
+    "buySellRatio": "0.8139",
+    "sellVol": "397.0960",
+    "buyVol": "323.1800",
+    "timestamp": 1784285100000
+  },
+  {
+    "buySellRatio": "0.5985",
+    "sellVol": "537.8330",
+    "buyVol": "321.9170",
+    "timestamp": 1784286000000
+  },
+  {
+    "buySellRatio": "1.3159",
+    "sellVol": "349.3980",
+    "buyVol": "459.7900",
+    "timestamp": 1784286900000
+  },
+  {
+    "buySellRatio": "1.3652",
+    "sellVol": "893.1960",
+    "buyVol": "1219.4200",
+    "timestamp": 1784287800000
+  },
+  {
+    "buySellRatio": "0.7394",
+    "sellVol": "930.5670",
+    "buyVol": "688.0390",
+    "timestamp": 1784288700000
+  },
+  {
+    "buySellRatio": "0.4617",
+    "sellVol": "954.5720",
+    "buyVol": "440.7680",
+    "timestamp": 1784289600000
+  },
+  {
+    "buySellRatio": "0.4976",
+    "sellVol": "853.4820",
+    "buyVol": "424.7190",
+    "timestamp": 1784290500000
+  },
+  {
+    "buySellRatio": "0.6690",
+    "sellVol": "845.1570",
+    "buyVol": "565.3950",
+    "timestamp": 1784291400000
+  },
+  {
+    "buySellRatio": "0.7055",
+    "sellVol": "679.4330",
+    "buyVol": "479.3510",
+    "timestamp": 1784292300000
+  },
+  {
+    "buySellRatio": "0.6020",
+    "sellVol": "2672.3440",
+    "buyVol": "1608.8810",
+    "timestamp": 1784293200000
+  },
+  {
+    "buySellRatio": "0.9883",
+    "sellVol": "1048.9590",
+    "buyVol": "1036.6510",
+    "timestamp": 1784294100000
+  },
+  {
+    "buySellRatio": "0.8859",
+    "sellVol": "3017.3640",
+    "buyVol": "2673.2040",
+    "timestamp": 1784295000000
+  },
+  {
+    "buySellRatio": "1.6997",
+    "sellVol": "1629.8110",
+    "buyVol": "2770.1240",
+    "timestamp": 1784295900000
+  },
+  {
+    "buySellRatio": "1.1370",
+    "sellVol": "2390.0060",
+    "buyVol": "2717.4540",
+    "timestamp": 1784296800000
+  },
+  {
+    "buySellRatio": "0.5952",
+    "sellVol": "1640.7990",
+    "buyVol": "976.5270",
+    "timestamp": 1784297700000
+  },
+  {
+    "buySellRatio": "1.0564",
+    "sellVol": "985.7600",
+    "buyVol": "1041.4000",
+    "timestamp": 1784298600000
+  },
+  {
+    "buySellRatio": "0.5902",
+    "sellVol": "945.6600",
+    "buyVol": "558.0890",
+    "timestamp": 1784299500000
+  },
+  {
+    "buySellRatio": "0.6702",
+    "sellVol": "2211.7370",
+    "buyVol": "1482.3900",
+    "timestamp": 1784300400000
+  },
+  {
+    "buySellRatio": "1.9578",
+    "sellVol": "768.0410",
+    "buyVol": "1503.7070",
+    "timestamp": 1784301300000
+  },
+  {
+    "buySellRatio": "0.8691",
+    "sellVol": "979.2570",
+    "buyVol": "851.0490",
+    "timestamp": 1784302200000
+  },
+  {
+    "buySellRatio": "1.6164",
+    "sellVol": "573.7660",
+    "buyVol": "927.4610",
+    "timestamp": 1784303100000
+  },
+  {
+    "buySellRatio": "1.0502",
+    "sellVol": "1373.5680",
+    "buyVol": "1442.5820",
+    "timestamp": 1784304000000
+  },
+  {
+    "buySellRatio": "0.7308",
+    "sellVol": "1286.4120",
+    "buyVol": "940.1370",
+    "timestamp": 1784304900000
+  },
+  {
+    "buySellRatio": "0.8989",
+    "sellVol": "512.4250",
+    "buyVol": "460.6270",
+    "timestamp": 1784305800000
+  },
+  {
+    "buySellRatio": "0.9924",
+    "sellVol": "1524.9810",
+    "buyVol": "1513.3840",
+    "timestamp": 1784306700000
+  },
+  {
+    "buySellRatio": "1.4388",
+    "sellVol": "2442.7130",
+    "buyVol": "3514.4790",
+    "timestamp": 1784307600000
+  },
+  {
+    "buySellRatio": "1.2713",
+    "sellVol": "1123.5470",
+    "buyVol": "1428.4100",
+    "timestamp": 1784308500000
+  },
+  {
+    "buySellRatio": "0.7836",
+    "sellVol": "1016.4340",
+    "buyVol": "796.4870",
+    "timestamp": 1784309400000
+  },
+  {
+    "buySellRatio": "0.9490",
+    "sellVol": "1286.8200",
+    "buyVol": "1221.2330",
+    "timestamp": 1784310300000
+  },
+  {
+    "buySellRatio": "0.9529",
+    "sellVol": "738.4530",
+    "buyVol": "703.6890",
+    "timestamp": 1784311200000
+  },
+  {
+    "buySellRatio": "0.5892",
+    "sellVol": "1240.3860",
+    "buyVol": "730.8100",
+    "timestamp": 1784312100000
+  },
+  {
+    "buySellRatio": "1.4485",
+    "sellVol": "573.4330",
+    "buyVol": "830.6450",
+    "timestamp": 1784313000000
+  },
+  {
+    "buySellRatio": "0.9506",
+    "sellVol": "1930.9130",
+    "buyVol": "1835.6180",
+    "timestamp": 1784313900000
+  },
+  {
+    "buySellRatio": "0.7285",
+    "sellVol": "907.2310",
+    "buyVol": "660.8960",
+    "timestamp": 1784314800000
+  },
+  {
+    "buySellRatio": "0.7045",
+    "sellVol": "744.5310",
+    "buyVol": "524.5410",
+    "timestamp": 1784315700000
+  },
+  {
+    "buySellRatio": "1.4533",
+    "sellVol": "345.5390",
+    "buyVol": "502.1730",
+    "timestamp": 1784316600000
+  },
+  {
+    "buySellRatio": "1.1903",
+    "sellVol": "304.8370",
+    "buyVol": "362.8380",
+    "timestamp": 1784317500000
+  },
+  {
+    "buySellRatio": "0.6008",
+    "sellVol": "505.9200",
+    "buyVol": "303.9750",
+    "timestamp": 1784318400000
+  },
+  {
+    "buySellRatio": "0.8110",
+    "sellVol": "648.4760",
+    "buyVol": "525.9080",
+    "timestamp": 1784319300000
+  },
+  {
+    "buySellRatio": "1.0344",
+    "sellVol": "309.4490",
+    "buyVol": "320.1060",
+    "timestamp": 1784320200000
+  },
+  {
+    "buySellRatio": "1.0325",
+    "sellVol": "386.8850",
+    "buyVol": "399.4650",
+    "timestamp": 1784321100000
+  },
+  {
+    "buySellRatio": "0.8679",
+    "sellVol": "179.9770",
+    "buyVol": "156.1990",
+    "timestamp": 1784322000000
+  },
+  {
+    "buySellRatio": "0.8765",
+    "sellVol": "299.3520",
+    "buyVol": "262.3930",
+    "timestamp": 1784322900000
+  },
+  {
+    "buySellRatio": "0.8323",
+    "sellVol": "198.8440",
+    "buyVol": "165.5070",
+    "timestamp": 1784323800000
+  },
+  {
+    "buySellRatio": "0.6646",
+    "sellVol": "173.2750",
+    "buyVol": "115.1520",
+    "timestamp": 1784324700000
+  },
+  {
+    "buySellRatio": "0.7281",
+    "sellVol": "224.9100",
+    "buyVol": "163.7500",
+    "timestamp": 1784325600000
+  },
+  {
+    "buySellRatio": "0.5013",
+    "sellVol": "369.2170",
+    "buyVol": "185.0950",
+    "timestamp": 1784326500000
+  },
+  {
+    "buySellRatio": "0.9687",
+    "sellVol": "281.8700",
+    "buyVol": "273.0410",
+    "timestamp": 1784327400000
+  },
+  {
+    "buySellRatio": "0.9907",
+    "sellVol": "128.5480",
+    "buyVol": "127.3490",
+    "timestamp": 1784328300000
+  },
+  {
+    "buySellRatio": "0.4740",
+    "sellVol": "282.1440",
+    "buyVol": "133.7260",
+    "timestamp": 1784329200000
+  },
+  {
+    "buySellRatio": "1.5560",
+    "sellVol": "90.8370",
+    "buyVol": "141.3420",
+    "timestamp": 1784330100000
+  },
+  {
+    "buySellRatio": "0.7745",
+    "sellVol": "225.0870",
+    "buyVol": "174.3370",
+    "timestamp": 1784331000000
+  },
+  {
+    "buySellRatio": "0.7906",
+    "sellVol": "217.5600",
+    "buyVol": "172.0100",
+    "timestamp": 1784331900000
+  },
+  {
+    "buySellRatio": "0.7884",
+    "sellVol": "281.8190",
+    "buyVol": "222.1870",
+    "timestamp": 1784332800000
+  },
+  {
+    "buySellRatio": "2.1151",
+    "sellVol": "117.6210",
+    "buyVol": "248.7850",
+    "timestamp": 1784333700000
+  },
+  {
+    "buySellRatio": "0.6457",
+    "sellVol": "142.9660",
+    "buyVol": "92.3170",
+    "timestamp": 1784334600000
+  },
+  {
+    "buySellRatio": "0.5411",
+    "sellVol": "249.5750",
+    "buyVol": "135.0360",
+    "timestamp": 1784335500000
+  },
+  {
+    "buySellRatio": "0.7598",
+    "sellVol": "186.7060",
+    "buyVol": "141.8590",
+    "timestamp": 1784336400000
+  },
+  {
+    "buySellRatio": "1.5382",
+    "sellVol": "150.2360",
+    "buyVol": "231.0890",
+    "timestamp": 1784337300000
+  },
+  {
+    "buySellRatio": "0.7995",
+    "sellVol": "145.9460",
+    "buyVol": "116.6880",
+    "timestamp": 1784338200000
+  },
+  {
+    "buySellRatio": "1.9676",
+    "sellVol": "103.7250",
+    "buyVol": "204.0940",
+    "timestamp": 1784339100000
+  },
+  {
+    "buySellRatio": "0.6777",
+    "sellVol": "162.4750",
+    "buyVol": "110.1120",
+    "timestamp": 1784340000000
+  },
+  {
+    "buySellRatio": "1.8908",
+    "sellVol": "86.3880",
+    "buyVol": "163.3390",
+    "timestamp": 1784340900000
+  },
+  {
+    "buySellRatio": "1.0756",
+    "sellVol": "255.2550",
+    "buyVol": "274.5420",
+    "timestamp": 1784341800000
+  },
+  {
+    "buySellRatio": "1.1657",
+    "sellVol": "135.1840",
+    "buyVol": "157.5830",
+    "timestamp": 1784342700000
+  },
+  {
+    "buySellRatio": "0.7662",
+    "sellVol": "140.3950",
+    "buyVol": "107.5650",
+    "timestamp": 1784343600000
+  },
+  {
+    "buySellRatio": "0.7406",
+    "sellVol": "89.3580",
+    "buyVol": "66.1790",
+    "timestamp": 1784344500000
+  },
+  {
+    "buySellRatio": "1.3465",
+    "sellVol": "112.8110",
+    "buyVol": "151.8990",
+    "timestamp": 1784345400000
+  },
+  {
+    "buySellRatio": "3.0376",
+    "sellVol": "136.8110",
+    "buyVol": "415.5770",
+    "timestamp": 1784346300000
+  },
+  {
+    "buySellRatio": "1.5140",
+    "sellVol": "92.4490",
+    "buyVol": "139.9650",
+    "timestamp": 1784347200000
+  },
+  {
+    "buySellRatio": "0.8349",
+    "sellVol": "121.6940",
+    "buyVol": "101.5970",
+    "timestamp": 1784348100000
+  },
+  {
+    "buySellRatio": "0.9958",
+    "sellVol": "82.3930",
+    "buyVol": "82.0470",
+    "timestamp": 1784349000000
+  },
+  {
+    "buySellRatio": "2.4131",
+    "sellVol": "46.9440",
+    "buyVol": "113.2820",
+    "timestamp": 1784349900000
+  },
+  {
+    "buySellRatio": "0.2632",
+    "sellVol": "203.3220",
+    "buyVol": "53.5080",
+    "timestamp": 1784350800000
+  },
+  {
+    "buySellRatio": "0.9648",
+    "sellVol": "203.1000",
+    "buyVol": "195.9500",
+    "timestamp": 1784351700000
+  },
+  {
+    "buySellRatio": "0.6621",
+    "sellVol": "112.3850",
+    "buyVol": "74.4130",
+    "timestamp": 1784352600000
+  },
+  {
+    "buySellRatio": "1.0866",
+    "sellVol": "111.4820",
+    "buyVol": "121.1310",
+    "timestamp": 1784353500000
+  },
+  {
+    "buySellRatio": "1.1637",
+    "sellVol": "68.9290",
+    "buyVol": "80.2150",
+    "timestamp": 1784354400000
+  },
+  {
+    "buySellRatio": "3.0299",
+    "sellVol": "82.6570",
+    "buyVol": "250.4420",
+    "timestamp": 1784355300000
+  },
+  {
+    "buySellRatio": "0.7716",
+    "sellVol": "149.5590",
+    "buyVol": "115.4000",
+    "timestamp": 1784356200000
+  },
+  {
+    "buySellRatio": "0.6559",
+    "sellVol": "84.5460",
+    "buyVol": "55.4540",
+    "timestamp": 1784357100000
+  },
+  {
+    "buySellRatio": "1.7634",
+    "sellVol": "134.8750",
+    "buyVol": "237.8330",
+    "timestamp": 1784358000000
+  },
+  {
+    "buySellRatio": "0.6903",
+    "sellVol": "182.7360",
+    "buyVol": "126.1350",
+    "timestamp": 1784358900000
+  },
+  {
+    "buySellRatio": "1.1183",
+    "sellVol": "117.5410",
+    "buyVol": "131.4500",
+    "timestamp": 1784359800000
+  },
+  {
+    "buySellRatio": "1.0405",
+    "sellVol": "316.7670",
+    "buyVol": "329.6060",
+    "timestamp": 1784360700000
+  },
+  {
+    "buySellRatio": "1.1315",
+    "sellVol": "204.3600",
+    "buyVol": "231.2410",
+    "timestamp": 1784361600000
+  },
+  {
+    "buySellRatio": "2.6240",
+    "sellVol": "121.7970",
+    "buyVol": "319.5950",
+    "timestamp": 1784362500000
+  },
+  {
+    "buySellRatio": "0.9267",
+    "sellVol": "81.5200",
+    "buyVol": "75.5420",
+    "timestamp": 1784363400000
+  },
+  {
+    "buySellRatio": "0.9211",
+    "sellVol": "171.6650",
+    "buyVol": "158.1170",
+    "timestamp": 1784364300000
+  },
+  {
+    "buySellRatio": "0.9546",
+    "sellVol": "115.8270",
+    "buyVol": "110.5660",
+    "timestamp": 1784365200000
+  },
+  {
+    "buySellRatio": "0.5754",
+    "sellVol": "295.0120",
+    "buyVol": "169.7410",
+    "timestamp": 1784366100000
+  },
+  {
+    "buySellRatio": "1.2509",
+    "sellVol": "79.9950",
+    "buyVol": "100.0640",
+    "timestamp": 1784367000000
+  },
+  {
+    "buySellRatio": "0.9677",
+    "sellVol": "86.2490",
+    "buyVol": "83.4640",
+    "timestamp": 1784367900000
+  },
+  {
+    "buySellRatio": "1.2382",
+    "sellVol": "76.3080",
+    "buyVol": "94.4830",
+    "timestamp": 1784368800000
+  },
+  {
+    "buySellRatio": "1.6667",
+    "sellVol": "40.5760",
+    "buyVol": "67.6270",
+    "timestamp": 1784369700000
+  },
+  {
+    "buySellRatio": "1.5140",
+    "sellVol": "58.0510",
+    "buyVol": "87.8870",
+    "timestamp": 1784370600000
+  },
+  {
+    "buySellRatio": "0.3920",
+    "sellVol": "111.0080",
+    "buyVol": "43.5150",
+    "timestamp": 1784371500000
+  },
+  {
+    "buySellRatio": "1.3381",
+    "sellVol": "98.4620",
+    "buyVol": "131.7490",
+    "timestamp": 1784372400000
+  },
+  {
+    "buySellRatio": "1.0848",
+    "sellVol": "59.6990",
+    "buyVol": "64.7600",
+    "timestamp": 1784373300000
+  },
+  {
+    "buySellRatio": "1.2086",
+    "sellVol": "63.1220",
+    "buyVol": "76.2890",
+    "timestamp": 1784374200000
+  },
+  {
+    "buySellRatio": "2.2827",
+    "sellVol": "184.9830",
+    "buyVol": "422.2640",
+    "timestamp": 1784375100000
+  },
+  {
+    "buySellRatio": "1.5201",
+    "sellVol": "519.2280",
+    "buyVol": "789.2600",
+    "timestamp": 1784376000000
+  },
+  {
+    "buySellRatio": "0.8638",
+    "sellVol": "342.4640",
+    "buyVol": "295.8270",
+    "timestamp": 1784376900000
+  },
+  {
+    "buySellRatio": "1.3226",
+    "sellVol": "319.2500",
+    "buyVol": "422.2410",
+    "timestamp": 1784377800000
+  },
+  {
+    "buySellRatio": "1.8199",
+    "sellVol": "347.0500",
+    "buyVol": "631.5910",
+    "timestamp": 1784378700000
+  },
+  {
+    "buySellRatio": "0.5064",
+    "sellVol": "949.0170",
+    "buyVol": "480.5620",
+    "timestamp": 1784379600000
+  },
+  {
+    "buySellRatio": "1.2134",
+    "sellVol": "422.2260",
+    "buyVol": "512.3490",
+    "timestamp": 1784380500000
+  },
+  {
+    "buySellRatio": "0.7542",
+    "sellVol": "274.1370",
+    "buyVol": "206.7480",
+    "timestamp": 1784381400000
+  },
+  {
+    "buySellRatio": "1.4138",
+    "sellVol": "141.4550",
+    "buyVol": "199.9920",
+    "timestamp": 1784382300000
+  },
+  {
+    "buySellRatio": "1.1364",
+    "sellVol": "230.4260",
+    "buyVol": "261.8460",
+    "timestamp": 1784383200000
+  },
+  {
+    "buySellRatio": "0.7280",
+    "sellVol": "164.9980",
+    "buyVol": "120.1130",
+    "timestamp": 1784384100000
+  },
+  {
+    "buySellRatio": "0.8831",
+    "sellVol": "222.6560",
+    "buyVol": "196.6250",
+    "timestamp": 1784385000000
+  },
+  {
+    "buySellRatio": "0.8303",
+    "sellVol": "187.5040",
+    "buyVol": "155.6810",
+    "timestamp": 1784385900000
+  },
+  {
+    "buySellRatio": "0.6982",
+    "sellVol": "204.9300",
+    "buyVol": "143.0870",
+    "timestamp": 1784386800000
+  },
+  {
+    "buySellRatio": "1.0032",
+    "sellVol": "130.9290",
+    "buyVol": "131.3520",
+    "timestamp": 1784387700000
+  },
+  {
+    "buySellRatio": "0.8026",
+    "sellVol": "196.2250",
+    "buyVol": "157.4900",
+    "timestamp": 1784388600000
+  },
+  {
+    "buySellRatio": "1.8698",
+    "sellVol": "156.5160",
+    "buyVol": "292.6570",
+    "timestamp": 1784389500000
+  },
+  {
+    "buySellRatio": "0.9029",
+    "sellVol": "153.7800",
+    "buyVol": "138.8540",
+    "timestamp": 1784390400000
+  },
+  {
+    "buySellRatio": "0.7161",
+    "sellVol": "114.0460",
+    "buyVol": "81.6640",
+    "timestamp": 1784391300000
+  },
+  {
+    "buySellRatio": "1.1346",
+    "sellVol": "84.6270",
+    "buyVol": "96.0220",
+    "timestamp": 1784392200000
+  },
+  {
+    "buySellRatio": "2.3077",
+    "sellVol": "955.6660",
+    "buyVol": "2205.3520",
+    "timestamp": 1784393100000
+  },
+  {
+    "buySellRatio": "1.1711",
+    "sellVol": "471.6710",
+    "buyVol": "552.3650",
+    "timestamp": 1784394000000
+  },
+  {
+    "buySellRatio": "1.6761",
+    "sellVol": "684.1220",
+    "buyVol": "1146.6890",
+    "timestamp": 1784394900000
+  },
+  {
+    "buySellRatio": "1.4912",
+    "sellVol": "436.5780",
+    "buyVol": "651.0360",
+    "timestamp": 1784395800000
+  },
+  {
+    "buySellRatio": "1.5115",
+    "sellVol": "523.8420",
+    "buyVol": "791.7950",
+    "timestamp": 1784396700000
+  },
+  {
+    "buySellRatio": "0.9002",
+    "sellVol": "342.0790",
+    "buyVol": "307.9350",
+    "timestamp": 1784397600000
+  },
+  {
+    "buySellRatio": "1.8636",
+    "sellVol": "892.3200",
+    "buyVol": "1662.9190",
+    "timestamp": 1784398500000
+  },
+  {
+    "buySellRatio": "0.9469",
+    "sellVol": "403.4280",
+    "buyVol": "382.0230",
+    "timestamp": 1784399400000
+  },
+  {
+    "buySellRatio": "0.7481",
+    "sellVol": "257.6240",
+    "buyVol": "192.7360",
+    "timestamp": 1784400300000
+  },
+  {
+    "buySellRatio": "1.3243",
+    "sellVol": "156.8510",
+    "buyVol": "207.7120",
+    "timestamp": 1784401200000
+  },
+  {
+    "buySellRatio": "0.5643",
+    "sellVol": "433.7220",
+    "buyVol": "244.7670",
+    "timestamp": 1784402100000
+  },
+  {
+    "buySellRatio": "0.9903",
+    "sellVol": "145.3060",
+    "buyVol": "143.9000",
+    "timestamp": 1784403000000
+  },
+  {
+    "buySellRatio": "1.5911",
+    "sellVol": "150.2440",
+    "buyVol": "239.0470",
+    "timestamp": 1784403900000
+  },
+  {
+    "buySellRatio": "0.7901",
+    "sellVol": "484.0880",
+    "buyVol": "382.4650",
+    "timestamp": 1784404800000
+  },
+  {
+    "buySellRatio": "1.3052",
+    "sellVol": "587.0310",
+    "buyVol": "766.1920",
+    "timestamp": 1784405700000
+  },
+  {
+    "buySellRatio": "0.5827",
+    "sellVol": "192.0910",
+    "buyVol": "111.9240",
+    "timestamp": 1784406600000
+  },
+  {
+    "buySellRatio": "1.1208",
+    "sellVol": "322.5730",
+    "buyVol": "361.5370",
+    "timestamp": 1784407500000
+  },
+  {
+    "buySellRatio": "1.0539",
+    "sellVol": "262.1870",
+    "buyVol": "276.3190",
+    "timestamp": 1784408400000
+  },
+  {
+    "buySellRatio": "1.0640",
+    "sellVol": "631.5600",
+    "buyVol": "671.9890",
+    "timestamp": 1784409300000
+  },
+  {
+    "buySellRatio": "0.6871",
+    "sellVol": "269.7820",
+    "buyVol": "185.3610",
+    "timestamp": 1784410200000
+  },
+  {
+    "buySellRatio": "0.9989",
+    "sellVol": "398.9290",
+    "buyVol": "398.4850",
+    "timestamp": 1784411100000
+  },
+  {
+    "buySellRatio": "1.2267",
+    "sellVol": "339.3570",
+    "buyVol": "416.2730",
+    "timestamp": 1784412000000
+  },
+  {
+    "buySellRatio": "0.8176",
+    "sellVol": "222.0480",
+    "buyVol": "181.5440",
+    "timestamp": 1784412900000
+  },
+  {
+    "buySellRatio": "1.1281",
+    "sellVol": "176.1990",
+    "buyVol": "198.7730",
+    "timestamp": 1784413800000
+  },
+  {
+    "buySellRatio": "0.7941",
+    "sellVol": "277.7250",
+    "buyVol": "220.5460",
+    "timestamp": 1784414700000
+  },
+  {
+    "buySellRatio": "0.4964",
+    "sellVol": "341.1520",
+    "buyVol": "169.3550",
+    "timestamp": 1784415600000
+  },
+  {
+    "buySellRatio": "1.2648",
+    "sellVol": "342.2780",
+    "buyVol": "432.9280",
+    "timestamp": 1784416500000
+  },
+  {
+    "buySellRatio": "0.6025",
+    "sellVol": "269.0150",
+    "buyVol": "162.0850",
+    "timestamp": 1784417400000
+  },
+  {
+    "buySellRatio": "0.9437",
+    "sellVol": "172.6200",
+    "buyVol": "162.8970",
+    "timestamp": 1784418300000
+  },
+  {
+    "buySellRatio": "0.8772",
+    "sellVol": "232.3960",
+    "buyVol": "203.8570",
+    "timestamp": 1784419200000
+  },
+  {
+    "buySellRatio": "1.3416",
+    "sellVol": "344.8950",
+    "buyVol": "462.7230",
+    "timestamp": 1784420100000
+  },
+  {
+    "buySellRatio": "0.4308",
+    "sellVol": "444.9550",
+    "buyVol": "191.6690",
+    "timestamp": 1784421000000
+  },
+  {
+    "buySellRatio": "0.3501",
+    "sellVol": "711.9020",
+    "buyVol": "249.2510",
+    "timestamp": 1784421900000
+  },
+  {
+    "buySellRatio": "0.5664",
+    "sellVol": "296.5960",
+    "buyVol": "167.9960",
+    "timestamp": 1784422800000
+  },
+  {
+    "buySellRatio": "0.2734",
+    "sellVol": "807.2600",
+    "buyVol": "220.7250",
+    "timestamp": 1784423700000
+  },
+  {
+    "buySellRatio": "0.4332",
+    "sellVol": "473.9520",
+    "buyVol": "205.3220",
+    "timestamp": 1784424600000
+  },
+  {
+    "buySellRatio": "0.3786",
+    "sellVol": "448.7440",
+    "buyVol": "169.8740",
+    "timestamp": 1784425500000
+  },
+  {
+    "buySellRatio": "1.2688",
+    "sellVol": "1282.2400",
+    "buyVol": "1626.9490",
+    "timestamp": 1784426400000
+  },
+  {
+    "buySellRatio": "0.4539",
+    "sellVol": "572.5550",
+    "buyVol": "259.8550",
+    "timestamp": 1784427300000
+  },
+  {
+    "buySellRatio": "1.5707",
+    "sellVol": "361.2240",
+    "buyVol": "567.3890",
+    "timestamp": 1784428200000
+  },
+  {
+    "buySellRatio": "1.3374",
+    "sellVol": "154.8710",
+    "buyVol": "207.1320",
+    "timestamp": 1784429100000
+  },
+  {
+    "buySellRatio": "0.5165",
+    "sellVol": "469.2450",
+    "buyVol": "242.3740",
+    "timestamp": 1784430000000
+  },
+  {
+    "buySellRatio": "0.8502",
+    "sellVol": "747.1220",
+    "buyVol": "635.2220",
+    "timestamp": 1784430900000
+  },
+  {
+    "buySellRatio": "1.1349",
+    "sellVol": "235.3330",
+    "buyVol": "267.0770",
+    "timestamp": 1784431800000
+  },
+  {
+    "buySellRatio": "1.5774",
+    "sellVol": "98.3660",
+    "buyVol": "155.1610",
+    "timestamp": 1784432700000
+  },
+  {
+    "buySellRatio": "0.4233",
+    "sellVol": "433.2920",
+    "buyVol": "183.4110",
+    "timestamp": 1784433600000
+  },
+  {
+    "buySellRatio": "1.3113",
+    "sellVol": "151.8060",
+    "buyVol": "199.0600",
+    "timestamp": 1784434500000
+  },
+  {
+    "buySellRatio": "1.7995",
+    "sellVol": "164.8010",
+    "buyVol": "296.5640",
+    "timestamp": 1784435400000
+  },
+  {
+    "buySellRatio": "0.4740",
+    "sellVol": "161.4400",
+    "buyVol": "76.5250",
+    "timestamp": 1784436300000
+  },
+  {
+    "buySellRatio": "1.5061",
+    "sellVol": "170.6630",
+    "buyVol": "257.0290",
+    "timestamp": 1784437200000
+  },
+  {
+    "buySellRatio": "0.7758",
+    "sellVol": "195.0600",
+    "buyVol": "151.3190",
+    "timestamp": 1784438100000
+  },
+  {
+    "buySellRatio": "0.8885",
+    "sellVol": "188.0570",
+    "buyVol": "167.0980",
+    "timestamp": 1784439000000
+  },
+  {
+    "buySellRatio": "1.1054",
+    "sellVol": "93.3400",
+    "buyVol": "103.1820",
+    "timestamp": 1784439900000
+  },
+  {
+    "buySellRatio": "1.2538",
+    "sellVol": "97.7390",
+    "buyVol": "122.5440",
+    "timestamp": 1784440800000
+  },
+  {
+    "buySellRatio": "1.2141",
+    "sellVol": "133.5850",
+    "buyVol": "162.1790",
+    "timestamp": 1784441700000
+  },
+  {
+    "buySellRatio": "0.7333",
+    "sellVol": "129.4830",
+    "buyVol": "94.9540",
+    "timestamp": 1784442600000
+  },
+  {
+    "buySellRatio": "0.6587",
+    "sellVol": "116.7190",
+    "buyVol": "76.8850",
+    "timestamp": 1784443500000
+  },
+  {
+    "buySellRatio": "0.7602",
+    "sellVol": "168.7900",
+    "buyVol": "128.3080",
+    "timestamp": 1784444400000
+  },
+  {
+    "buySellRatio": "0.8360",
+    "sellVol": "144.8320",
+    "buyVol": "121.0730",
+    "timestamp": 1784445300000
+  },
+  {
+    "buySellRatio": "1.4730",
+    "sellVol": "213.8130",
+    "buyVol": "314.9560",
+    "timestamp": 1784446200000
+  },
+  {
+    "buySellRatio": "0.7359",
+    "sellVol": "475.9360",
+    "buyVol": "350.2330",
+    "timestamp": 1784447100000
+  },
+  {
+    "buySellRatio": "1.2069",
+    "sellVol": "324.8350",
+    "buyVol": "392.0430",
+    "timestamp": 1784448000000
+  },
+  {
+    "buySellRatio": "0.8132",
+    "sellVol": "343.8040",
+    "buyVol": "279.5690",
+    "timestamp": 1784448900000
+  },
+  {
+    "buySellRatio": "0.8987",
+    "sellVol": "170.2430",
+    "buyVol": "152.9960",
+    "timestamp": 1784449800000
+  },
+  {
+    "buySellRatio": "1.8054",
+    "sellVol": "137.5930",
+    "buyVol": "248.4170",
+    "timestamp": 1784450700000
+  },
+  {
+    "buySellRatio": "1.2255",
+    "sellVol": "140.2210",
+    "buyVol": "171.8340",
+    "timestamp": 1784451600000
+  },
+  {
+    "buySellRatio": "0.5491",
+    "sellVol": "625.6030",
+    "buyVol": "343.5330",
+    "timestamp": 1784452500000
+  },
+  {
+    "buySellRatio": "0.5430",
+    "sellVol": "826.7350",
+    "buyVol": "448.9010",
+    "timestamp": 1784453400000
+  },
+  {
+    "buySellRatio": "0.7358",
+    "sellVol": "357.8050",
+    "buyVol": "263.2830",
+    "timestamp": 1784454300000
+  },
+  {
+    "buySellRatio": "1.4504",
+    "sellVol": "331.0630",
+    "buyVol": "480.1600",
+    "timestamp": 1784455200000
+  },
+  {
+    "buySellRatio": "1.5415",
+    "sellVol": "145.6460",
+    "buyVol": "224.5160",
+    "timestamp": 1784456100000
+  },
+  {
+    "buySellRatio": "1.1803",
+    "sellVol": "226.6080",
+    "buyVol": "267.4740",
+    "timestamp": 1784457000000
+  },
+  {
+    "buySellRatio": "0.6563",
+    "sellVol": "618.7200",
+    "buyVol": "406.0680",
+    "timestamp": 1784457900000
+  },
+  {
+    "buySellRatio": "0.7881",
+    "sellVol": "534.1960",
+    "buyVol": "420.9760",
+    "timestamp": 1784458800000
+  },
+  {
+    "buySellRatio": "0.7649",
+    "sellVol": "296.9820",
+    "buyVol": "227.1530",
+    "timestamp": 1784459700000
+  },
+  {
+    "buySellRatio": "0.8396",
+    "sellVol": "186.0460",
+    "buyVol": "156.2000",
+    "timestamp": 1784460600000
+  },
+  {
+    "buySellRatio": "0.8992",
+    "sellVol": "488.2840",
+    "buyVol": "439.0590",
+    "timestamp": 1784461500000
+  },
+  {
+    "buySellRatio": "0.5143",
+    "sellVol": "993.9400",
+    "buyVol": "511.2130",
+    "timestamp": 1784462400000
+  },
+  {
+    "buySellRatio": "0.8290",
+    "sellVol": "989.6330",
+    "buyVol": "820.3940",
+    "timestamp": 1784463300000
+  },
+  {
+    "buySellRatio": "1.7563",
+    "sellVol": "386.8520",
+    "buyVol": "679.4280",
+    "timestamp": 1784464200000
+  },
+  {
+    "buySellRatio": "1.3735",
+    "sellVol": "243.4710",
+    "buyVol": "334.3960",
+    "timestamp": 1784465100000
+  },
+  {
+    "buySellRatio": "0.6159",
+    "sellVol": "318.1700",
+    "buyVol": "195.9490",
+    "timestamp": 1784466000000
+  },
+  {
+    "buySellRatio": "1.5618",
+    "sellVol": "235.9310",
+    "buyVol": "368.4880",
+    "timestamp": 1784466900000
+  },
+  {
+    "buySellRatio": "1.6498",
+    "sellVol": "160.2510",
+    "buyVol": "264.3900",
+    "timestamp": 1784467800000
+  },
+  {
+    "buySellRatio": "1.4842",
+    "sellVol": "272.3030",
+    "buyVol": "404.1500",
+    "timestamp": 1784468700000
+  },
+  {
+    "buySellRatio": "1.1478",
+    "sellVol": "275.6670",
+    "buyVol": "316.4070",
+    "timestamp": 1784469600000
+  },
+  {
+    "buySellRatio": "0.6696",
+    "sellVol": "326.3500",
+    "buyVol": "218.5110",
+    "timestamp": 1784470500000
+  },
+  {
+    "buySellRatio": "1.1881",
+    "sellVol": "186.4520",
+    "buyVol": "221.5300",
+    "timestamp": 1784471400000
+  },
+  {
+    "buySellRatio": "1.7945",
+    "sellVol": "325.9680",
+    "buyVol": "584.9560",
+    "timestamp": 1784472300000
+  },
+  {
+    "buySellRatio": "1.0529",
+    "sellVol": "205.4040",
+    "buyVol": "216.2720",
+    "timestamp": 1784473200000
+  },
+  {
+    "buySellRatio": "0.4406",
+    "sellVol": "352.4390",
+    "buyVol": "155.3010",
+    "timestamp": 1784474100000
+  },
+  {
+    "buySellRatio": "1.0526",
+    "sellVol": "197.3760",
+    "buyVol": "207.7510",
+    "timestamp": 1784475000000
+  },
+  {
+    "buySellRatio": "1.0699",
+    "sellVol": "136.0520",
+    "buyVol": "145.5660",
+    "timestamp": 1784475900000
+  },
+  {
+    "buySellRatio": "0.8645",
+    "sellVol": "279.6300",
+    "buyVol": "241.7540",
+    "timestamp": 1784476800000
+  },
+  {
+    "buySellRatio": "0.9620",
+    "sellVol": "202.1420",
+    "buyVol": "194.4540",
+    "timestamp": 1784477700000
+  },
+  {
+    "buySellRatio": "1.0179",
+    "sellVol": "152.3510",
+    "buyVol": "155.0840",
+    "timestamp": 1784478600000
+  },
+  {
+    "buySellRatio": "0.5452",
+    "sellVol": "157.9940",
+    "buyVol": "86.1430",
+    "timestamp": 1784479500000
+  },
+  {
+    "buySellRatio": "1.5568",
+    "sellVol": "739.3200",
+    "buyVol": "1150.9510",
+    "timestamp": 1784480400000
+  },
+  {
+    "buySellRatio": "0.7603",
+    "sellVol": "615.2390",
+    "buyVol": "467.7770",
+    "timestamp": 1784481300000
+  },
+  {
+    "buySellRatio": "0.9987",
+    "sellVol": "229.0480",
+    "buyVol": "228.7590",
+    "timestamp": 1784482200000
+  },
+  {
+    "buySellRatio": "0.3144",
+    "sellVol": "399.3320",
+    "buyVol": "125.5310",
+    "timestamp": 1784483100000
+  },
+  {
+    "buySellRatio": "0.8903",
+    "sellVol": "944.2550",
+    "buyVol": "840.6560",
+    "timestamp": 1784484000000
+  },
+  {
+    "buySellRatio": "0.8868",
+    "sellVol": "382.2010",
+    "buyVol": "338.9270",
+    "timestamp": 1784484900000
+  },
+  {
+    "buySellRatio": "1.4691",
+    "sellVol": "164.3860",
+    "buyVol": "241.5040",
+    "timestamp": 1784485800000
+  },
+  {
+    "buySellRatio": "1.1500",
+    "sellVol": "243.0020",
+    "buyVol": "279.4490",
+    "timestamp": 1784486700000
+  },
+  {
+    "buySellRatio": "2.0031",
+    "sellVol": "137.0170",
+    "buyVol": "274.4640",
+    "timestamp": 1784487600000
+  },
+  {
+    "buySellRatio": "0.7763",
+    "sellVol": "87.2550",
+    "buyVol": "67.7320",
+    "timestamp": 1784488500000
+  },
+  {
+    "buySellRatio": "0.9821",
+    "sellVol": "84.5500",
+    "buyVol": "83.0400",
+    "timestamp": 1784489400000
+  },
+  {
+    "buySellRatio": "0.9322",
+    "sellVol": "181.7160",
+    "buyVol": "169.3950",
+    "timestamp": 1784490300000
+  },
+  {
+    "buySellRatio": "1.4189",
+    "sellVol": "216.5040",
+    "buyVol": "307.1970",
+    "timestamp": 1784491200000
+  },
+  {
+    "buySellRatio": "1.0730",
+    "sellVol": "75.1000",
+    "buyVol": "80.5830",
+    "timestamp": 1784492100000
+  },
+  {
+    "buySellRatio": "1.6676",
+    "sellVol": "54.3180",
+    "buyVol": "90.5820",
+    "timestamp": 1784493000000
+  },
+  {
+    "buySellRatio": "0.4722",
+    "sellVol": "159.6420",
+    "buyVol": "75.3880",
+    "timestamp": 1784493900000
+  },
+  {
+    "buySellRatio": "1.0315",
+    "sellVol": "144.7190",
+    "buyVol": "149.2760",
+    "timestamp": 1784494800000
+  },
+  {
+    "buySellRatio": "0.7032",
+    "sellVol": "91.0770",
+    "buyVol": "64.0440",
+    "timestamp": 1784495700000
+  },
+  {
+    "buySellRatio": "0.6090",
+    "sellVol": "336.6980",
+    "buyVol": "205.0590",
+    "timestamp": 1784496600000
+  },
+  {
+    "buySellRatio": "0.8724",
+    "sellVol": "366.4500",
+    "buyVol": "319.6960",
+    "timestamp": 1784497500000
+  },
+  {
+    "buySellRatio": "1.1400",
+    "sellVol": "1179.1880",
+    "buyVol": "1344.2720",
+    "timestamp": 1784498400000
+  },
+  {
+    "buySellRatio": "1.1283",
+    "sellVol": "1320.1650",
+    "buyVol": "1489.5860",
+    "timestamp": 1784499300000
+  },
+  {
+    "buySellRatio": "0.7875",
+    "sellVol": "440.7810",
+    "buyVol": "347.1330",
+    "timestamp": 1784500200000
+  },
+  {
+    "buySellRatio": "0.8730",
+    "sellVol": "332.3410",
+    "buyVol": "290.1280",
+    "timestamp": 1784501100000
+  },
+  {
+    "buySellRatio": "0.9311",
+    "sellVol": "447.2940",
+    "buyVol": "416.4740",
+    "timestamp": 1784502000000
+  },
+  {
+    "buySellRatio": "0.8119",
+    "sellVol": "224.9550",
+    "buyVol": "182.6520",
+    "timestamp": 1784502900000
+  },
+  {
+    "buySellRatio": "1.3340",
+    "sellVol": "198.6150",
+    "buyVol": "264.9460",
+    "timestamp": 1784503800000
+  },
+  {
+    "buySellRatio": "0.8293",
+    "sellVol": "174.8950",
+    "buyVol": "145.0390",
+    "timestamp": 1784504700000
+  },
+  {
+    "buySellRatio": "2.1010",
+    "sellVol": "1333.3240",
+    "buyVol": "2801.2880",
+    "timestamp": 1784505600000
+  },
+  {
+    "buySellRatio": "0.8769",
+    "sellVol": "1230.1020",
+    "buyVol": "1078.6500",
+    "timestamp": 1784506500000
+  },
+  {
+    "buySellRatio": "0.9090",
+    "sellVol": "596.9080",
+    "buyVol": "542.5930",
+    "timestamp": 1784507400000
+  },
+  {
+    "buySellRatio": "0.7083",
+    "sellVol": "1354.7350",
+    "buyVol": "959.4940",
+    "timestamp": 1784508300000
+  },
+  {
+    "buySellRatio": "1.1929",
+    "sellVol": "1116.7820",
+    "buyVol": "1332.2620",
+    "timestamp": 1784509200000
+  },
+  {
+    "buySellRatio": "0.9923",
+    "sellVol": "530.7570",
+    "buyVol": "526.6480",
+    "timestamp": 1784510100000
+  },
+  {
+    "buySellRatio": "0.9449",
+    "sellVol": "351.1370",
+    "buyVol": "331.7720",
+    "timestamp": 1784511000000
+  },
+  {
+    "buySellRatio": "0.9465",
+    "sellVol": "662.0490",
+    "buyVol": "626.6370",
+    "timestamp": 1784511900000
+  },
+  {
+    "buySellRatio": "0.9881",
+    "sellVol": "854.4110",
+    "buyVol": "844.2860",
+    "timestamp": 1784512800000
+  },
+  {
+    "buySellRatio": "1.1341",
+    "sellVol": "582.6960",
+    "buyVol": "660.8450",
+    "timestamp": 1784513700000
+  },
+  {
+    "buySellRatio": "0.8558",
+    "sellVol": "456.9720",
+    "buyVol": "391.0580",
+    "timestamp": 1784514600000
+  },
+  {
+    "buySellRatio": "0.8818",
+    "sellVol": "515.5790",
+    "buyVol": "454.6460",
+    "timestamp": 1784515500000
+  },
+  {
+    "buySellRatio": "1.0715",
+    "sellVol": "217.8740",
+    "buyVol": "233.4570",
+    "timestamp": 1784516400000
+  },
+  {
+    "buySellRatio": "1.0549",
+    "sellVol": "398.5620",
+    "buyVol": "420.4380",
+    "timestamp": 1784517300000
+  },
+  {
+    "buySellRatio": "1.0630",
+    "sellVol": "326.8440",
+    "buyVol": "347.4410",
+    "timestamp": 1784518200000
+  },
+  {
+    "buySellRatio": "0.9765",
+    "sellVol": "317.7370",
+    "buyVol": "310.2570",
+    "timestamp": 1784519100000
+  },
+  {
+    "buySellRatio": "0.7132",
+    "sellVol": "330.4120",
+    "buyVol": "235.6640",
+    "timestamp": 1784520000000
+  },
+  {
+    "buySellRatio": "1.4262",
+    "sellVol": "304.0830",
+    "buyVol": "433.6940",
+    "timestamp": 1784520900000
+  },
+  {
+    "buySellRatio": "0.7467",
+    "sellVol": "269.7900",
+    "buyVol": "201.4440",
+    "timestamp": 1784521800000
+  },
+  {
+    "buySellRatio": "0.8333",
+    "sellVol": "727.2310",
+    "buyVol": "606.0330",
+    "timestamp": 1784522700000
+  },
+  {
+    "buySellRatio": "0.6424",
+    "sellVol": "2542.4940",
+    "buyVol": "1633.2800",
+    "timestamp": 1784523600000
+  },
+  {
+    "buySellRatio": "1.0878",
+    "sellVol": "1297.9520",
+    "buyVol": "1411.9710",
+    "timestamp": 1784524500000
+  },
+  {
+    "buySellRatio": "1.2947",
+    "sellVol": "560.3900",
+    "buyVol": "725.5270",
+    "timestamp": 1784525400000
+  },
+  {
+    "buySellRatio": "0.8948",
+    "sellVol": "499.3590",
+    "buyVol": "446.8360",
+    "timestamp": 1784526300000
+  },
+  {
+    "buySellRatio": "1.2146",
+    "sellVol": "435.1630",
+    "buyVol": "528.5300",
+    "timestamp": 1784527200000
+  },
+  {
+    "buySellRatio": "0.9481",
+    "sellVol": "338.7960",
+    "buyVol": "321.2130",
+    "timestamp": 1784528100000
+  },
+  {
+    "buySellRatio": "0.8548",
+    "sellVol": "3335.2930",
+    "buyVol": "2850.9250",
+    "timestamp": 1784529000000
+  },
+  {
+    "buySellRatio": "1.4958",
+    "sellVol": "952.6300",
+    "buyVol": "1424.9500",
+    "timestamp": 1784529900000
+  },
+  {
+    "buySellRatio": "1.3813",
+    "sellVol": "410.2320",
+    "buyVol": "566.6580",
+    "timestamp": 1784530800000
+  },
+  {
+    "buySellRatio": "1.5198",
+    "sellVol": "605.1490",
+    "buyVol": "919.7310",
+    "timestamp": 1784531700000
+  },
+  {
+    "buySellRatio": "1.3851",
+    "sellVol": "491.1550",
+    "buyVol": "680.2940",
+    "timestamp": 1784532600000
+  },
+  {
+    "buySellRatio": "1.3448",
+    "sellVol": "770.5840",
+    "buyVol": "1036.2970",
+    "timestamp": 1784533500000
+  },
+  {
+    "buySellRatio": "0.9439",
+    "sellVol": "842.1940",
+    "buyVol": "794.9720",
+    "timestamp": 1784534400000
+  },
+  {
+    "buySellRatio": "0.8932",
+    "sellVol": "618.1760",
+    "buyVol": "552.1350",
+    "timestamp": 1784535300000
+  },
+  {
+    "buySellRatio": "0.5306",
+    "sellVol": "2864.4900",
+    "buyVol": "1519.9080",
+    "timestamp": 1784536200000
+  },
+  {
+    "buySellRatio": "1.0534",
+    "sellVol": "552.3090",
+    "buyVol": "581.8150",
+    "timestamp": 1784537100000
+  },
+  {
+    "buySellRatio": "1.5950",
+    "sellVol": "283.8580",
+    "buyVol": "452.7520",
+    "timestamp": 1784538000000
+  },
+  {
+    "buySellRatio": "1.5976",
+    "sellVol": "289.0500",
+    "buyVol": "461.7900",
+    "timestamp": 1784538900000
+  },
+  {
+    "buySellRatio": "1.1684",
+    "sellVol": "318.0730",
+    "buyVol": "371.6440",
+    "timestamp": 1784539800000
+  },
+  {
+    "buySellRatio": "1.0549",
+    "sellVol": "426.5840",
+    "buyVol": "449.9910",
+    "timestamp": 1784540700000
+  },
+  {
+    "buySellRatio": "1.1275",
+    "sellVol": "337.1780",
+    "buyVol": "380.1770",
+    "timestamp": 1784541600000
+  },
+  {
+    "buySellRatio": "1.1053",
+    "sellVol": "698.7220",
+    "buyVol": "772.2860",
+    "timestamp": 1784542500000
+  },
+  {
+    "buySellRatio": "0.6884",
+    "sellVol": "477.6610",
+    "buyVol": "328.8220",
+    "timestamp": 1784543400000
+  },
+  {
+    "buySellRatio": "0.7692",
+    "sellVol": "198.0740",
+    "buyVol": "152.3630",
+    "timestamp": 1784544300000
+  },
+  {
+    "buySellRatio": "1.2193",
+    "sellVol": "485.1920",
+    "buyVol": "591.5930",
+    "timestamp": 1784545200000
+  },
+  {
+    "buySellRatio": "0.7363",
+    "sellVol": "251.9330",
+    "buyVol": "185.4880",
+    "timestamp": 1784546100000
+  },
+  {
+    "buySellRatio": "1.4124",
+    "sellVol": "3303.8930",
+    "buyVol": "4666.5070",
+    "timestamp": 1784547000000
+  },
+  {
+    "buySellRatio": "1.1103",
+    "sellVol": "1668.4850",
+    "buyVol": "1852.4950",
+    "timestamp": 1784547900000
+  },
+  {
+    "buySellRatio": "0.8032",
+    "sellVol": "3110.5310",
+    "buyVol": "2498.2920",
+    "timestamp": 1784548800000
+  },
+  {
+    "buySellRatio": "0.9160",
+    "sellVol": "880.2760",
+    "buyVol": "806.3410",
+    "timestamp": 1784549700000
+  },
+  {
+    "buySellRatio": "0.8162",
+    "sellVol": "769.3070",
+    "buyVol": "627.9310",
+    "timestamp": 1784550600000
+  },
+  {
+    "buySellRatio": "0.9811",
+    "sellVol": "742.6430",
+    "buyVol": "728.6110",
+    "timestamp": 1784551500000
+  },
+  {
+    "buySellRatio": "1.2178",
+    "sellVol": "481.2160",
+    "buyVol": "586.0030",
+    "timestamp": 1784552400000
+  },
+  {
+    "buySellRatio": "0.6184",
+    "sellVol": "732.5520",
+    "buyVol": "452.9930",
+    "timestamp": 1784553300000
+  },
+  {
+    "buySellRatio": "1.5364",
+    "sellVol": "1153.7290",
+    "buyVol": "1772.6080",
+    "timestamp": 1784554200000
+  },
+  {
+    "buySellRatio": "0.8402",
+    "sellVol": "2528.4040",
+    "buyVol": "2124.3170",
+    "timestamp": 1784555100000
+  },
+  {
+    "buySellRatio": "1.2939",
+    "sellVol": "924.4470",
+    "buyVol": "1196.1800",
+    "timestamp": 1784556000000
+  },
+  {
+    "buySellRatio": "0.8570",
+    "sellVol": "1672.4400",
+    "buyVol": "1433.2770",
+    "timestamp": 1784556900000
+  },
+  {
+    "buySellRatio": "1.1822",
+    "sellVol": "602.4960",
+    "buyVol": "712.2440",
+    "timestamp": 1784557800000
+  },
+  {
+    "buySellRatio": "1.0079",
+    "sellVol": "530.4190",
+    "buyVol": "534.6110",
+    "timestamp": 1784558700000
+  },
+  {
+    "buySellRatio": "1.3511",
+    "sellVol": "2009.6810",
+    "buyVol": "2715.2890",
+    "timestamp": 1784559600000
+  },
+  {
+    "buySellRatio": "0.8985",
+    "sellVol": "1700.7050",
+    "buyVol": "1528.0490",
+    "timestamp": 1784560500000
+  },
+  {
+    "buySellRatio": "1.6159",
+    "sellVol": "2235.0780",
+    "buyVol": "3611.7130",
+    "timestamp": 1784561400000
+  },
+  {
+    "buySellRatio": "1.6273",
+    "sellVol": "4892.6930",
+    "buyVol": "7961.6640",
+    "timestamp": 1784562300000
+  },
+  {
+    "buySellRatio": "0.9003",
+    "sellVol": "2412.7570",
+    "buyVol": "2172.2430",
+    "timestamp": 1784563200000
+  },
+  {
+    "buySellRatio": "0.6128",
+    "sellVol": "1372.0170",
+    "buyVol": "840.7850",
+    "timestamp": 1784564100000
+  },
+  {
+    "buySellRatio": "0.9310",
+    "sellVol": "1311.8160",
+    "buyVol": "1221.2690",
+    "timestamp": 1784565000000
+  },
+  {
+    "buySellRatio": "0.9485",
+    "sellVol": "674.3080",
+    "buyVol": "639.5540",
+    "timestamp": 1784565900000
+  },
+  {
+    "buySellRatio": "1.2228",
+    "sellVol": "890.4990",
+    "buyVol": "1088.9190",
+    "timestamp": 1784566800000
+  },
+  {
+    "buySellRatio": "0.8743",
+    "sellVol": "363.3770",
+    "buyVol": "317.7120",
+    "timestamp": 1784567700000
+  },
+  {
+    "buySellRatio": "0.6695",
+    "sellVol": "552.6520",
+    "buyVol": "370.0100",
+    "timestamp": 1784568600000
+  },
+  {
+    "buySellRatio": "2.0592",
+    "sellVol": "967.4360",
+    "buyVol": "1992.1130",
+    "timestamp": 1784569500000
+  },
+  {
+    "buySellRatio": "2.2661",
+    "sellVol": "1324.5200",
+    "buyVol": "3001.5050",
+    "timestamp": 1784570400000
+  },
+  {
+    "buySellRatio": "0.6495",
+    "sellVol": "879.8190",
+    "buyVol": "571.4730",
+    "timestamp": 1784571300000
+  },
+  {
+    "buySellRatio": "0.6836",
+    "sellVol": "1035.2020",
+    "buyVol": "707.6780",
+    "timestamp": 1784572200000
+  },
+  {
+    "buySellRatio": "0.9964",
+    "sellVol": "1784.9240",
+    "buyVol": "1778.5700",
+    "timestamp": 1784573100000
+  },
+  {
+    "buySellRatio": "0.8598",
+    "sellVol": "1376.6590",
+    "buyVol": "1183.5990",
+    "timestamp": 1784574000000
+  },
+  {
+    "buySellRatio": "1.5817",
+    "sellVol": "708.9420",
+    "buyVol": "1121.3140",
+    "timestamp": 1784574900000
+  },
+  {
+    "buySellRatio": "1.6748",
+    "sellVol": "685.9940",
+    "buyVol": "1148.9340",
+    "timestamp": 1784575800000
+  },
+  {
+    "buySellRatio": "1.3594",
+    "sellVol": "600.5920",
+    "buyVol": "816.4400",
+    "timestamp": 1784576700000
+  },
+  {
+    "buySellRatio": "1.7644",
+    "sellVol": "370.9190",
+    "buyVol": "654.4470",
+    "timestamp": 1784577600000
+  },
+  {
+    "buySellRatio": "1.2956",
+    "sellVol": "464.4950",
+    "buyVol": "601.7860",
+    "timestamp": 1784578500000
+  },
+  {
+    "buySellRatio": "1.1494",
+    "sellVol": "703.6290",
+    "buyVol": "808.7350",
+    "timestamp": 1784579400000
+  },
+  {
+    "buySellRatio": "3.2359",
+    "sellVol": "185.1660",
+    "buyVol": "599.1760",
+    "timestamp": 1784580300000
+  },
+  {
+    "buySellRatio": "0.5565",
+    "sellVol": "335.3170",
+    "buyVol": "186.5920",
+    "timestamp": 1784581200000
+  },
+  {
+    "buySellRatio": "1.0996",
+    "sellVol": "103.3420",
+    "buyVol": "113.6320",
+    "timestamp": 1784582100000
+  },
+  {
+    "buySellRatio": "0.8348",
+    "sellVol": "362.6760",
+    "buyVol": "302.7570",
+    "timestamp": 1784583000000
+  },
+  {
+    "buySellRatio": "0.7575",
+    "sellVol": "266.5590",
+    "buyVol": "201.9300",
+    "timestamp": 1784583900000
+  },
+  {
+    "buySellRatio": "0.7335",
+    "sellVol": "488.4080",
+    "buyVol": "358.2500",
+    "timestamp": 1784584800000
+  },
+  {
+    "buySellRatio": "0.9789",
+    "sellVol": "261.8960",
+    "buyVol": "256.3710",
+    "timestamp": 1784585700000
+  },
+  {
+    "buySellRatio": "0.9133",
+    "sellVol": "454.9330",
+    "buyVol": "415.4910",
+    "timestamp": 1784586600000
+  },
+  {
+    "buySellRatio": "0.7668",
+    "sellVol": "220.5980",
+    "buyVol": "169.1440",
+    "timestamp": 1784587500000
+  },
+  {
+    "buySellRatio": "0.9235",
+    "sellVol": "259.4530",
+    "buyVol": "239.6010",
+    "timestamp": 1784588400000
+  },
+  {
+    "buySellRatio": "1.1403",
+    "sellVol": "276.0620",
+    "buyVol": "314.7840",
+    "timestamp": 1784589300000
+  },
+  {
+    "buySellRatio": "1.0371",
+    "sellVol": "173.8270",
+    "buyVol": "180.2750",
+    "timestamp": 1784590200000
+  },
+  {
+    "buySellRatio": "1.0317",
+    "sellVol": "288.0130",
+    "buyVol": "297.1510",
+    "timestamp": 1784591100000
+  },
+  {
+    "buySellRatio": "1.0967",
+    "sellVol": "341.3670",
+    "buyVol": "374.3640",
+    "timestamp": 1784592000000
+  },
+  {
+    "buySellRatio": "1.7230",
+    "sellVol": "581.4890",
+    "buyVol": "1001.9220",
+    "timestamp": 1784592900000
+  },
+  {
+    "buySellRatio": "1.6867",
+    "sellVol": "407.0070",
+    "buyVol": "686.4830",
+    "timestamp": 1784593800000
+  },
+  {
+    "buySellRatio": "1.1222",
+    "sellVol": "448.3680",
+    "buyVol": "503.1540",
+    "timestamp": 1784594700000
+  },
+  {
+    "buySellRatio": "0.6941",
+    "sellVol": "799.5050",
+    "buyVol": "554.9030",
+    "timestamp": 1784595600000
+  },
+  {
+    "buySellRatio": "0.6276",
+    "sellVol": "455.9620",
+    "buyVol": "286.1590",
+    "timestamp": 1784596500000
+  },
+  {
+    "buySellRatio": "0.7311",
+    "sellVol": "809.6280",
+    "buyVol": "591.8950",
+    "timestamp": 1784597400000
+  },
+  {
+    "buySellRatio": "1.0530",
+    "sellVol": "425.5870",
+    "buyVol": "448.1430",
+    "timestamp": 1784598300000
+  },
+  {
+    "buySellRatio": "1.3780",
+    "sellVol": "427.0590",
+    "buyVol": "588.4690",
+    "timestamp": 1784599200000
+  },
+  {
+    "buySellRatio": "1.2104",
+    "sellVol": "446.1640",
+    "buyVol": "540.0530",
+    "timestamp": 1784600100000
+  },
+  {
+    "buySellRatio": "1.9381",
+    "sellVol": "172.8990",
+    "buyVol": "335.1000",
+    "timestamp": 1784601000000
+  },
+  {
+    "buySellRatio": "1.0877",
+    "sellVol": "390.1080",
+    "buyVol": "424.3150",
+    "timestamp": 1784601900000
+  },
+  {
+    "buySellRatio": "1.1612",
+    "sellVol": "434.6750",
+    "buyVol": "504.7570",
+    "timestamp": 1784602800000
+  },
+  {
+    "buySellRatio": "0.9996",
+    "sellVol": "285.9220",
+    "buyVol": "285.8110",
+    "timestamp": 1784603700000
+  },
+  {
+    "buySellRatio": "1.4936",
+    "sellVol": "266.7760",
+    "buyVol": "398.4610",
+    "timestamp": 1784604600000
+  },
+  {
+    "buySellRatio": "1.1097",
+    "sellVol": "396.0430",
+    "buyVol": "439.5010",
+    "timestamp": 1784605500000
+  },
+  {
+    "buySellRatio": "1.4855",
+    "sellVol": "1045.5510",
+    "buyVol": "1553.1360",
+    "timestamp": 1784606400000
+  },
+  {
+    "buySellRatio": "0.7419",
+    "sellVol": "472.7870",
+    "buyVol": "350.7720",
+    "timestamp": 1784607300000
+  },
+  {
+    "buySellRatio": "1.2260",
+    "sellVol": "275.9860",
+    "buyVol": "338.3590",
+    "timestamp": 1784608200000
+  },
+  {
+    "buySellRatio": "0.9687",
+    "sellVol": "282.1760",
+    "buyVol": "273.3500",
+    "timestamp": 1784609100000
+  },
+  {
+    "buySellRatio": "0.9910",
+    "sellVol": "372.8820",
+    "buyVol": "369.5360",
+    "timestamp": 1784610000000
+  },
+  {
+    "buySellRatio": "1.0712",
+    "sellVol": "347.4010",
+    "buyVol": "372.1490",
+    "timestamp": 1784610900000
+  },
+  {
+    "buySellRatio": "1.0603",
+    "sellVol": "272.8220",
+    "buyVol": "289.2630",
+    "timestamp": 1784611800000
+  },
+  {
+    "buySellRatio": "1.2953",
+    "sellVol": "1899.1630",
+    "buyVol": "2460.0300",
+    "timestamp": 1784612700000
+  },
+  {
+    "buySellRatio": "1.3514",
+    "sellVol": "502.0480",
+    "buyVol": "678.4760",
+    "timestamp": 1784613600000
+  },
+  {
+    "buySellRatio": "1.0085",
+    "sellVol": "603.5130",
+    "buyVol": "608.6340",
+    "timestamp": 1784614500000
+  },
+  {
+    "buySellRatio": "1.0608",
+    "sellVol": "1195.5140",
+    "buyVol": "1268.2520",
+    "timestamp": 1784615400000
+  },
+  {
+    "buySellRatio": "0.8944",
+    "sellVol": "558.3870",
+    "buyVol": "499.4470",
+    "timestamp": 1784616300000
+  },
+  {
+    "buySellRatio": "0.9323",
+    "sellVol": "367.7570",
+    "buyVol": "342.8670",
+    "timestamp": 1784617200000
+  },
+  {
+    "buySellRatio": "1.0535",
+    "sellVol": "556.8880",
+    "buyVol": "586.6670",
+    "timestamp": 1784618100000
+  },
+  {
+    "buySellRatio": "1.6745",
+    "sellVol": "1177.3800",
+    "buyVol": "1971.5320",
+    "timestamp": 1784619000000
+  },
+  {
+    "buySellRatio": "2.0264",
+    "sellVol": "1746.6630",
+    "buyVol": "3539.5180",
+    "timestamp": 1784619900000
+  },
+  {
+    "buySellRatio": "0.9154",
+    "sellVol": "1496.8790",
+    "buyVol": "1370.2230",
+    "timestamp": 1784620800000
+  },
+  {
+    "buySellRatio": "1.0840",
+    "sellVol": "1486.0930",
+    "buyVol": "1610.9780",
+    "timestamp": 1784621700000
+  },
+  {
+    "buySellRatio": "0.9513",
+    "sellVol": "986.6280",
+    "buyVol": "938.6220",
+    "timestamp": 1784622600000
+  },
+  {
+    "buySellRatio": "0.8569",
+    "sellVol": "639.3460",
+    "buyVol": "547.8430",
+    "timestamp": 1784623500000
+  },
+  {
+    "buySellRatio": "0.6313",
+    "sellVol": "760.0580",
+    "buyVol": "479.8160",
+    "timestamp": 1784624400000
+  },
+  {
+    "buySellRatio": "1.1015",
+    "sellVol": "352.6770",
+    "buyVol": "388.4760",
+    "timestamp": 1784625300000
+  },
+  {
+    "buySellRatio": "0.8741",
+    "sellVol": "575.9250",
+    "buyVol": "503.4440",
+    "timestamp": 1784626200000
+  },
+  {
+    "buySellRatio": "0.8811",
+    "sellVol": "376.9000",
+    "buyVol": "332.0840",
+    "timestamp": 1784627100000
+  },
+  {
+    "buySellRatio": "1.4376",
+    "sellVol": "502.7010",
+    "buyVol": "722.6600",
+    "timestamp": 1784628000000
+  },
+  {
+    "buySellRatio": "1.5839",
+    "sellVol": "553.8510",
+    "buyVol": "877.2250",
+    "timestamp": 1784628900000
+  },
+  {
+    "buySellRatio": "1.1197",
+    "sellVol": "734.4880",
+    "buyVol": "822.3860",
+    "timestamp": 1784629800000
+  },
+  {
+    "buySellRatio": "0.5497",
+    "sellVol": "1369.2950",
+    "buyVol": "752.7080",
+    "timestamp": 1784630700000
+  },
+  {
+    "buySellRatio": "0.8737",
+    "sellVol": "767.1250",
+    "buyVol": "670.2180",
+    "timestamp": 1784631600000
+  },
+  {
+    "buySellRatio": "0.8766",
+    "sellVol": "460.7740",
+    "buyVol": "403.9300",
+    "timestamp": 1784632500000
+  },
+  {
+    "buySellRatio": "1.3547",
+    "sellVol": "402.3010",
+    "buyVol": "545.0140",
+    "timestamp": 1784633400000
+  },
+  {
+    "buySellRatio": "0.9477",
+    "sellVol": "260.3550",
+    "buyVol": "246.7360",
+    "timestamp": 1784634300000
+  },
+  {
+    "buySellRatio": "1.9252",
+    "sellVol": "561.6890",
+    "buyVol": "1081.3560",
+    "timestamp": 1784635200000
+  },
+  {
+    "buySellRatio": "1.6213",
+    "sellVol": "684.8650",
+    "buyVol": "1110.3640",
+    "timestamp": 1784636100000
+  },
+  {
+    "buySellRatio": "1.3415",
+    "sellVol": "1408.0650",
+    "buyVol": "1888.9640",
+    "timestamp": 1784637000000
+  },
+  {
+    "buySellRatio": "1.3905",
+    "sellVol": "509.6080",
+    "buyVol": "708.6190",
+    "timestamp": 1784637900000
+  },
+  {
+    "buySellRatio": "1.4277",
+    "sellVol": "564.5260",
+    "buyVol": "805.9990",
+    "timestamp": 1784638800000
+  },
+  {
+    "buySellRatio": "0.8275",
+    "sellVol": "1306.5450",
+    "buyVol": "1081.1940",
+    "timestamp": 1784639700000
+  },
+  {
+    "buySellRatio": "1.0647",
+    "sellVol": "1409.7970",
+    "buyVol": "1500.9720",
+    "timestamp": 1784640600000
+  },
+  {
+    "buySellRatio": "1.6287",
+    "sellVol": "1990.0670",
+    "buyVol": "3241.2010",
+    "timestamp": 1784641500000
+  },
+  {
+    "buySellRatio": "1.4858",
+    "sellVol": "2565.5570",
+    "buyVol": "3811.9830",
+    "timestamp": 1784642400000
+  },
+  {
+    "buySellRatio": "0.8346",
+    "sellVol": "1893.6190",
+    "buyVol": "1580.3660",
+    "timestamp": 1784643300000
+  },
+  {
+    "buySellRatio": "0.9874",
+    "sellVol": "827.1930",
+    "buyVol": "816.8050",
+    "timestamp": 1784644200000
+  },
+  {
+    "buySellRatio": "0.8389",
+    "sellVol": "1087.1570",
+    "buyVol": "912.0520",
+    "timestamp": 1784645100000
+  },
+  {
+    "buySellRatio": "0.7795",
+    "sellVol": "1231.3190",
+    "buyVol": "959.8310",
+    "timestamp": 1784646000000
+  },
+  {
+    "buySellRatio": "0.8780",
+    "sellVol": "590.9910",
+    "buyVol": "518.9000",
+    "timestamp": 1784646900000
+  },
+  {
+    "buySellRatio": "0.8308",
+    "sellVol": "1050.5590",
+    "buyVol": "872.7540",
+    "timestamp": 1784647800000
+  },
+  {
+    "buySellRatio": "1.4428",
+    "sellVol": "403.1000",
+    "buyVol": "581.6080",
+    "timestamp": 1784648700000
+  },
+  {
+    "buySellRatio": "0.8686",
+    "sellVol": "612.6530",
+    "buyVol": "532.1600",
+    "timestamp": 1784649600000
+  },
+  {
+    "buySellRatio": "0.7132",
+    "sellVol": "543.4290",
+    "buyVol": "387.5960",
+    "timestamp": 1784650500000
+  },
+  {
+    "buySellRatio": "0.9062",
+    "sellVol": "490.7020",
+    "buyVol": "444.6600",
+    "timestamp": 1784651400000
+  },
+  {
+    "buySellRatio": "0.7374",
+    "sellVol": "618.4110",
+    "buyVol": "456.0460",
+    "timestamp": 1784652300000
+  },
+  {
+    "buySellRatio": "0.8991",
+    "sellVol": "403.0180",
+    "buyVol": "362.3650",
+    "timestamp": 1784653200000
+  },
+  {
+    "buySellRatio": "1.4918",
+    "sellVol": "545.9360",
+    "buyVol": "814.4190",
+    "timestamp": 1784654100000
+  },
+  {
+    "buySellRatio": "1.4922",
+    "sellVol": "422.9660",
+    "buyVol": "631.1440",
+    "timestamp": 1784655000000
+  },
+  {
+    "buySellRatio": "0.4326",
+    "sellVol": "6534.9910",
+    "buyVol": "2826.7270",
+    "timestamp": 1784655900000
+  },
+  {
+    "buySellRatio": "1.1187",
+    "sellVol": "914.5580",
+    "buyVol": "1023.1090",
+    "timestamp": 1784656800000
+  },
+  {
+    "buySellRatio": "0.8867",
+    "sellVol": "390.8810",
+    "buyVol": "346.5820",
+    "timestamp": 1784657700000
+  },
+  {
+    "buySellRatio": "1.3277",
+    "sellVol": "389.2950",
+    "buyVol": "516.8560",
+    "timestamp": 1784658600000
+  },
+  {
+    "buySellRatio": "1.3745",
+    "sellVol": "377.0470",
+    "buyVol": "518.2530",
+    "timestamp": 1784659500000
+  },
+  {
+    "buySellRatio": "0.8311",
+    "sellVol": "531.8500",
+    "buyVol": "442.0080",
+    "timestamp": 1784660400000
+  },
+  {
+    "buySellRatio": "1.8889",
+    "sellVol": "173.6070",
+    "buyVol": "327.9270",
+    "timestamp": 1784661300000
+  },
+  {
+    "buySellRatio": "1.1125",
+    "sellVol": "538.3810",
+    "buyVol": "598.9710",
+    "timestamp": 1784662200000
+  },
+  {
+    "buySellRatio": "0.7964",
+    "sellVol": "552.2960",
+    "buyVol": "439.8450",
+    "timestamp": 1784663100000
+  },
+  {
+    "buySellRatio": "0.5875",
+    "sellVol": "357.8380",
+    "buyVol": "210.2410",
+    "timestamp": 1784664000000
+  },
+  {
+    "buySellRatio": "0.8508",
+    "sellVol": "189.0180",
+    "buyVol": "160.8110",
+    "timestamp": 1784664900000
+  },
+  {
+    "buySellRatio": "1.9929",
+    "sellVol": "172.0910",
+    "buyVol": "342.9610",
+    "timestamp": 1784665800000
+  },
+  {
+    "buySellRatio": "0.7361",
+    "sellVol": "136.6360",
+    "buyVol": "100.5740",
+    "timestamp": 1784666700000
+  },
+  {
+    "buySellRatio": "0.6026",
+    "sellVol": "592.1560",
+    "buyVol": "356.8230",
+    "timestamp": 1784667600000
+  },
+  {
+    "buySellRatio": "0.7602",
+    "sellVol": "166.1110",
+    "buyVol": "126.2730",
+    "timestamp": 1784668500000
+  },
+  {
+    "buySellRatio": "1.1264",
+    "sellVol": "212.1060",
+    "buyVol": "238.9190",
+    "timestamp": 1784669400000
+  },
+  {
+    "buySellRatio": "1.6543",
+    "sellVol": "198.8570",
+    "buyVol": "328.9730",
+    "timestamp": 1784670300000
+  },
+  {
+    "buySellRatio": "0.7570",
+    "sellVol": "377.2660",
+    "buyVol": "285.6050",
+    "timestamp": 1784671200000
+  },
+  {
+    "buySellRatio": "0.5940",
+    "sellVol": "441.6960",
+    "buyVol": "262.3580",
+    "timestamp": 1784672100000
+  },
+  {
+    "buySellRatio": "1.3125",
+    "sellVol": "222.9830",
+    "buyVol": "292.6560",
+    "timestamp": 1784673000000
+  },
+  {
+    "buySellRatio": "1.7615",
+    "sellVol": "199.0170",
+    "buyVol": "350.5720",
+    "timestamp": 1784673900000
+  },
+  {
+    "buySellRatio": "1.0427",
+    "sellVol": "231.8560",
+    "buyVol": "241.7630",
+    "timestamp": 1784674800000
+  },
+  {
+    "buySellRatio": "1.9492",
+    "sellVol": "202.5750",
+    "buyVol": "394.8620",
+    "timestamp": 1784675700000
+  },
+  {
+    "buySellRatio": "0.9180",
+    "sellVol": "266.8860",
+    "buyVol": "245.0010",
+    "timestamp": 1784676600000
+  },
+  {
+    "buySellRatio": "2.6115",
+    "sellVol": "415.6030",
+    "buyVol": "1085.3280",
+    "timestamp": 1784677500000
+  },
+  {
+    "buySellRatio": "1.6412",
+    "sellVol": "633.9210",
+    "buyVol": "1040.3790",
+    "timestamp": 1784678400000
+  },
+  {
+    "buySellRatio": "0.9022",
+    "sellVol": "655.2250",
+    "buyVol": "591.1650",
+    "timestamp": 1784679300000
+  },
+  {
+    "buySellRatio": "1.2466",
+    "sellVol": "375.7910",
+    "buyVol": "468.4670",
+    "timestamp": 1784680200000
+  },
+  {
+    "buySellRatio": "0.9056",
+    "sellVol": "607.6430",
+    "buyVol": "550.2550",
+    "timestamp": 1784681100000
+  },
+  {
+    "buySellRatio": "0.6439",
+    "sellVol": "617.0180",
+    "buyVol": "397.3180",
+    "timestamp": 1784682000000
+  },
+  {
+    "buySellRatio": "0.9283",
+    "sellVol": "651.8740",
+    "buyVol": "605.1650",
+    "timestamp": 1784682900000
+  },
+  {
+    "buySellRatio": "0.7857",
+    "sellVol": "485.0490",
+    "buyVol": "381.1150",
+    "timestamp": 1784683800000
+  },
+  {
+    "buySellRatio": "2.1299",
+    "sellVol": "231.3790",
+    "buyVol": "492.8150",
+    "timestamp": 1784684700000
+  },
+  {
+    "buySellRatio": "1.0776",
+    "sellVol": "208.6970",
+    "buyVol": "224.8820",
+    "timestamp": 1784685600000
+  },
+  {
+    "buySellRatio": "1.2390",
+    "sellVol": "239.1900",
+    "buyVol": "296.3670",
+    "timestamp": 1784686500000
+  },
+  {
+    "buySellRatio": "0.7450",
+    "sellVol": "364.5210",
+    "buyVol": "271.5610",
+    "timestamp": 1784687400000
+  },
+  {
+    "buySellRatio": "0.8744",
+    "sellVol": "231.3100",
+    "buyVol": "202.2660",
+    "timestamp": 1784688300000
+  },
+  {
+    "buySellRatio": "0.6038",
+    "sellVol": "768.8720",
+    "buyVol": "464.2070",
+    "timestamp": 1784689200000
+  },
+  {
+    "buySellRatio": "1.1769",
+    "sellVol": "272.2960",
+    "buyVol": "320.4780",
+    "timestamp": 1784690100000
+  },
+  {
+    "buySellRatio": "1.1782",
+    "sellVol": "225.1160",
+    "buyVol": "265.2260",
+    "timestamp": 1784691000000
+  },
+  {
+    "buySellRatio": "0.5803",
+    "sellVol": "416.4490",
+    "buyVol": "241.6600",
+    "timestamp": 1784691900000
+  },
+  {
+    "buySellRatio": "1.1755",
+    "sellVol": "219.1870",
+    "buyVol": "257.6640",
+    "timestamp": 1784692800000
+  },
+  {
+    "buySellRatio": "1.5447",
+    "sellVol": "227.6030",
+    "buyVol": "351.5710",
+    "timestamp": 1784693700000
+  },
+  {
+    "buySellRatio": "1.6011",
+    "sellVol": "232.9820",
+    "buyVol": "373.0390",
+    "timestamp": 1784694600000
+  },
+  {
+    "buySellRatio": "0.9606",
+    "sellVol": "127.9230",
+    "buyVol": "122.8820",
+    "timestamp": 1784695500000
+  },
+  {
+    "buySellRatio": "0.7512",
+    "sellVol": "287.1800",
+    "buyVol": "215.7370",
+    "timestamp": 1784696400000
+  },
+  {
+    "buySellRatio": "0.7464",
+    "sellVol": "1407.0320",
+    "buyVol": "1050.1820",
+    "timestamp": 1784697300000
+  },
+  {
+    "buySellRatio": "0.6120",
+    "sellVol": "1692.4150",
+    "buyVol": "1035.7650",
+    "timestamp": 1784698200000
+  },
+  {
+    "buySellRatio": "0.6991",
+    "sellVol": "1333.5350",
+    "buyVol": "932.2940",
+    "timestamp": 1784699100000
+  },
+  {
+    "buySellRatio": "0.7428",
+    "sellVol": "1206.9590",
+    "buyVol": "896.5150",
+    "timestamp": 1784700000000
+  },
+  {
+    "buySellRatio": "1.2105",
+    "sellVol": "862.7480",
+    "buyVol": "1044.3530",
+    "timestamp": 1784700900000
+  },
+  {
+    "buySellRatio": "1.5282",
+    "sellVol": "548.2630",
+    "buyVol": "837.8480",
+    "timestamp": 1784701800000
+  },
+  {
+    "buySellRatio": "1.2923",
+    "sellVol": "271.9580",
+    "buyVol": "351.4550",
+    "timestamp": 1784702700000
+  },
+  {
+    "buySellRatio": "1.0952",
+    "sellVol": "406.7910",
+    "buyVol": "445.5270",
+    "timestamp": 1784703600000
+  },
+  {
+    "buySellRatio": "0.6499",
+    "sellVol": "797.4400",
+    "buyVol": "518.2250",
+    "timestamp": 1784704500000
+  }
+]

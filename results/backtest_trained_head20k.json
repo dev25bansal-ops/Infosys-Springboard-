@@ -1,0 +1,188 @@
+{
+  "total_ticks": 20000,
+  "alerts_fired": 34,
+  "true_positives": 3,
+  "false_positives": 20,
+  "false_negatives": 2,
+  "precision": 0.13043478260869565,
+  "recall": 0.6,
+  "f1": 0.21428571428571427,
+  "median_ttd_ms": 56,
+  "ttd_ms": [
+    13,
+    56,
+    8546
+  ],
+  "alerts": [
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5644844088812182
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5634718203892826
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5737418819951524
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5765247889971642
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5871153323670175
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5867328575744964
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5677490432758091
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5699453426681237
+    },
+    {
+      "timestamp_ms": 1621429227562,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5832768301421972
+    },
+    {
+      "timestamp_ms": 1621429233280,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5644290410049247
+    },
+    {
+      "timestamp_ms": 1621429233280,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5712893397441439
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5636599112502773
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5706369672431802
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6014602933139348
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5770114906357362
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5878472688405646
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.605354568589441
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6105587591108079
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6072041069678414
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6017804022895568
+    },
+    {
+      "timestamp_ms": 1621429251197,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5886175129144536
+    },
+    {
+      "timestamp_ms": 1621429251588,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5756361837117571
+    },
+    {
+      "timestamp_ms": 1621429257534,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5665131235122234
+    },
+    {
+      "timestamp_ms": 1621429257534,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5633720338949106
+    },
+    {
+      "timestamp_ms": 1621429258304,
+      "symbol": "UNKNOWN",
+      "posterior": 0.571259793847068
+    },
+    {
+      "timestamp_ms": 1621429283690,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5678614731657318
+    },
+    {
+      "timestamp_ms": 1621429285701,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5606417115526803
+    },
+    {
+      "timestamp_ms": 1621429285701,
+      "symbol": "UNKNOWN",
+      "posterior": 0.562221566895083
+    },
+    {
+      "timestamp_ms": 1621429285701,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5850507989818763
+    },
+    {
+      "timestamp_ms": 1621429291644,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5614412128259328
+    },
+    {
+      "timestamp_ms": 1621429291644,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6068598821218001
+    },
+    {
+      "timestamp_ms": 1621429291644,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6841344005465771
+    },
+    {
+      "timestamp_ms": 1621429291644,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6679843195645161
+    },
+    {
+      "timestamp_ms": 1621429291646,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6106932805794024
+    }
+  ]
+}

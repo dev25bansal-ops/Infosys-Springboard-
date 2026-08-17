@@ -1,0 +1,20 @@
+<!-- MLOPS-03: WinSW service wrapper for the Binance stream + Socket.io (port 3003).
+     Depends on fcw-sidecar (the TCN sidecar) — see README.md for ordering.
+     /health on port 3003 reports last-tick staleness (MLOPS-04 heartbeat). -->
+<service>
+  <id>fcw-stream</id>
+  <name>Flash Crash Watchdog - Stream Service</name>
+  <description>Binance WebSocket + Socket.io stream (mini-services/binance-stream) on port 3003</description>
+  <workingdirectory>D:\flash-crash-watchdog\flash-crash-watchdog-web\mini-services\binance-stream</workingdirectory>
+  <executable>npx.cmd</executable>
+  <arguments>tsx index.ts</arguments>
+  <log mode="roll-by-size">
+    <sizeThreshold>10240</sizeThreshold>
+    <keepFiles>8</keepFiles>
+  </log>
+  <onfailure action="restart" delay="5 sec"/>
+  <resetfailure>1 hour</resetfailure>
+  <stoptimeout>15 sec</stoptimeout>
+  <startmode>Automatic</startmode>
+  <depend>fcw-sidecar</depend>
+</service>

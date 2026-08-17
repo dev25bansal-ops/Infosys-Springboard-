@@ -1,0 +1,58 @@
+{
+  "total_ticks": 200000,
+  "alerts_fired": 8,
+  "true_positives": 3,
+  "false_positives": 4,
+  "false_negatives": 67,
+  "precision": 0.42857142857142855,
+  "recall": 0.04285714285714286,
+  "f1": 0.07792207792207792,
+  "median_ttd_ms": 11656,
+  "ttd_ms": [
+    11,
+    11656,
+    29745
+  ],
+  "alerts": [
+    {
+      "timestamp_ms": 1621429235590,
+      "symbol": "UNKNOWN",
+      "posterior": 0.500861817726349
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5088358449261351
+    },
+    {
+      "timestamp_ms": 1621429672886,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5015383092578316
+    },
+    {
+      "timestamp_ms": 1621429697478,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5442264682986394
+    },
+    {
+      "timestamp_ms": 1621429749586,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5029037586064008
+    },
+    {
+      "timestamp_ms": 1621429775710,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5904130565416644
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5054523841473519
+    },
+    {
+      "timestamp_ms": 1621429906392,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5035841959363816
+    }
+  ]
+}

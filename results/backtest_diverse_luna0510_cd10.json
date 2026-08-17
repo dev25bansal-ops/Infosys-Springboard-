@@ -1,0 +1,29 @@
+{
+  "total_ticks": 200000,
+  "alerts_fired": 3,
+  "true_positives": 0,
+  "false_positives": 3,
+  "false_negatives": 72,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "median_ttd_ms": 0.0,
+  "ttd_ms": [],
+  "alerts": [
+    {
+      "timestamp_ms": 1652221616877,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5076356380377466
+    },
+    {
+      "timestamp_ms": 1652222326186,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5301995130364537
+    },
+    {
+      "timestamp_ms": 1652222570571,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5021148669649697
+    }
+  ]
+}

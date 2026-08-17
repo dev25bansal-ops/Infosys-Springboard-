@@ -1,0 +1,18 @@
+<!-- MLOPS-03: WinSW service wrapper for the Next.js dashboard (port 3000). -->
+<service>
+  <id>fcw-dashboard</id>
+  <name>Flash Crash Watchdog - Dashboard</name>
+  <description>Next.js dashboard (port 3000)</description>
+  <workingdirectory>D:\flash-crash-watchdog\flash-crash-watchdog-web</workingdirectory>
+  <executable>npx.cmd</executable>
+  <arguments>next start -p 3000</arguments>
+  <log mode="roll-by-size">
+    <sizeThreshold>10240</sizeThreshold>
+    <keepFiles>8</keepFiles>
+  </log>
+  <onfailure action="restart" delay="5 sec"/>
+  <resetfailure>1 hour</resetfailure>
+  <stoptimeout>15 sec</stoptimeout>
+  <startmode>Automatic</startmode>
+  <depend>fcw-stream</depend>
+</service>

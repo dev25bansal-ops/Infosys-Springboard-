@@ -1,0 +1,2282 @@
+{
+  "total_ticks": 200000,
+  "alerts_fired": 451,
+  "true_positives": 12,
+  "false_positives": 133,
+  "false_negatives": 58,
+  "precision": 0.08275862068965517,
+  "recall": 0.17142857142857143,
+  "f1": 0.11162790697674418,
+  "median_ttd_ms": 2738.5,
+  "ttd_ms": [
+    148,
+    16287,
+    19494,
+    8836,
+    11,
+    12151,
+    18724,
+    3580,
+    15,
+    76,
+    1897,
+    0
+  ],
+  "alerts": [
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6859142986205297
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7114738162659741
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.715098590617282
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7252722236891754
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7017001457905353
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7033130197615536
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7060063263088604
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7104099569278005
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7537744989701958
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7401222757059756
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7389041721732441
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7319626852541931
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7159265311889702
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7287380969060872
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7230499926344661
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7053511499737146
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7282301367584548
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7394174064071974
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7057031611365431
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7114242626647441
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7012677868381416
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7033177101777467
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6996627536427759
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.720787589313066
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7264820985111243
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7479796811963115
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7504739449557718
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7602609303865813
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.750369315809412
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7522805522246638
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7498980355101241
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7383858153588025
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7384662833967158
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7318287355510266
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7366740758583846
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7601302736326931
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7376244979417202
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7293811451603981
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7294798076762651
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7524770059170652
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.796569749040652
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.787711174349361
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7855422977753433
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7699486079448319
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7531702479380736
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7456414829676039
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7486609058864397
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7430717391210012
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7594317792421522
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7730131329132038
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7576477327369443
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7635547768817009
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7444089990286676
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7352870165103418
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7226556564063146
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7578304573226985
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7635228766464104
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7692232251632295
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7716716774710028
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7725888146791356
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7643221495539597
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7625028113624138
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7534427150515245
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7570617095400588
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7684573257945927
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7591894695686822
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.757358720826972
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7558274757879553
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7451249926537401
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7462318447332646
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.746157116667537
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7444316877938566
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7591877367728019
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7786290092088768
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7617851450209903
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7441222283944067
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7399913685648731
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7475776284848284
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7425539419810187
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7415924183590784
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7411130173182363
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7554957409551393
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7633686924797278
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7638347591727748
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7537938392038267
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7650651611994372
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7661077657138753
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7701074257694216
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7619848624837267
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7639345734753231
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7487869409412071
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7654525892220704
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7294718767259244
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7314234999254677
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7279067410937257
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.75290519858468
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7291750122567127
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.746736844445837
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7457941148646596
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7550213917996862
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7463590666379302
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7527006228846994
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7416246275636741
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7666563101088083
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7551827333250062
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7483264967786476
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7468734088768506
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7469986815092595
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7397970671959417
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7480896210886397
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7523711756459999
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7549806587067335
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7553881375663316
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7573933927977987
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7462128694611792
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7456286053941459
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7254503507442033
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7184695068117858
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7062407681185037
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7043099649835534
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7039214416819664
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6991093496015447
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6910914607450601
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6980837604034027
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6795057938966762
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6767022015078318
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6748775315156009
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6756890848374804
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6803220485632818
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6753383220797168
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6722336643238931
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6812739405304798
+    },
+    {
+      "timestamp_ms": 1621429240095,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6758372010682033
+    },
+    {
+      "timestamp_ms": 1621429268302,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7435994709976455
+    },
+    {
+      "timestamp_ms": 1621429268302,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6973373272840525
+    },
+    {
+      "timestamp_ms": 1621429268465,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7290022231974014
+    },
+    {
+      "timestamp_ms": 1621429287953,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7570068102914772
+    },
+    {
+      "timestamp_ms": 1621429289799,
+      "symbol": "UNKNOWN",
+      "posterior": 0.741759996553852
+    },
+    {
+      "timestamp_ms": 1621429327539,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6972771030442233
+    },
+    {
+      "timestamp_ms": 1621429327547,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6905372063061117
+    },
+    {
+      "timestamp_ms": 1621429368301,
+      "symbol": "UNKNOWN",
+      "posterior": 0.684787266545723
+    },
+    {
+      "timestamp_ms": 1621429368301,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6804292883910731
+    },
+    {
+      "timestamp_ms": 1621429368301,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6766223977190506
+    },
+    {
+      "timestamp_ms": 1621429368301,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6733196549566803
+    },
+    {
+      "timestamp_ms": 1621429368301,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6922232296412296
+    },
+    {
+      "timestamp_ms": 1621429368301,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6907277398163978
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6780658475996948
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6757469534095955
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6725933816419551
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.674054922089688
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.674823000365944
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6718199651446813
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6889014585958573
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6766479060614333
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6849349890865738
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6817857280149908
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6892313133742783
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7063548982323521
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7042232752082576
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7103373687673727
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7178509891260927
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.723164456062247
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7366316895361091
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.736794435283611
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7453546908130458
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7586406554831376
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7634940665287973
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7751362309000889
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7800950738539975
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.768545829621114
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7571726437010171
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7659731368183497
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.769901304819643
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7881317198508782
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7617521609744076
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7663812520460426
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7626116821849585
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7627845018608443
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7760913913980011
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7806419584602053
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7852272543433446
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7882440498695703
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7981443192388439
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7895875024935158
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7950940535210453
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7933936962917282
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7989330099089162
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8009024647503692
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7930997296649687
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7942073833565578
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8058400030739413
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.808479321902759
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8125623527621076
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7889958463794569
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7834043636648216
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7903197122777433
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7781370585321575
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7810717530312409
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7835857265689241
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7777065910572307
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7887793011559856
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7926730147414424
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7900348783911917
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7816664467512703
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7857459806804271
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7904963194636438
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7919123363910338
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7957299022218188
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7981465751332057
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7906643588089017
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8001515446877507
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7944709125637105
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8086774453694516
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8163807190406176
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8089955771582327
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8044302162557707
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8049965221760769
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8055706090629225
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.807634363187935
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8071017966120805
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8095927359831445
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8120278256640373
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8088206577746141
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8133111796656316
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8134601630100992
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.814151226091595
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8175055836464701
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8188136672391496
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8186069696604814
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8194745045837531
+    },
+    {
+      "timestamp_ms": 1621429387059,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8304495303229891
+    },
+    {
+      "timestamp_ms": 1621429495638,
+      "symbol": "UNKNOWN",
+      "posterior": 0.693843059859113
+    },
+    {
+      "timestamp_ms": 1621429600917,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7078293964222707
+    },
+    {
+      "timestamp_ms": 1621429605599,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6741561612955449
+    },
+    {
+      "timestamp_ms": 1621429605605,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7108220517671106
+    },
+    {
+      "timestamp_ms": 1621429605605,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6766781706900551
+    },
+    {
+      "timestamp_ms": 1621429672770,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6758138674911073
+    },
+    {
+      "timestamp_ms": 1621429672770,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6864911877366937
+    },
+    {
+      "timestamp_ms": 1621429672771,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6958806356108589
+    },
+    {
+      "timestamp_ms": 1621429672789,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7692901209635028
+    },
+    {
+      "timestamp_ms": 1621429672886,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6836082727518815
+    },
+    {
+      "timestamp_ms": 1621429672886,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7136195918269441
+    },
+    {
+      "timestamp_ms": 1621429672886,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7270651749284335
+    },
+    {
+      "timestamp_ms": 1621429672886,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7803181097402925
+    },
+    {
+      "timestamp_ms": 1621429672886,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7175260539494416
+    },
+    {
+      "timestamp_ms": 1621429672900,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7183312577028143
+    },
+    {
+      "timestamp_ms": 1621429672922,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6888283501841858
+    },
+    {
+      "timestamp_ms": 1621429675867,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7989781402557334
+    },
+    {
+      "timestamp_ms": 1621429675867,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8240308632891029
+    },
+    {
+      "timestamp_ms": 1621429675870,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7426327276354922
+    },
+    {
+      "timestamp_ms": 1621429696983,
+      "symbol": "UNKNOWN",
+      "posterior": 0.676760232403536
+    },
+    {
+      "timestamp_ms": 1621429697759,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7893421626402902
+    },
+    {
+      "timestamp_ms": 1621429697760,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7365223627709119
+    },
+    {
+      "timestamp_ms": 1621429697774,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7359522585001782
+    },
+    {
+      "timestamp_ms": 1621429697774,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7530100165195746
+    },
+    {
+      "timestamp_ms": 1621429709484,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6915889978307905
+    },
+    {
+      "timestamp_ms": 1621429709537,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6812879321730596
+    },
+    {
+      "timestamp_ms": 1621429709564,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7253563765800486
+    },
+    {
+      "timestamp_ms": 1621429709578,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7608891867447627
+    },
+    {
+      "timestamp_ms": 1621429719495,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7021723168016137
+    },
+    {
+      "timestamp_ms": 1621429719573,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7076873829422295
+    },
+    {
+      "timestamp_ms": 1621429719573,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7043676539684743
+    },
+    {
+      "timestamp_ms": 1621429719817,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7906285787663474
+    },
+    {
+      "timestamp_ms": 1621429719817,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7719279299707924
+    },
+    {
+      "timestamp_ms": 1621429720027,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7966264976412099
+    },
+    {
+      "timestamp_ms": 1621429720029,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7919510546547466
+    },
+    {
+      "timestamp_ms": 1621429720034,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7087170221713492
+    },
+    {
+      "timestamp_ms": 1621429720206,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7751037757576925
+    },
+    {
+      "timestamp_ms": 1621429720227,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7529982910491374
+    },
+    {
+      "timestamp_ms": 1621429775751,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7358229348658085
+    },
+    {
+      "timestamp_ms": 1621429775762,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8109676838594873
+    },
+    {
+      "timestamp_ms": 1621429775767,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7324657310143522
+    },
+    {
+      "timestamp_ms": 1621429775778,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7366390133502672
+    },
+    {
+      "timestamp_ms": 1621429775935,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8014695939378197
+    },
+    {
+      "timestamp_ms": 1621429775935,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7592744997200703
+    },
+    {
+      "timestamp_ms": 1621429775935,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7625034856122684
+    },
+    {
+      "timestamp_ms": 1621429775952,
+      "symbol": "UNKNOWN",
+      "posterior": 0.769421876477767
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6699617617524257
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6922044770034638
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6941709017142611
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7012374760768515
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6951796352062136
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.700772598908978
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.698361360261258
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6987111974544928
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7006230891775408
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.704364975144976
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7029486788193076
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7092241421626108
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7106956887607356
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7246867430855586
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7201902105289177
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7275520636824936
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.730744973874331
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7338905348431574
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7282664966043793
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7313556108421894
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7278145896040891
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.729265742707278
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7304337566390955
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7311082054457871
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7306744840655255
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7329890392233497
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7314767166825833
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7323202176848002
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7299259800483693
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7341133240861722
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7680841623322302
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7740429469003308
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.787836383753181
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.797333820894574
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8041469571005391
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8064971222293279
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8051174389963451
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8063553783456856
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8071987841787043
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8084219408122577
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.809930854338283
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8122744046184874
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8131858557954648
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8161065337854889
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8229930104428069
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.825633083317417
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8275119054723836
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8321187026095817
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8408080212595399
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8446035966034893
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.846872956637563
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8527196831473979
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8537148373984988
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8561970965915162
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8594375050739376
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8578277870654217
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8587242035805425
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8568733328155435
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8560722591435226
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8540098674312778
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8525947743613059
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8533167009798847
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8524984950042185
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8694003598416536
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8724097232860971
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8715086546228441
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8719700769400692
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8722486489453417
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8871076157534125
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.892201712325044
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8966555251785973
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.9060612511162596
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.904543126124257
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.9021502450213235
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.9006980388091094
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8991429238612315
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8990146782986655
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8978959272812128
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8971561830893948
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8967775132892092
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8963321933811184
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8949209603724052
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8930501767030012
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8918006321068112
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8903599328395556
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8884202873141507
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8882029099399138
+    },
+    {
+      "timestamp_ms": 1621429814343,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8859641351375768
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7257178565173095
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7286177340457803
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.728886237288605
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.728189755174114
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7244920147599125
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7246136505462374
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.727350002394002
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7263190884519191
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7325754529797949
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7329971447787216
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7330119376097595
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7322883343789636
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7286044095787738
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7292862548014665
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7288646003176252
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7280642264932841
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7240776940012102
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7280754063060406
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7270563605922825
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.720502094917578
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7120961279901742
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6995135400485506
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6910248761996659
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6816244626655802
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6792515409383558
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6769164536512969
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6763742859492455
+    },
+    {
+      "timestamp_ms": 1621429824100,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6737319806210411
+    },
+    {
+      "timestamp_ms": 1621429828063,
+      "symbol": "UNKNOWN",
+      "posterior": 0.806933242775492
+    },
+    {
+      "timestamp_ms": 1621429845140,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7224024942508659
+    },
+    {
+      "timestamp_ms": 1621429845140,
+      "symbol": "UNKNOWN",
+      "posterior": 0.721204096405423
+    },
+    {
+      "timestamp_ms": 1621429845140,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7248682826857745
+    },
+    {
+      "timestamp_ms": 1621429845140,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7221760744216937
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7566242816725877
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.748122198958445
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7870378935077597
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7531602509402324
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7874196173323214
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7691858590750607
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7623691014508568
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7166581142519005
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7630706401625462
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7865226049803882
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.805892006229916
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7780221400836308
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8207893918835383
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8069269113949625
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8059922472154615
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7758553952838199
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8105410330001004
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.80291044591196
+    },
+    {
+      "timestamp_ms": 1621429853081,
+      "symbol": "UNKNOWN",
+      "posterior": 0.828321554744278
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6796292120272509
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6906277808766303
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7140885293630637
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7089486952110454
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7567870399360583
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7446754786772743
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7330791187031943
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7015436506096525
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7380860748263417
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7212610444578537
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7379252906877342
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7361504024871862
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7557034654166115
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7446583804660162
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7410560331153567
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.690240577635595
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7117519800050834
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7202586400441484
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7226476765953765
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7037135263555878
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.7167830841081727
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6849587856113262
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6791353424689756
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6843523238029697
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6918316033467212
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6870230438864466
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.674819075359223
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6774769304432083
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6773149469408601
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6796307152673088
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6789800364918154
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.691700802155699
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6934750323060798
+    },
+    {
+      "timestamp_ms": 1621429872401,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6874789607564606
+    }
+  ]
+}

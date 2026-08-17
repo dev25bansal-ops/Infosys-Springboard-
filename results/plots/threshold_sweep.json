@@ -1,0 +1,101 @@
+[
+  {
+    "threshold": 0.1,
+    "alerts": 72,
+    "true_positives": 38,
+    "false_positives": 34,
+    "false_negatives": 205,
+    "precision": 0.5277777777777778,
+    "recall": 0.15637860082304528,
+    "f1": 0.24126984126984127,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.2,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.3,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.4,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.5,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.6,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.7,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.8,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  },
+  {
+    "threshold": 0.9,
+    "alerts": 71,
+    "true_positives": 38,
+    "false_positives": 33,
+    "false_negatives": 205,
+    "precision": 0.5352112676056338,
+    "recall": 0.15637860082304528,
+    "f1": 0.24203821656050956,
+    "median_ttd_ms": 2074.5
+  }
+]

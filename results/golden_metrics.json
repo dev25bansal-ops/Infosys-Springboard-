@@ -1,0 +1,19 @@
+{
+  "data": "D:\\flash-crash-watchdog\\data\\parquet\\BTCUSDT_2024-01-16.parquet",
+  "max_ticks": 20000,
+  "config": "D:\\flash-crash-watchdog\\configs\\operating.yml",
+  "model": "stage3_tcn_prod.pt",
+  "metrics": {
+    "ticks": 20000,
+    "crashes": 0,
+    "alerts": 0,
+    "alerts_per_hour": 0.0,
+    "true_positives": 0,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "median_ttd_ms": 0.0
+  }
+}
