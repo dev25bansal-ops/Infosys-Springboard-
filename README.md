@@ -235,7 +235,7 @@ This is a **research prototype**, not production trading software.
 
 ## License
 
-Apache 2.0 — see [`LICENSE`](LICENSE).
+MIT — see [`LICENSE`](LICENSE).
 
 ## Citation
 
