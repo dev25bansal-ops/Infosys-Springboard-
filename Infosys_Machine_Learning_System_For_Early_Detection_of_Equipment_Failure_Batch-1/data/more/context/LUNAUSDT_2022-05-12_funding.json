@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "LUNAUSDT",
+  "fundingTime": 1652313600014,
+  "fundingRate": "-0.00650993",
+  "markPrice": "",
+  "rateType": "Regular"
+ },
+ {
+  "symbol": "LUNAUSDT",
+  "fundingTime": 1652342400000,
+  "fundingRate": "-0.00750000",
+  "markPrice": "",
+  "rateType": "Regular"
+ },
+ {
+  "symbol": "LUNAUSDT",
+  "fundingTime": 1652371200007,
+  "fundingRate": "-0.00999975",
+  "markPrice": "",
+  "rateType": "Regular"
+ }
+]

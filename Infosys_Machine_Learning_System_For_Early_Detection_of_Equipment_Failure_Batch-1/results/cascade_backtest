@@ -1,0 +1,46 @@
+{
+  "alerts_fired": 2,
+  "true_positives": 1,
+  "false_positives": 1,
+  "false_negatives": 242,
+  "precision": 0.5,
+  "recall": 0.00411522633744856,
+  "f1": 0.00816326530612245,
+  "median_ttd_ms": 2301.0,
+  "ttd_ms": [
+    2301
+  ],
+  "cascade_stats": {
+    "total_ticks": 500000,
+    "stage1_passed": 9084,
+    "stage2_passed": 8455,
+    "stage3_passed": 2,
+    "alerts_fired": 2
+  },
+  "per_crash_breakdown": [
+    {
+      "alert_timestamp_ms": 1621430488278,
+      "crash_start_ms": 1621430482808,
+      "crash_end_ms": 1621430490579,
+      "ttd_ms": 2301,
+      "ttd_seconds": 2.301,
+      "crash_drop_pct": 2.0,
+      "peak_price": 34736.3,
+      "trough_price": 34041.27,
+      "alert_price": 34219.19,
+      "tcn_score": 1.0,
+      "s1_score": 1.0,
+      "s2_score": 0.5504,
+      "features": {
+        "obi_10": 0.0,
+        "bid_depth_10": 1.0,
+        "ask_depth_10": 1.0,
+        "spread_bps": 2.0,
+        "vpin": 0.486482,
+        "realized_vol_1s": 0.005575,
+        "variance_ratio": 0.153093,
+        "trade_arrival_rate": 23
+      }
+    }
+  ]
+}

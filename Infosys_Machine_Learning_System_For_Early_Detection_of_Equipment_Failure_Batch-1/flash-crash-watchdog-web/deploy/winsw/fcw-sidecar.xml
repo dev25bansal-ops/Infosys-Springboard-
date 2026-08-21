@@ -1,0 +1,21 @@
+<!-- MLOPS-03: WinSW service wrapper for the TCN inference sidecar (port 8001).
+     Install with the WinSW exe:  winsw.exe install fcw-sidecar
+     Uninstall:                    winsw.exe uninstall fcw-sidecar
+     The launcher in START-WINDOWS.ps1 stays for dev; these are for always-on ops. -->
+<service>
+  <id>fcw-sidecar</id>
+  <name>Flash Crash Watchdog - TCN Sidecar</name>
+  <description>FastAPI inference sidecar (ml-inference/server.py) on port 8001</description>
+  <workingdirectory>D:\flash-crash-watchdog\flash-crash-watchdog-web\ml-inference</workingdirectory>
+  <executable>D:\flash-crash-watchdog\flash-crash-watchdog-web\ml-inference\venv\Scripts\python.exe</executable>
+  <arguments>-m uvicorn server:app --port 8001</arguments>
+  <log mode="roll-by-size">
+    <sizeThreshold>10240</sizeThreshold>
+    <keepFiles>8</keepFiles>
+  </log>
+  <onfailure action="restart" delay="5 sec"/>
+  <resetfailure>1 hour</resetfailure>
+  <stoptimeout>15 sec</stoptimeout>
+  <startmode>Automatic</startmode>
+  <delayedAutoStart>true</delayedAutoStart>
+</service>

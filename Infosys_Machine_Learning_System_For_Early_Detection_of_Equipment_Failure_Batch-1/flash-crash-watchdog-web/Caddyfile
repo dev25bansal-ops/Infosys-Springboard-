@@ -1,0 +1,28 @@
+# SEC-3: the gateway used to reverse_proxy localhost:{query.XTransformPort} for
+# ANY port — an open proxy that let external clients reach any localhost service
+# on this host. The transform is now restricted to an ALLOWLIST of upstreams the
+# dashboard actually needs (Next :3000, socket.io stream :3003). Any other port
+# falls through to the default :3000 upstream instead of being proxied.
+:81 {
+	@transform_port_allowed {
+		query XTransformPort=3000 XTransformPort=3003
+	}
+
+	handle @transform_port_allowed {
+		reverse_proxy localhost:{query.XTransformPort} {
+			header_up Host {host}
+			header_up X-Forwarded-For {remote_host}
+			header_up X-Forwarded-Proto {scheme}
+			header_up X-Real-IP {remote_host}
+		}
+	}
+
+	handle {
+		reverse_proxy localhost:3000 {
+			header_up Host {host}
+			header_up X-Forwarded-For {remote_host}
+			header_up X-Forwarded-Proto {scheme}
+			header_up X-Real-IP {remote_host}
+		}
+	}
+}

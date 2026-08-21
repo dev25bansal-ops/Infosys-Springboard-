@@ -1,0 +1,163 @@
+{
+  "operating_point": {
+    "model": "stage3_tcn_v2.pt",
+    "threshold": 0.5,
+    "gate_bps": 2.0,
+    "cooldown_ms": 10000,
+    "stage5_threshold": 0.5
+  },
+  "config": "configs/operating.yml",
+  "max_ticks": 500000,
+  "days": [
+    {
+      "ticks": 65000,
+      "crashes": 4,
+      "exposure_hours": 0.048,
+      "alerts": 15,
+      "alerts_per_hour": 309.4999,
+      "recall_ci": [
+        0.301,
+        0.954
+      ],
+      "lead_time_p50_ms": 18659,
+      "lead_time_p95_ms": 120391,
+      "alerts_fired": 15,
+      "true_positives": 3,
+      "false_positives": 12,
+      "false_negatives": 1,
+      "precision": 0.2,
+      "recall": 0.75,
+      "f1": 0.3158,
+      "median_ttd_ms": 18659,
+      "alert_rate_pct": 0.0,
+      "symbol": "BTCUSDT",
+      "date": "2021-05-19",
+      "kind": "crash"
+    },
+    {
+      "ticks": 65000,
+      "crashes": 18,
+      "exposure_hours": 0.172,
+      "alerts": 35,
+      "alerts_per_hour": 203.3337,
+      "recall_ci": [
+        0.491,
+        0.875
+      ],
+      "lead_time_p50_ms": 11298,
+      "lead_time_p95_ms": 39411,
+      "alerts_fired": 35,
+      "true_positives": 13,
+      "false_positives": 22,
+      "false_negatives": 5,
+      "precision": 0.3714,
+      "recall": 0.7222,
+      "f1": 0.4906,
+      "median_ttd_ms": 11298,
+      "alert_rate_pct": 0.0,
+      "symbol": "LUNAUSDT",
+      "date": "2022-05-10",
+      "kind": "crash"
+    },
+    {
+      "ticks": 33000,
+      "crashes": 11,
+      "exposure_hours": 0.086,
+      "alerts": 20,
+      "alerts_per_hour": 233.654,
+      "recall_ci": [
+        0.434,
+        0.903
+      ],
+      "lead_time_p50_ms": 10431,
+      "lead_time_p95_ms": 38854,
+      "alerts_fired": 20,
+      "true_positives": 8,
+      "false_positives": 12,
+      "false_negatives": 3,
+      "precision": 0.4,
+      "recall": 0.7273,
+      "f1": 0.5161,
+      "median_ttd_ms": 10306.0,
+      "alert_rate_pct": 0.0,
+      "symbol": "LUNAUSDT",
+      "date": "2022-05-09",
+      "kind": "crash"
+    },
+    {
+      "ticks": 64000,
+      "crashes": 0,
+      "exposure_hours": 0.369,
+      "alerts": 14,
+      "alerts_per_hour": 37.9211,
+      "recall_ci": [
+        0.0,
+        0.0
+      ],
+      "lead_time_p50_ms": 0.0,
+      "lead_time_p95_ms": 0.0,
+      "alerts_fired": 14,
+      "true_positives": 0,
+      "false_positives": 14,
+      "false_negatives": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "median_ttd_ms": 0.0,
+      "alert_rate_pct": 0.0,
+      "symbol": "ETHUSDT",
+      "date": "2022-06-13",
+      "kind": "crash"
+    },
+    {
+      "ticks": 58000,
+      "crashes": 18,
+      "exposure_hours": 0.019,
+      "alerts": 6,
+      "alerts_per_hour": 316.4882,
+      "recall_ci": [
+        0.125,
+        0.509
+      ],
+      "lead_time_p50_ms": 10436,
+      "lead_time_p95_ms": 28517,
+      "alerts_fired": 6,
+      "true_positives": 5,
+      "false_positives": 1,
+      "false_negatives": 13,
+      "precision": 0.8333,
+      "recall": 0.2778,
+      "f1": 0.4167,
+      "median_ttd_ms": 10436,
+      "alert_rate_pct": 0.0,
+      "symbol": "ETHUSDT",
+      "date": "2024-08-05",
+      "kind": "crash"
+    },
+    {
+      "ticks": 40000,
+      "crashes": 0,
+      "exposure_hours": 0.863,
+      "alerts": 0,
+      "alerts_per_hour": 0.0,
+      "recall_ci": [
+        0.0,
+        0.0
+      ],
+      "lead_time_p50_ms": 0.0,
+      "lead_time_p95_ms": 0.0,
+      "alerts_fired": 0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "median_ttd_ms": 0.0,
+      "alert_rate_pct": 0.0,
+      "symbol": "BTCUSDT",
+      "date": "2024-01-16",
+      "kind": "normal"
+    }
+  ]
+}

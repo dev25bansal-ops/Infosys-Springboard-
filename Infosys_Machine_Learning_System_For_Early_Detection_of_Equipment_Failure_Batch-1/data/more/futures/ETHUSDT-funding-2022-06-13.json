@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1655078400009,
+    "fundingRate": "0.00001579",
+    "markPrice": ""
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1655107200000,
+    "fundingRate": "-0.00000219",
+    "markPrice": ""
+  },
+  {
+    "symbol": "ETHUSDT",
+    "fundingTime": 1655136000007,
+    "fundingRate": "-0.00005144",
+    "markPrice": ""
+  }
+]

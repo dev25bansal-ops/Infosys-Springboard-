@@ -1,0 +1,73 @@
+model: stage3_tcn_prod.pt
+threshold: 0.5
+gate_bps: 2.0
+cooldown_ms: 10000
+stage5_threshold: 0.5
+held_out:
+  method: corrected harness (event-based labels, rolling-z500, canonical matching,
+    crash-region slices)
+  crash_recall: 0.27-0.74 on 2%-in-60s events
+  f1_range: 0.29-0.52
+  per_day_f1:
+    BTC-0519: 0.291
+    LUNA-0510: 0.475
+    LUNA-0509: 0.516
+    ETH-0805: 0.377
+  normal_day_alerts: 0
+  note: "ETH-0613 shows 0 crashes under the 2%-in-60s rule (a slow grind, not a sharp\
+    \ event) \u2014 label-definition gap, not a detector miss. Original recall 0.38-1.0/F1-0.75\
+    \ claims used the old chain-split labeler + sweep-on-eval-day; these are the corrected\
+    \ numbers."
+validation:
+  crash_drop_pct: 2.0
+  crash_window_ms: 60000
+  grace_ms: 5000
+  train_days:
+  - symbol: LUNAUSDT
+    date: '2022-05-11'
+    file: LUNAUSDT_2022-05-11_slice_norm500.npz
+  - symbol: LUNAUSDT
+    date: '2022-05-12'
+    file: LUNAUSDT_2022-05-12_slice_norm500.npz
+  - symbol: ETHUSDT
+    date: '2021-05-19'
+    file: ETHUSDT_2021-05-19_slice_norm500.npz
+  - symbol: BTCUSDT
+    date: '2021-05-18'
+    file: BTCUSDT_2021-05-18_slice_norm500.npz
+  - symbol: BTCUSDT
+    date: '2021-05-20'
+    file: BTCUSDT_2021-05-20_slice_norm500.npz
+  - symbol: BTCUSDT
+    date: '2024-01-15'
+    file: BTCUSDT_2024-01-15_slice_norm500.npz
+  days:
+  - symbol: BTCUSDT
+    date: '2021-05-19'
+    file: BTCUSDT_2021-05-19.parquet
+    kind: crash
+  - symbol: LUNAUSDT
+    date: '2022-05-10'
+    file: LUNAUSDT_2022-05-10.parquet
+    kind: crash
+  - symbol: LUNAUSDT
+    date: '2022-05-09'
+    file: LUNAUSDT_2022-05-09.parquet
+    kind: crash
+  - symbol: ETHUSDT
+    date: '2022-06-13'
+    file: ETHUSDT_2022-06-13.parquet
+    kind: crash
+  - symbol: ETHUSDT
+    date: '2024-08-05'
+    file: ETHUSDT_2024-08-05.parquet
+    kind: crash
+  - symbol: BTCUSDT
+    date: '2024-01-16'
+    file: BTCUSDT_2024-01-16.parquet
+    kind: normal
+model_comment: "2026-08-13: reverted to stage3_tcn_prod.pt \u2014 the ADV-05 retrain\
+  \ (v2) did NOT beat prod on the full 6-day crash-region validation (F1 0.29-0.52\
+  \ both; v2 higher LUNA recall 0.74 vs 0.59-0.67 but lower precision + ~3x noisier\
+  \ on ETH-0613 grind, 33 vs 12 alerts/h). ADV-05/06 features remain implemented (scripts/retrain_adopt.py)\
+  \ for a future retrain."

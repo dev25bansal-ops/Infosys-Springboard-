@@ -1,0 +1,74 @@
+{
+  "total_ticks": 100000,
+  "alerts_fired": 11,
+  "true_positives": 4,
+  "false_positives": 5,
+  "false_negatives": 5,
+  "precision": 0.4444444444444444,
+  "recall": 0.4444444444444444,
+  "f1": 0.4444444444444444,
+  "median_ttd_ms": 18328.0,
+  "ttd_ms": [
+    3,
+    18994,
+    17662,
+    41019
+  ],
+  "alerts": [
+    {
+      "timestamp_ms": 1621429426972,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6636444943061168
+    },
+    {
+      "timestamp_ms": 1621429467239,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5022508201419142
+    },
+    {
+      "timestamp_ms": 1621429494231,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5139395554636497
+    },
+    {
+      "timestamp_ms": 1621429516970,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6025475121318393
+    },
+    {
+      "timestamp_ms": 1621429666430,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5066961159584404
+    },
+    {
+      "timestamp_ms": 1621429677311,
+      "symbol": "UNKNOWN",
+      "posterior": 0.8086835587968678
+    },
+    {
+      "timestamp_ms": 1621429691472,
+      "symbol": "UNKNOWN",
+      "posterior": 0.6243931072739378
+    },
+    {
+      "timestamp_ms": 1621429713051,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5054469730452107
+    },
+    {
+      "timestamp_ms": 1621429738312,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5981991035964801
+    },
+    {
+      "timestamp_ms": 1621429748382,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5468110012933804
+    },
+    {
+      "timestamp_ms": 1621429767624,
+      "symbol": "UNKNOWN",
+      "posterior": 0.5089910566735967
+    }
+  ]
+}

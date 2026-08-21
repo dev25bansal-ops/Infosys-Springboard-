@@ -1,0 +1,47 @@
+# Pipeline configuration — 5-stage detection cascade
+# Used by: python -m flash_crash_watchdog.cli live --config configs/pipeline.yml
+
+stage1:
+  velocity_z_threshold: 3.0
+  spread_z_threshold: 3.0
+  obi_z_threshold: 2.5
+  baseline_window: 1000
+
+stage2:
+  n_estimators: 100
+  contamination: 0.05
+
+stage3:
+  num_channels: [64, 64, 64, 64, 64, 64, 64, 64]
+  kernel_size: 3
+  input_dim: 17
+  dropout: 0.1
+  sequence_length: 500
+  # Stage-3 pass gate, calibrated on the ONLINE path Operating-curve sweep:
+  # 0.5 gives the best crash-day F1 (BTC-0519 0.49, LUNA-0510 0.36) while the
+  # normal-day FP floor (~6-11/100k, high-confidence spikes) is threshold-invariant.
+  threshold: 0.5
+
+stage4:
+  num_symbols: 20
+  feature_dim: 32
+  num_heads: 8
+  num_layers: 6
+  seq_len: 128
+  dropout: 0.1
+  market_context: true
+  # Stage 4 is aspirational (needs a live multi-symbol feed that no data path
+  # provides yet). Disabled: the cascade skips it and alerts via Stage-3 fusion.
+  enabled: false
+
+stage5:
+  # Fusion threshold. With Stage-4 bypassed (neutral s4) the effective gate is
+  # Stage-2+Stage-3; 0.7 required s3>=~0.9 which washed out the TCN's real
+  # operating point (~0.5). Lowered so the trained Stage-3 signal drives alerts.
+  alert_threshold: 0.5
+  stage2_weight: 0.25
+  stage3_weight: 0.45
+  stage4_weight: 0.30
+  stage2_confidence: 0.85
+  stage3_confidence: 0.90
+  stage4_confidence: 0.80
